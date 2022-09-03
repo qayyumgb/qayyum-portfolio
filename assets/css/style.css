@@ -1,33 +1,5 @@
 @charset "utf-8";
 /*======================================
- [ -Main Stylesheet-
-  Theme: Trion
-  Version: 1.1
-  Last change: 04/12/2021 ]
-  	+++Fonts +++
-	++++General Styles++++
-	++++Typography ++++
-	++++Page preload ++++
-	++++Content Styles ++++
-	++++Item hover ++++
-	++++Header ++++
-	++++Navigation ++++
-	++++Footer ++++
-	++++Section+++++
-	++++Button +++++
-	++++Home ++++
-	++++Team ++++
-	++++Resume++++
-	++++Services ++++
-	++++Skills ++++
-	++++Clients ++++
-	++++Video++++
-	++++Porfolio++++
-	++++Blog ++++
-	++++Share++++
-	++++Cotact++++
-	++++responsive++++
-*/
 /*-------------Import fonts ---------------------------------------*/
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
 
