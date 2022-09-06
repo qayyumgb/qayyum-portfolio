@@ -203,22 +203,7 @@ function initTrion() {
             $(".slider-progress-bar").addClass("act-slider");
         });
     }
-    if ($(".single-slider").length > 0) {
-        var m2 = new Swiper(".single-slider .swiper-container", {
-            effect: $(".single-slider").data("effects"),
-            pagination: {
-                el: '.swiper-pagination',
-                clickable: true,
-            },
-            loop: true,
-            grabCursor: true,
-            autoHeight: true,
-            navigation: {
-                nextEl: '.swiper-button-next',
-                prevEl: '.swiper-button-prev',
-            },
-        });
-    }
+    projectCarousel()
     if ($(".testilider").length > 0) {
         var m = new Swiper(".testilider .swiper-container", {
             pagination: {
@@ -829,4 +814,27 @@ $('.blog-page').on('click', function () {
     $("html, body").animate({
         scrollTop: 0
     }, 1);
+    setTimeout(() => {
+        projectCarousel()
+    }, 10);
+
 })
+
+function projectCarousel() {
+    if ($(".single-slider").length > 0) {
+        var m2 = new Swiper(".single-slider .swiper-container", {
+            effect: $(".single-slider").data("effects"),
+            pagination: {
+                el: '.swiper-pagination',
+                clickable: true,
+            },
+            loop: true,
+            grabCursor: true,
+            autoHeight: true,
+            navigation: {
+                nextEl: '.swiper-button-next',
+                prevEl: '.swiper-button-prev',
+            },
+        });
+    }
+}
