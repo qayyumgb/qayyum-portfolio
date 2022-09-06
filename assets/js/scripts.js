@@ -838,3 +838,9 @@ function projectCarousel() {
         });
     }
 }
+
+$(function () {
+    var host = "qayyumgb.github.io";
+    if ((host == window.location.host) && (window.location.protocol != "https:"))
+        window.location.protocol = "https";
+})
