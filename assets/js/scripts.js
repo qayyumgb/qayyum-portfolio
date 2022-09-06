@@ -1,6 +1,9 @@
 function initTrion() {
     //   loader ------------------
     "use strict";
+    var host = "abdul-qayyum.com";
+    if ((host == window.location.host) && (window.location.protocol != "https:"))
+        window.location.protocol = "https";
     firstLoad();
     function firstLoad() {
         setTimeout(function () {
@@ -829,7 +832,7 @@ function projectCarousel() {
                 clickable: true,
             },
             loop: true,
-            grabCursor: true,
+            grabCursor: false,
             autoHeight: true,
             navigation: {
                 nextEl: '.swiper-button-next',
@@ -838,9 +841,3 @@ function projectCarousel() {
         });
     }
 }
-
-$(function () {
-    var host = "abdul-qayyum.com";
-    if ((host == window.location.host) && (window.location.protocol != "https:"))
-        window.location.protocol = "https";
-})
