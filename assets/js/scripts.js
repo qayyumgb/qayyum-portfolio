@@ -841,7 +841,7 @@ function projectCarousel() {
 
 $(function () {
     debugger
-    var host = "qayyumgb.github.io";
+    var host = "abdul-qayyum.com";
     if ((host == window.location.host) && (window.location.protocol != "https:"))
         window.location.protocol = "https";
 })
