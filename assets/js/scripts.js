@@ -817,9 +817,7 @@ $('.blog-page').on('click', function () {
     $("html, body").animate({
         scrollTop: 0
     }, 1);
-    setTimeout(() => {
-        projectCarousel()
-    }, 10);
+
 
 })
 
@@ -834,6 +832,9 @@ function projectCarousel() {
             loop: true,
             grabCursor: false,
             autoHeight: true,
+            observer: true,
+            observeParents: true,
+
             navigation: {
                 nextEl: '.swiper-button-next',
                 prevEl: '.swiper-button-prev',
