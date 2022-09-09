@@ -815,7 +815,8 @@ document.addEventListener('gesturestart', function (e) {
 
 $('.blog-page').on('click', function () {
     debugger
-    $("html, body").scrollTop(0)
+    $("html").scrollTop(0)
+    $("body").scrollTop(0)
 
 
 })
