@@ -814,9 +814,8 @@ document.addEventListener('gesturestart', function (e) {
 });
 
 $('.blog-page').on('click', function () {
-    $("html, body").animate({
-        scrollTop: 0
-    }, 1);
+    debugger
+    $("html, body").scrollTop(0)
 
 
 })
