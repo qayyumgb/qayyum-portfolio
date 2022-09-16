@@ -339,7 +339,7 @@
                                         <!-- contact form -->
                                         <div id="contact-form">
                                             <!-- <div id="message"></div> -->
-                                            <form method="post" name="form" onsubmit="onClickSubmitMail()"
+                                            <form method="POST" name="form" onsubmit="onClickSubmitMail()"
                                                 id="contactform">
                                                 <div class="input-wrap"><i class="fas fa-user-plus"></i><input
                                                         name="name" type="text" id="name" class="inputForm2"
@@ -355,18 +355,18 @@
                                             <script>
                                                 function onClickSubmitMail() {
                                                     debugger
-                                                    event.preventDefault()
-                                                    // var name = $('#name').val();
-                                                    // var email = $('#email').val();
-                                                    // var msg = $('#message').val();
+
+                                                    var name = $('#name').val();
+                                                    var email = $('#email').val();
+                                                    var msg = $('#message').val();
                                                     $.ajax({
-                                                        url: 'mail_handler.php',
-                                                        type: 'post',
-                                                        // data: {
-                                                        //     'name': name,
-                                                        //     'email': email,
-                                                        //     'message': msg
-                                                        // },
+                                                        type: "POST",
+                                                        url: "mail_handler.php",
+                                                        data: {
+                                                            'name': name,
+                                                            'email': email,
+                                                            'message': msg
+                                                        },
                                                         success: function (data) {
                                                             if (data) {
                                                                 $('#successMsg').removeClass('d-none');
@@ -374,7 +374,6 @@
                                                                     $('#successMsg').addClass('d-none');
                                                                 }, 1500);
 
-                                                                $('#contactForm').find('.form-control').val('')
                                                             }
                                                             else {
                                                                 $('#errorMsg').removeClass('d-none');
@@ -384,6 +383,7 @@
                                                             }
                                                         }
                                                     });
+                                                    event.preventDefault()
                                                 }
                                             </script>
                                         </div>
