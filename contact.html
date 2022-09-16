@@ -356,16 +356,16 @@
                                                 function onClickSubmitMail() {
                                                     debugger
 
-                                                    var name = $('#name').val();
-                                                    var email = $('#email').val();
-                                                    var msg = $('#message').val();
+                                                    // var name = $('#name').val();
+                                                    // var email = $('#email').val();
+                                                    // var msg = $('#message').val();
                                                     $.ajax({
                                                         url: "/mail_handler.php",
                                                         type: 'post',
                                                         data: {
-                                                            'name': name,
-                                                            'email': email,
-                                                            'message': msg
+                                                            'name': 'qayyum',
+                                                            'email': 'check@gmail.com',
+                                                            'message': 'msg'
                                                         },
                                                         success: function (data) {
                                                             if (data) {
