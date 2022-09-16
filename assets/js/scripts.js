@@ -830,35 +830,3 @@ function projectCarousel() {
 //         filterItems.removeClass('hidden');
 //     }
 // });
-function onClickSubmitMail() {
-    debugger
-    event.preventDefault()
-    var name = $('#name').val();
-    var email = $('#email').val();
-    var msg = $('#message').val();
-    $.ajax({
-        url: 'mail_handler.php',
-        type: 'post',
-        data: {
-            'name': name,
-            'email': email,
-            'message': msg
-        },
-        success: function (data) {
-            if (data) {
-                $('#successMsg').removeClass('d-none');
-                setTimeout(() => {
-                    $('#successMsg').addClass('d-none');
-                }, 1500);
-
-                $('#contactForm').find('.form-control').val('')
-            }
-            else {
-                $('#errorMsg').removeClass('d-none');
-                setTimeout(() => {
-                    $('#errorMsg').addClass('d-none');
-                }, 1500);
-            }
-        }
-    });
-}

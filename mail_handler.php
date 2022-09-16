@@ -30,4 +30,4 @@ $message = "
 </html>
 ";
 
-mail($to,$subject,$message,$headers);
+mail($to, $subject, $message, $headers);
