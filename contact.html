@@ -362,6 +362,7 @@
                                                     $.ajax({
                                                         type: "POST",
                                                         url: "mail_handler.php",
+                                                        crossDomain: true,
                                                         data: {
                                                             'name': name,
                                                             'email': email,
