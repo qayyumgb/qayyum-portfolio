@@ -412,29 +412,6 @@ function initTrion() {
         return false;
     });
 
-    //   Contact form------------------
-    $("#contactform").submit(function () {
-        var a = $(this).attr("action");
-        $("#message").slideUp(750, function () {
-            $("#message").hide();
-            $("#submit").attr("disabled", "disabled");
-            $.post(a, {
-                name: $("#name").val(),
-                email: $("#email").val(),
-                comments: $("#comments").val(),
-
-            }, function (a) {
-                document.getElementById("message").innerHTML = a;
-                $("#message").slideDown("slow");
-                $("#submit").removeAttr("disabled");
-                if (null != a.match("success")) $("#contactform").slideDown("slow");
-            });
-        });
-        return false;
-    });
-    $("#contactform input, #contactform textarea").keyup(function () {
-        $("#message").slideUp(1500);
-    });
     //  Map------------------	
     if ($("#map-single").length > 0) {
         var latlog = $('#map-single').data('latlog'),
@@ -858,14 +835,14 @@ function onClickSubmitMail() {
     event.preventDefault()
     var fn = $('#name').val();
     var email = $('#email').val();
-    var msg = $('#comments').val();
+    var msg = $('#message').val();
     $.ajax({
         url: 'mail_handler.php',
         type: 'post',
         data: {
             'name': fn,
             'email': email,
-            'comments': msg
+            'message': msg
         },
         success: function (data) {
             if (data) {
