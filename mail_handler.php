@@ -16,7 +16,7 @@
 			<meta charset="UTF-8">
 			<meta http-equiv="X-UA-Compatible" content="IE=edge">
 			<meta name="viewport" content="width=device-width, initial-scale=1.0">
-			<title>Saufik</title>
+			<title>Abdul Qayyum</title>
 		</head>
 		
 		<body link="#00a5b5" vlink="#00a5b5" alink="#00a5b5" style="background-color: aliceblue;">
@@ -134,7 +134,6 @@
 		</html>';
 
 		 if(mail($to, $subject, $message, $headers)){
-			mail($toSec, $subjectSec, $messageSec, $headersSec); 
 			echo "true";
 		 }
 		 else{
