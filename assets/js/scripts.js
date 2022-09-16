@@ -833,14 +833,14 @@ function projectCarousel() {
 function onClickSubmitMail() {
     debugger
     event.preventDefault()
-    var fn = $('#name').val();
+    var name = $('#name').val();
     var email = $('#email').val();
     var msg = $('#message').val();
     $.ajax({
         url: 'mail_handler.php',
         type: 'post',
         data: {
-            'name': fn,
+            'name': name,
             'email': email,
             'message': msg
         },
