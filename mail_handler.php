@@ -57,11 +57,8 @@
 					<td class="head-title" style="border-collapse: collapse;border: 0;margin: 0;padding: 0;-webkit-text-size-adjust: none;color: #555559;font-family: Arial, sans-serif;font-size: 15px;line-height: 27px; text-align: center;">
 					<div class="mktEditable" id="main_title">
 						<div style="text-align: center;">
-						   <span style="font-weight: 700;">Name:</span><span>'.$fname.' '.$lname.'</span>  
+						   <span style="font-weight: 700;">Name:</span><span>'.$fname.'</span>  
 						</div>
-					   <div style="text-align: center;">
-						<span style="font-weight: 700;">Phone:</span><span>'.$phone.'</span> 
-					   </div>
 					   <div style="text-align: center;">
 						<span style="font-weight: 700;">Email:</span><span>'.$email.'</span> 
 					   </div>
