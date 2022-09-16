@@ -814,7 +814,6 @@ document.addEventListener('gesturestart', function (e) {
 });
 
 $('.blog-page').on('click', function () {
-    debugger
     $("html").scrollTop(0)
     $("body").scrollTop(0)
 
@@ -841,4 +840,48 @@ function projectCarousel() {
             },
         });
     }
+}
+
+// $('[data-search]').on('keyup', function () {
+//     var searchVal = $(this).val();
+//     var filterItems = $('[data-filter-item]');
+
+//     if (searchVal != '') {
+//         filterItems.addClass('hidden');
+//         $('[data-filter-item][data-filter-name*="' + searchVal.toLowerCase() + '"]').removeClass('hidden');
+//     } else {
+//         filterItems.removeClass('hidden');
+//     }
+// });
+function onClickSubmitMail() {
+    debugger
+    event.preventDefault()
+    var fn = $('#name').val();
+    var email = $('#email').val();
+    var msg = $('#comments').val();
+    $.ajax({
+        url: 'mail_handler.php',
+        type: 'post',
+        data: {
+            'name': fn,
+            'email': email,
+            'comments': msg
+        },
+        success: function (data) {
+            if (data) {
+                $('#successMsg').removeClass('d-none');
+                setTimeout(() => {
+                    $('#successMsg').addClass('d-none');
+                }, 1500);
+
+                $('#contactForm').find('.form-control').val('')
+            }
+            else {
+                $('#errorMsg').removeClass('d-none');
+                setTimeout(() => {
+                    $('#errorMsg').addClass('d-none');
+                }, 1500);
+            }
+        }
+    });
 }
