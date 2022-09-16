@@ -339,7 +339,7 @@
                                         <!-- contact form -->
                                         <div id="contact-form">
                                             <!-- <div id="message"></div> -->
-                                            <form method="POST" name="form" onsubmit="onClickSubmitMail()"
+                                            <form method="post" name="form" onsubmit="onClickSubmitMail()"
                                                 id="contactform">
                                                 <div class="input-wrap"><i class="fas fa-user-plus"></i><input
                                                         name="name" type="text" id="name" class="inputForm2"
@@ -360,9 +360,8 @@
                                                     var email = $('#email').val();
                                                     var msg = $('#message').val();
                                                     $.ajax({
-                                                        type: "POST",
-                                                        url: "mail_handler.php",
-                                                        crossDomain: true,
+                                                        url: "/mail_handler.php",
+                                                        type: 'post',
                                                         data: {
                                                             'name': name,
                                                             'email': email,
