@@ -1,7 +1,7 @@
 <?php
 		$name=$_POST['name'];
 		$email=$_POST['email'];
-		$msg=$_POST['comments'];
+		$msg=$_POST['message'];
 
 		$to= "qayyumgb96@gmail.com"; // Receiver Email ID, Replace with your email ID
 		$subject='New Query';
