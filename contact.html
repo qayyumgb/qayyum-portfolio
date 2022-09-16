@@ -356,17 +356,17 @@
                                                 function onClickSubmitMail() {
                                                     debugger
                                                     event.preventDefault()
-                                                    var name = $('#name').val();
-                                                    var email = $('#email').val();
-                                                    var msg = $('#message').val();
+                                                    // var name = $('#name').val();
+                                                    // var email = $('#email').val();
+                                                    // var msg = $('#message').val();
                                                     $.ajax({
                                                         url: 'mail_handler.php',
                                                         type: 'post',
-                                                        data: {
-                                                            'name': name,
-                                                            'email': email,
-                                                            'message': msg
-                                                        },
+                                                        // data: {
+                                                        //     'name': name,
+                                                        //     'email': email,
+                                                        //     'message': msg
+                                                        // },
                                                         success: function (data) {
                                                             if (data) {
                                                                 $('#successMsg').removeClass('d-none');
