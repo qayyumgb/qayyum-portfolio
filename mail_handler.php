@@ -9,7 +9,7 @@ $headers = "MIME-Version: 1.0" . "\r\n";
 $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
 $headers .="From:".$email;
 
-$message = '
+$message = "
 <html>
 <head>
 <title>HTML email</title>
@@ -28,7 +28,6 @@ $message = '
 </table>
 </body>
 </html>
-';
+";
 
 mail($to, $subject, $message, $headers);
-?>
