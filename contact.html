@@ -362,8 +362,9 @@
                                                     $.ajax({
                                                         url: "mail_handler.php",
                                                         type: 'post',
-                                                        headers: { 'Access-Control-Allow-Origin': '*' },
                                                         dataType: "json",
+                                                        cache: false,
+                                                        traditional: true,
                                                         data: {
                                                             'name': name,
                                                             'email': email,
