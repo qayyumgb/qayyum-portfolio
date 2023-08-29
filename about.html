@@ -6,15 +6,25 @@
     <!--=============== basic  ===============-->
 
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Qayyum-About</title>
+    <title>Qayyum - Personal Portfolio Project</title>
     <meta name="robots" content="index, follow">
     <meta name="keywords" content="">
     <meta name="description" content="">
     <!--=============== css  ===============-->
     <link type="text/css" rel="stylesheet" href="/assets/css/plugins.css">
     <link type="text/css" rel="stylesheet" href="/assets/css/style.css">
-    <link type="text/css" rel="stylesheet" href="/assets/css/dark-style.css">
     <link type="text/css" rel="stylesheet" href="/assets/css/color.css">
+    <link rel="stylesheet" href="css/style.css" />
+     <!-- favicon  -->
+     <link rel="shortcut icon" href="img/thumbnail.ico" type="image/x-icon" />
+     <!-- bootstrap css -->
+     <!-- <link rel="stylesheet" href="css/plugins/bootstrap.min.css" /> -->
+     <!-- font awesome css -->
+     <link rel="stylesheet" href="css/plugins/font-awesome.min.css" />
+     <!-- swiper css -->
+     <link rel="stylesheet" href="css/plugins/swiper.min.css" />
+     <!-- fancybox css -->
+     <link rel="stylesheet" href="css/plugins/fancybox.min.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0/css/all.min.css" />
     <!--=============== favicons ===============-->
 
@@ -36,858 +46,578 @@
 </head>
 
 <body cz-shortcut-listen="true" class="" id="">
-    <!--loader-->
-    <div class="main-loader-wrap" style="display: none;">
-        <div class="loader-spin novisspin"><span></span></div>
-        <div class="loader-dec"></div>
-    </div>
-    <!--loader end-->
-    <!--================= main start ================-->
-    <div id="main">
-        <!-- progress-bar  -->
-        <div class="progress-bar-wrap">
-            <div class="progress-bar" style="width: 0%;"></div>
-        </div>
-        <!-- progress-bar end -->
-        <!--=============== header main-header ===============-->
-        <header class="main-header">
-            <!-- logo-holder-->
-            <div class="logo-holder">
-                <a href="/index.html" class="ajax">
-                    <img src="./assets/images/abdul_qayyum.jpg" alt="abdul qayyum">
-                    <span>Abdul Qayyum</span>
-                </a>
+   
+<!-- app -->
+<div class="art-app">
+  <!-- mobile top bar -->
+  <div class="art-mobile-top-bar"></div>
+
+  <!-- app wrapper -->
+  <div class="art-app-wrapper">
+    <!-- app container end -->
+    <div class="art-app-container">
+      <!-- info bar -->
+      <div class="art-info-bar">
+        <!-- menu bar frame -->
+        <div class="art-info-bar-frame">
+          <!-- info bar header -->
+          <div class="art-info-bar-header">
+            <!-- info bar button -->
+            <div class="art-info-bar-btn">
+              <!-- icon -->
+              <i class="fas fa-ellipsis-v"></i>
             </div>
-            <!-- logo-holder end-->
-            <!-- breadcrumb-wrap-->
-            <div class="breadcrumb-wrap">
-                <span>Home Slider</span>
+            <!-- info bar button end -->
+          </div>
+          <!-- info bar header end -->
+
+          <!-- info bar header -->
+          <div class="art-header">
+            <!-- avatar -->
+            <div class="art-avatar">
+              <a
+                data-fancybox="avatar"
+                data-no-swup
+                href="img/qayyum_pro.JPG"
+                class="art-avatar-curtain"
+              >
+                <img src="img/qayyum_pro.JPG" alt="avatar" />
+                <i class="fas fa-expand"></i>
+              </a>
+              <!-- available -->
+              <div class="art-lamp-light">
+                <!-- add class 'art-not-available' if not available-->
+                <div class="art-available-lamp"></div>
+              </div>
             </div>
-            <!-- breadcrumb-wrap end-->
-            <!-- nav-button-wrap-->
-            <div class="nav-button-wrap vis-menbut">
-                <div class="nav-button">
-                    <span></span><span></span><span></span>
+            <!-- avatar end -->
+            <!-- name -->
+            <h5 class="art-name mb-10">
+              <a href="index.html">Abdul Qayyum</a>
+            </h5>
+            <!-- post -->
+            <div class="art-sm-text">Front-end Developer <br />UI/UX designer</div>
+          </div>
+          <!-- info bar header end -->
+
+          <!-- scroll frame -->
+          <div id="scrollbar2" class="art-scroll-frame">
+            <!-- info bar about -->
+            <div class="art-table p-15-15">
+              <!-- about text -->
+              <ul>
+                <!-- country -->
+                <li>
+                  <h6>Residence:</h6>
+                  <span>Pakistan</span>
+                </li>
+                <!-- city -->
+                <li>
+                  <h6>City:</h6>
+                  <span>Islamabad</span>
+                </li>
+                <!-- <li>
+                  <h6>Address:</h6>
+                  <span>Kot kalan - 2, Shikarpur Bulandshahr</span>
+                </li> -->
+                <li>
+                  <h6>Pincode:</h6>
+                  <span>46000</span>
+                </li>
+                <!-- age -->
+                <li>
+                  <h6>Age:</h6>
+                  <span>27</span>
+                </li>
+                <li>
+                  <h6>Email:</h6>
+                  <span><a href="mailto:qayyumgb96@gmail.com">qayyumgb96@gmail.com</a></span>
+                </li>
+              </ul>
+            </div>
+            <!-- info bar about end -->
+            <div class="art-ls-divider"></div>
+            <h6 style="text-align: left; margin-top: 23px">
+              language
+            </h6>
+            <ul class="art-knowledge-list p-15-0">
+              <!-- list item -->
+              <li>English</li>
+              <!-- list item -->
+              <li>Urdu</li>
+              <!-- list item -->
+              <li>Hindi</li>
+            </ul>
+            <!-- divider -->
+            <div class="art-ls-divider"></div>
+            <h6 style="text-align: left; margin-top: 23px">
+              Skills
+            </h6>
+            <!-- language skills -->
+            <div class="art-lang-skills p-30-15" style="display: none;">
+              <!-- skill -->
+              <div class="art-lang-skills-item">
+                <div id="circleprog1" class="art-cirkle-progress">
                 </div>
+                <!-- title -->
+                <h6>Nodejs</h6>
+              </div>
+              <!-- skill end -->
+
+              <!-- skill -->
+              <div class="art-lang-skills-item">
+                <div id="circleprog2" class="art-cirkle-progress"></div>
+                <!-- title -->
+                <h6>Php</h6>
+              </div>
+              <!-- skill end -->
+
+              <!-- skill -->
+              <div class="art-lang-skills-item">
+                <div id="circleprog3" class="art-cirkle-progress"></div>
+                <!-- title -->
+                <h6>MongoDb</h6>
+              </div>
+              <!-- skill -->
+              <div class="art-lang-skills-item">
+                <div id="circleprog4" class="art-cirkle-progress"></div>
+                <!-- title -->
+                <h6>My Sql</h6>
+              </div>
+              <!-- skill -->
+              <div class="art-lang-skills-item">
+                <div id="circleprog5" class="art-cirkle-progress"></div>
+                <!-- title -->
+                <h6>DynamoDb</h6>
+              </div>
+              <!-- skill -->
+              <div class="art-lang-skills-item">
+                <div id="circleprog6" class="art-cirkle-progress"></div>
+                <!-- title -->
+                <h6>Django</h6>
+              </div>
+              <!-- skill end -->
             </div>
-            <!-- nav-button-wrap end-->
-            <!-- share button-->
-            <div class="share-button show-share d-none">
-                <i class="fa fa-bullhorn"></i><span>Share</span>
+            <!-- language skills end -->
+
+            <!-- divider -->
+            <!-- <div class="art-ls-divider"></div> -->
+
+            <!-- hard skills -->
+            <div class="art-hard-skills p-30-15 d-none">
+              <!-- skill -->
+              <div class="art-hard-skills-item">
+                <div class="art-skill-heading">
+                  <!-- title -->
+                  <h6>html</h6>
+                </div>
+                <!-- progressbar frame -->
+                <div class="art-line-progress">
+                  <!-- progressbar -->
+                  <div id="lineprog1"></div>
+                </div>
+                <!-- progressbar frame end -->
+              </div>
+              <!-- skill end -->
+
+              <!-- skill -->
+              <div class="art-hard-skills-item">
+                <div class="art-skill-heading">
+                  <!-- title -->
+                  <h6>CSS</h6>
+                </div>
+                <!-- progressbar frame -->
+                <div class="art-line-progress">
+                  <!-- progressbar -->
+                  <div id="lineprog2"></div>
+                </div>
+                <!-- progressbar frame end -->
+              </div>
+              <!-- skill end -->
+
+              <!-- skill -->
+              <div class="art-hard-skills-item">
+                <div class="art-skill-heading">
+                  <!-- title -->
+                  <h6>Javascript</h6>
+                </div>
+                <!-- progressbar frame -->
+                <div class="art-line-progress">
+                  <!-- progressbar -->
+                  <div id="lineprog3"></div>
+                </div>
+                <!-- progressbar frame end -->
+              </div>
+              <!-- skill end -->
+
+              <!-- skill -->
+              <div class="art-hard-skills-item">
+                <div class="art-skill-heading">
+                  <!-- title -->
+                  <h6>Jquery</h6>
+                </div>
+                <!-- progressbar frame -->
+                <div class="art-line-progress">
+                  <!-- progressbar -->
+                  <div id="lineprog4"></div>
+                </div>
+                <!-- progressbar frame end -->
+              </div>
+              <!-- skill end -->
+
+              <!-- skill -->
+              <div class="art-hard-skills-item">
+                <div class="art-skill-heading">
+                  <!-- title -->
+                  <h6>Bootstrap , React</h6>
+                </div>
+                <!-- progressbar frame -->
+                <div class="art-line-progress">
+                  <!-- progressbar -->
+                  <div id="lineprog5"></div>
+                </div>
+                <!-- progressbar frame end -->
+              </div>
+              <!-- skill end -->
+              
             </div>
-            <!-- share button end-->
-        </header>
-        <!-- Header   end-->
-        <!--=============== nav-holder-wrap ===============-->
-        <div class="nav-holder-wrap ps-container ps-theme-default ps-active-y"
-            data-ps-id="77cf96e5-9023-853f-c625-ea217fb5c67e">
-            <!-- navigation -->
-            <div class="nav-title">Menu</div>
-            <div class="nav-holder fl-wrap nv-widget">
-                <nav>
-                    <ul>
-                        <li>
+            <!-- language skills end -->
 
-                            <a class="ajax" href="/index.html"><i class="fas fa-home"></i><span>Home</span> </a>
-                        </li>
-                        <li>
+            <!-- divider -->
+            <!-- <div class="art-ls-divider"></div> -->
 
-                            <a class="ajax" href="/project.html"><i class="fas fa-file"></i><span>Projects</span></a>
-                        </li>
-                        <li>
+            <!-- knowledge list -->
+            <ul class="art-knowledge-list p-15-0">
+              <!-- list item -->
+              <li>HTML</li>
+              <!-- list item -->
+              <li>Css, Sass</li>
+              <!-- list item -->
+              <li>Bootstrap.Tailwind</li>
+              <!-- list item -->
+              <li>Javascript</li>
+              <!-- list item -->
+              <li>Angular</li>
+              <!-- list item -->
+              <li><a href="#">More...</a></li>
+            </ul>
+            <!-- knowledge list end -->
 
-                            <a class="ajax" href="/themes.html"><i class="fas fa-file"></i><span>Themes</span></a>
-                        </li>
-                        <li>
+            <!-- divider -->
+            <div class="art-ls-divider"></div>
 
-                            <a href="/about.html" class="ajax"> <i class="fas fa-user"></i><span>About</span></a>
-                        </li>
-                        <li>
-
-                            <a class="ajax" href="/skills.html"><i class="fas fa-briefcase"></i><span>Skills</span></a>
-                        </li>
-
-                        <li>
-
-                            <a href="/contact.html" class="ajax"> <i class="fas fa-globe"></i><span>Contacts</span></a>
-                        </li>
-
-                        <li class="d-none">
-                            <i class="fas fa-newspaper"></i>
-                            <a href="" class="ajax">Journal</a>
-                        </li>
-                    </ul>
-                </nav>
+            <!-- links frame -->
+            <div class="art-links-frame p-15-15">
+              <!-- download cv button -->
+              <a href="img/works/thumbnail/abdul-qayyum-resume.pdf" class="art-link" download data-no-swup
+                >Download cv <i class="fas fa-download"></i
+              ></a>
             </div>
-            <!-- navigation end-->
-            <!--nav-contacts  -->
-            <div class="nav-title fl-wrap">Contact info</div>
-            <div class="nav-contacts fl-wrap nv-widget">
-                <ul>
-                    <li><i class="fas fa-envelope"></i>
-                        <a href="mailto:qayyumgb96@gmail.com">qayyumgb96@gmail.com</a>
-                        <a href="mailto:megadesign1233@gmail.com">megadesign1233@gmail.com</a>
-                    </li>
-                    <!-- <li><i class="fas fa-map-marker"></i><a href="https://goo.gl/maps/dj5UaNJFkJ6rLNJy9"
-                        target="_blank"> 27th Brooklyn New York, NY 10065</a></li> -->
-                    <li><i class="fas fa-phone"></i><a href="tel:+7(111)123456789"> +92 347 4778996</a></li>
-                </ul>
-            </div>
-            <!-- nav-contacts end -->
-            <!-- nav-social -->
-            <div class="nav-title fl-wrap">Find Me </div>
-            <div class="nav-social fl-wrap nv-widget">
-                <ul>
-                    <li><a href="https://www.linkedin.com/in/ab-qayyum-97112511a" target="_blank"><i
-                                class="fab fa-linkedin"></i></a></li>
-                    <li><a href="https://www.facebook.com/qayyum.kharfaqi" target="_blank"><i
-                                class="fab fa-facebook-f"></i></a></li>
-                    <li><a href="https://twitter.com/qayyum_gb" target="_blank"><i class="fab fa-twitter"></i></a></li>
-                    <li><a href="https://www.instagram.com/kay_yum/" target="_blank"><i
-                                class="fab fa-instagram"></i></a></li>
+            <!-- links frame end -->
+          </div>
+          <!-- scroll frame end -->
 
-
-                </ul>
-            </div>
-            <!-- nav-social end -->
-            <div class="ps-scrollbar-x-rail" style="left: 0px; bottom: 3px;">
-                <div class="ps-scrollbar-x" tabindex="0" style="left: 0px; width: 0px;"></div>
-            </div>
-            <div class="ps-scrollbar-y-rail" style="top: 0px; height: 666px; right: 3px;">
-                <div class="ps-scrollbar-y" tabindex="0" style="top: 0px; height: 619px;"></div>
-            </div>
+          <!-- sidebar social -->
+          <div class="art-ls-social">
+            <!-- social link -->
+            <a class="redi" href="" onclick="openpage('https://www.linkedin.com/in/ab-qayyum-97112511a/')" target="_blank"
+              ><i class="fab fa-linkedin-in"></i
+            ></a>
+            <!-- social link -->
+            <a class="redi" href="" onclick="openpage('https://www.instagram.com/kay_yum/')"><i class="fab fa-instagram"></i></a>
+            <!-- social link -->
+            <a class="redi" href="" onclick="openpage('https://www.facebook.com/qayyum.kharfaqi')"><i class="fab fa-facebook"></i></a>
+            <!-- social link -->
+            <a class="redi" href="" onclick="openpage('https://github.com/qayyumgb')" target="_blank"><i class="fab fa-github"></i></a>
+            <a class="redi" href="" onclick="openpage('https://twitter.com/qayyum_gb')" target="_blank"><i class="fab fa-twitter"></i></a>
+            
+          </div>
+          <!-- sidebar social end -->
         </div>
-        <!-- nav-holder-wrap end-->
-        <!--=============== wrapper ===============-->
-        <div class="" id="wrapper" style="opacity: 1;">
-            <!--=============== content-holder ===============-->
-            <div class="content-holder" data-pagetitle="About">
-                <!--Content -->
-                <div class="content">
-                    <!-- column-content -->
-                    <div class="column-content">
-                        <!-- scroll-nav-wrap -->
-                        <div class="scroll-nav-wrap" style="z-index: 112;">
-                            <nav class="scroll-nav">
-                                <ul>
-                                    <li><a class="scroll-link act-link" href="/about.html#sec1"><span>About</span></a>
-                                    </li>
-                                    <li><a class="scroll-link" href="/about.html#sec2"><span>Team</span></a>
-                                    </li>
-                                    <li><a class="scroll-link" href="/about.html#sec3"><span>Story</span></a>
-                                    </li>
-                                    <li><a class="scroll-link" href="/about.html#sec4"><span>Services</span></a>
-                                    </li>
-                                    <!-- <li><a class="scroll-link" href="/about.html#sec5"><span>Skills</span></a>
-                                    </li>
-                                    <li><a class="scroll-link" href="/about.html#sec6"><span>Clients</span></a>
-                                    </li> -->
-                                </ul>
-                            </nav>
+        <!-- menu bar frame end -->
+      </div>
+      <!-- info bar end -->
+
+      <!-- content -->
+      <div class="art-content">
+        <!-- curtain -->
+        <div class="art-curtain"></div>
+
+        <!-- top background -->
+        <div class="art-top-bg" style="background-image: url(img/bg.jpg)">
+          <!-- overlay -->
+          <div class="art-top-bg-overlay"></div>
+          <!-- overlay end -->
+        </div>
+        <!-- top background end -->
+
+        <!-- swup container -->
+        <div class="transition-fade" id="swup">
+          <!-- scroll frame -->
+          <div id="scrollbar" class="art-scroll-frame">
+            <!-- container -->
+            <div class="container-fluid">
+              <section class=" parallax-section content-parallax-section" data-scrollax-parent="true"
+              id="sec1">
+              <div class="bg">
+              </div>
+              <div class="overlay"></div>
+              <div class="container">
+                  <div class="section-title">
+                      <h2>About <span>Me</span></h2>
+                      <p class="" style="max-width:100%">
+                        <span
+                              style="color: #F7B90F;">I'm a Front-End Developer from Islamabad Pakistan.</span>
+                        
+I have serious passion for UI effects, animations and creating intuitive, dynamic user experiences. Let's make something special.
+After graduating in 2017 with a Bachelor’s Degree (First Class Honours) in Information Technology (BSIT), I spent the last 5 years working both as a web developer and designer and as part of a team in various companies. I acquired project and time management skills, as well as the ability to communicate with team members and clients while effectively meeting milestones and deadlines. During my degree I studied Information Architecture, and therefore have a keen understanding of wireframes, sitemaps and user experience design which I put to good use on every project I work on. I am currently working in Islamabd Pakistan. I am always available to discuss your project over the phone or via Skype or any Plateform.
+                          <span style="color: #F7B90F;">qayyumgb96@gmail.com</span> &nbsp;||&nbsp;<span
+                              style="color: #F7B90F;">+923474778996</span>
+                      </p>
+                  </div>
+              </div>
+              </section>
+              <!-- row -->
+              <section data-scrollax-parent="true" id="sec3" class="scroll-con-sec dec-sec">
+                <div class="wrap-inner fl-wrap">
+                    <div class="container">
+                        <div class="section-title fl-wrap">
+                            <h2> My <span style="color: #F7B90F;"> Awesome Story</span></h2>
+                            <h4>Senior Web Developer specializing in front end development. Experienced with
+                                all stages of the
+                                development cycle for dynamic web projects.</h4>
                         </div>
-                        <div></div>
-                        <div class="psn_button color-bg act-filter"><i class="fas fa-sort"></i> Nav FIlter </div>
-                        <!-- scroll-nav-wrap end -->
-                        <!-- section -->
-                        <section class=" parallax-section content-parallax-section" data-scrollax-parent="true"
-                            id="sec1">
-                            <div class="bg" data-bg="./index/4.jpg"
-                                data-scrollax="properties: { translateY: &#39;150px&#39; }"
-                                style="background-image: url('./index/4.jpg'); transform: translateZ(0px) translateY(-39.3314px);">
-                            </div>
-                            <div class="overlay"></div>
-                            <div class="container">
-                                <div class="section-title">
-                                    <h2>About My <span>Awesome</span><br>Studio</h2>
-                                    <p>Hi, I’m Abdul Qayyum. I'm a Front-End Developer with over 5+ years of experiences
-                                        in wide range of development and design disciplines.</p>
-                                </div>
-                            </div>
-                        </section>
-                        <!-- section end-->
-                        <!-- section -->
-                        <section data-scrollax-parent="true">
-                            <div class="wrap-inner fl-wrap">
-                                <div class="container small-container">
-                                    <div class="about-wrap">
-                                        <div class="row">
-                                            <div class="col-md-5">
-                                                <div class="about-image fl-wrap">
-                                                    <img src="./about_files/about.jpg" class="respimg" alt="">
-                                                    <div class="triangle-dec"
-                                                        data-scrollax="properties: { translateY: &#39;100px&#39; }"
-                                                        style="transform: translateZ(0px) translateY(-78.4012px);">
-                                                        <span></span>
-                                                    </div>
-                                                    <div class="ab_cirle-dec"
-                                                        data-scrollax="properties: { translateY: &#39;-100px&#39; }"
-                                                        style="transform: translateZ(0px) translateY(78.4012px);"></div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-2"></div>
-                                            <div class="col-md-5">
-                                                <div class="about-text fl-wrap">
-                                                    <h3>Welcome To My Studio</h3>
-                                                    <h4>I'm a Front-End Developer from Islamabad Pakistan.
-                                                    </h4>
-                                                    <p>I have serious passion for UI effects, animations and creating
-                                                        intuitive, dynamic user experiences.
-                                                        Let's make something special.</p>
-                                                    <p>After graduating in 2017 with a Bachelor’s Degree (First Class
-                                                        Honours) in Information Technology (BSIT), I spent the last 5
-                                                        years working both as a web developer and designer and as part
-                                                        of a team in various companies. I acquired project and time
-                                                        management skills, as well as the ability to communicate with
-                                                        team members and clients while effectively meeting milestones
-                                                        and deadlines.
-                                                        During my degree I studied Information Architecture, and
-                                                        therefore have a keen understanding of wireframes, sitemaps and
-                                                        user experience design which I put to good use on every project
-                                                        I work on.
-
-                                                        I am currently working in Islamabd Pakistan. I am always
-                                                        available to discuss your project over the phone or via Skype or
-                                                        any Plateform. </p>
-                                                    <div class="line-dec fl-wrap"></div>
-                                                    <a href="./project.html" class="btn hide-icon ajax"><i
-                                                            class="fas fa-caret-right"></i><span>View
-                                                            Projects</span></a>
-                                                </div>
-                                            </div>
+                        <div class="custom-inner-holder">
+                            <!-- 1 -->
+                            <div class="custom-inner">
+                                <div class="row">
+                                    <div class="col-md-5">
+                                        <div class="resum-header">
+                                            <i class="fas fa-briefcase"></i>
+                                            <h3>Work in company "Saufik"</h3>
+                                            <span> 2017-present</span>
                                         </div>
+                                        <div class="ci-num"><span>01. </span></div>
                                     </div>
-                                </div>
-                            </div>
-                            <div class="pattern-bg right-pos"></div>
-                        </section>
-                        <!-- section end-->
-                        <!-- section -->
-                        <section>
-                            <div class="inline-facts-holder row">
-                                <!-- inline-facts -->
-                                <div class="inline-facts-wrap col-md-4">
-                                    <div class="inline-facts">
-                                        <i class="fas fa-file"></i>
-                                        <div class="milestone-counter">
-                                            <div class="stats animaper">
-                                                <div class="num" data-content="0" data-num="41">41</div>
-                                            </div>
-                                        </div>
-                                        <h6>Finished projects</h6>
-                                        <span class="dec-counter">41</span>
-                                    </div>
-                                </div>
-                                <!-- inline-facts end -->
-                                <!-- inline-facts  -->
-                                <div class="inline-facts-wrap col-md-4">
-                                    <div class="inline-facts">
-                                        <i class="fas fa-user"></i>
-                                        <div class="milestone-counter">
-                                            <div class="stats animaper">
-                                                <div class="num" data-content="0" data-num="10">10</div>
-                                            </div>
-                                        </div>
-                                        <h6>Happy clients</h6>
-                                        <span class="dec-counter">10</span>
-                                    </div>
-                                </div>
-                                <!-- inline-facts end -->
-                                <!-- inline-facts  -->
-                                <div class="inline-facts-wrap col-md-4">
-                                    <div class="inline-facts">
-                                        <i class="fas fa-clock"></i>
-                                        <div class="milestone-counter">
-                                            <div class="stats animaper">
-                                                <div class="num" data-content="0" data-num="322">322</div>
-                                            </div>
-                                        </div>
-                                        <h6>Working hours </h6>
-                                        <span class="dec-counter">322</span>
-                                    </div>
-                                </div>
-                                <!-- inline-facts end -->
-                            </div>
-                        </section>
-                        <!-- section end-->
-                        <!-- section -->
-                        <section id="sec2">
-                            <div class="wrap-inner fl-wrap">
-                                <div class="container">
-                                    <div class="section-title fl-wrap">
-                                        <h2>Meet My <span> Awesome Team</span></h2>
-                                        <h4>These awesome guys are working with me and they are my helping hand.</h4>
-                                    </div>
-                                    <div class="team-box-wrap fl-wrap">
-                                        <div class="row">
-                                            <!-- team-box -->
-                                            <div class="col-md-4">
-                                                <div class="team-box fl-wrap">
-                                                    <div class="team-image fl-wrap">
-                                                        <a><img src="./about_files/1.jpg" alt=""></a>
-                                                    </div>
-                                                    <div class="team-info">
-                                                        <h3><a>Haris Majeed</a></h3>
-                                                        <h4>NodeJS Developer</h4>
-                                                        <p>Mr. Haris Majeed is a senior web developer and pretty good
-                                                            hand on Rest API. He is responsible for all Backend Things.
-                                                            He is expert at NodeJS
-                                                        </p>
-                                                    </div>
-                                                    <div class="team-social-wrap fl-wrap">
-                                                        <ul class="team-social">
-                                                            <li><a><i class="fab fa-node-js"></i></a>
-                                                            </li>
-                                                            <li><a><i class="fab fa-angular"></i></a>
-                                                            </li>
-                                                            <li><a><i class="fab fa-js"></i></a>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-
-                                            </div>
-                                            <!-- team-box end -->
-                                            <!-- team-box -->
-                                            <div class="col-md-4">
-                                                <div class="team-box fl-wrap">
-                                                    <div class="team-image fl-wrap">
-                                                        <a><img src="./about_files/3.jpg" alt=""></a>
-                                                    </div>
-                                                    <div class="team-info">
-                                                        <h3><a>Ambreen</a></h3>
-                                                        <h4>UI/UX designer</h4>
-                                                        <p>
-                                                            She have massive experince in UI/UX designing. She have got
-                                                            gifted creative mind. Her Expertice
-                                                            in Figma, XD, photoshop and
-                                                            illustrator
-                                                        </p>
-                                                    </div>
-                                                    <div class="team-social-wrap fl-wrap">
-                                                        <ul class="team-social">
-                                                            <li><a><i class="fab fa-figma"></i></a>
-                                                            </li>
-                                                            <li><a><i class="fas fa-bezier-curve"></i></a>
-                                                            </li>
-                                                            <li><a><i class="fab fa-tumblr"></i></a>
-                                                            </li>
-                                                            <li><a><i class="fab fa-behance"></i></a>
-                                                            </li>
-                                                        </ul>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <!-- team-box end -->
-                                            <!-- team-box -->
-                                            <div class="col-md-4">
-                                                <div class="team-box fl-wrap">
-                                                    <div class="team-image fl-wrap">
-                                                        <a><img src="./about_files/2.jpg" alt=""></a>
-                                                    </div>
-                                                    <div class="team-info">
-                                                        <h3><a>Abdul Qayyum</a></h3>
-                                                        <h4>Front-end Developer & UI/UX</h4>
-                                                        <p>
-                                                            Here is the guy who have more than 5 years of experince in
-                                                            front-end develppment.
-                                                            He is expert at angular, Javascript HTML/CSS,
-                                                            Bootstrap/Tailwind/Material.
-                                                        </p>
-                                                    </div>
-                                                    <div class="team-social-wrap fl-wrap">
-                                                        <ul class="team-social">
-                                                            <li><a><i class="fab fa-node-js"></i></a>
-                                                            </li>
-                                                            <li><a><i class="fab fa-angular"></i></a>
-                                                            </li>
-                                                            <li><a><i class="fab fa-html5"></i></a>
-                                                            </li>
-                                                            <li><a><i class="fab fa-css3-alt"></i></a>
-                                                            </li>
-                                                            <li><a><i class="fab fa-bootstrap"></i></a>
-                                                            </li>
-                                                            <li><a><i class="fab fa-mdb"></i></a>
-                                                            </li>
-
-                                                        </ul>
-                                                    </div>
-                                                </div>
-
-                                            </div>
-                                            <!-- team-box end -->
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="sec-dec"></div>
-                            </div>
-                            <div class="pattern-bg right-pos"></div>
-                        </section>
-                        <!-- section end-->
-
-                        <!-- section -->
-                        <section data-scrollax-parent="true" id="sec3" class="scroll-con-sec dec-sec">
-                            <div class="wrap-inner fl-wrap">
-                                <div class="container">
-                                    <div class="section-title fl-wrap">
-                                        <h2> My <span> Awesome Story</span></h2>
-                                        <h4>Senior Web Developer specializing in front end development. Experienced with
-                                            all stages of the
-                                            development cycle for dynamic web projects.</h4>
-                                    </div>
-                                    <div class="custom-inner-holder">
-                                        <!-- 1 -->
-                                        <div class="custom-inner">
-                                            <div class="row">
-                                                <div class="col-md-5">
-                                                    <div class="resum-header">
-                                                        <i class="fas fa-briefcase"></i>
-                                                        <h3>Work in company "Saufik"</h3>
-                                                        <span> 2017-present</span>
-                                                    </div>
-                                                    <div class="ci-num"><span>01. </span></div>
-                                                </div>
-                                                <div class="col-md-7">
-                                                    <div class="custom-inner-content fl-wrap">
-                                                        <h4>Lead of Front-end Department</h4>
-                                                        <p>I started my journey in saufik from Sep 2017. Curreuntly I am
-                                                            working as a senior Front-end
-                                                            Developer and designation is Team Lead and Project Manager.
-                                                            As a front-end developer I successfully completed more than
-                                                            30 projects. Complete detailed programming and development
-                                                            tasks for front end public and internal websites as well as
-                                                            challenging back-end server
-                                                            code.
-                                                        </p>
-                                                        <ul>
-                                                            <li>Develop project concepts and maintain optimal workflow
-                                                            </li>
-                                                            <li>Work with developers to manage large, complex design
-                                                                projects for corporate clients.
-                                                            </li>
-                                                            <li>Cooperate with designers to create clean interfaces and
-                                                                simple, intuitive interactions and experiences</li>
-                                                        </ul>
-                                                        <a href="https://saufik.com"
-                                                            class="cus-inner-head-link color-bg" target="_blank">Visit
-                                                            Company + </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- 1 -->
-                                        <!-- 2 -->
-                                        <div class="custom-inner">
-                                            <div class="row">
-                                                <div class="col-md-5">
-                                                    <div class="resum-header">
-                                                        <i class="fas fa-graduation-cap"></i>
-                                                        <h3>UI/UX Designer - Masia Institute</h3>
-                                                        <span> 2017-2017</span>
-                                                    </div>
-                                                    <div class="ci-num"><span>02.</span></div>
-                                                </div>
-                                                <div class="col-md-7">
-                                                    <div class="custom-inner-content fl-wrap">
-                                                        <h4>UI/UX Designer</h4>
-                                                        <p>I worked with masia Institute as UI/UX designer for 7 months.
-                                                            From Jan 2017 to Aug 2017. Its not a long journey with masia
-                                                            but i learn a lot.
-                                                        </p>
-                                                        <ul>
-                                                            <li>Create stunning Icons and Awesome Illustrations.
-                                                            </li>
-                                                            <li>Design creative UI/UX web pages in Figma and Adobe XD.
-                                                            </li>
-                                                        </ul>
-                                                        <a href="https://masia.pk/" class="cus-inner-head-link color-bg"
-                                                            target="_blank">Visit Company + </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <!-- 2 end -->
-                                    </div>
-                                    <a class="btn hide-icon"><i class="fas fa-file-pdf"></i><span>Download
-                                            Resume</span></a>
-                                </div>
-                                <div class="sec-dec"></div>
-                            </div>
-                            <div class="pattern-bg right-pos"></div>
-                        </section>
-                        <!-- section end-->
-                        <!-- section -->
-                        <div class="home-content row">
-                            <!-- section -->
-                            <section class=" parallax-section content-parallax-section" data-scrollax-parent="true"
-                                id="sec4">
-                                <div class="bg"></div>
-                                <div class="overlay"></div>
-                                <div class="container">
-                                    <div class="section-title">
-                                        <h2>Services <span>provided</span></h2>
-                                        <p>In today's digital world, web development has become a core element in
-                                            solidifying
-                                            your business's digital presence. Through responsive web designs and
-                                            customer-focused website development services, Qayyum is always ready and
-                                            capable to
-                                            cater to all kinds of customer requirements.</p>
-                                    </div>
-                                </div>
-                            </section>
-                            <!-- section end-->
-                            <!-- section -->
-                            <section>
-                                <div class="fl-wrap serv-wrap">
-                                    <div class="row">
-                                        <div class="col-md-3">
-                                            <ul class="tabs sl-tabs fix-tab" style="z-index: 112;">
-                                                <li class="tab-link current" data-tab="tab-1">
-                                                    <div class="tb-item">
-                                                        <i class="fas fa-desktop"></i>
-                                                        <h3>Web Development</h3>
-                                                    </div>
+                                    <div class="col-md-7">
+                                        <div class="custom-inner-content fl-wrap">
+                                            <h4>Lead of Front-end Department</h4>
+                                            <p>I started my journey in saufik from Sep 2017. Curreuntly I am
+                                                working as a senior Front-end
+                                                Developer and designation is Team Lead and Project Manager.
+                                                As a front-end developer I successfully completed more than
+                                                30 projects. Complete detailed programming and development
+                                                tasks for front end public and internal websites as well as
+                                                challenging back-end server
+                                                code.
+                                            </p>
+                                            <ul>
+                                                <li>Develop project concepts and maintain optimal workflow
                                                 </li>
-                                                <li class="tab-link" data-tab="tab-2">
-                                                    <div class="tb-item">
-                                                        <i class="fas fa-anchor"></i>
-                                                        <h3>Landing Page</h3>
-                                                    </div>
+                                                <li>Work with developers to manage large, complex design
+                                                    projects for corporate clients.
                                                 </li>
-                                                <li class="tab-link" data-tab="tab-3">
-                                                    <div class="tb-item">
-                                                        <i class="fas fa-mobile"></i>
-                                                        <h3>UI/UX Design</h3>
-                                                    </div>
+                                                <li>Cooperate with designers to create clean interfaces and
+                                                    simple, intuitive interactions and experiences</li>
+                                            </ul>
+                                            <a href="https://saufik.com"
+                                                class="cus-inner-head-link color-bg" target="_blank">Visit
+                                                Company + </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- 1 -->
+                            <!-- 2 -->
+                            <div class="custom-inner">
+                                <div class="row">
+                                    <div class="col-md-5">
+                                        <div class="resum-header">
+                                            <i class="fas fa-graduation-cap"></i>
+                                            <h3>UI/UX Designer - Masia Institute</h3>
+                                            <span> 2017-2017</span>
+                                        </div>
+                                        <div class="ci-num"><span>02.</span></div>
+                                    </div>
+                                    <div class="col-md-7">
+                                        <div class="custom-inner-content fl-wrap">
+                                            <h4>UI/UX Designer</h4>
+                                            <p>I worked with masia Institute as UI/UX designer for 7 months.
+                                                From Jan 2017 to Aug 2017. Its not a long journey with masia
+                                                but i learn a lot.
+                                            </p>
+                                            <ul>
+                                                <li>Create stunning Icons and Awesome Illustrations.
                                                 </li>
-                                                <li class="tab-link" data-tab="tab-4">
-                                                    <div class="tb-item">
-                                                        <i class="fas fa-desktop"></i>
-                                                        <h3>Dashboard Design</h3>
-                                                    </div>
+                                                <li>Design creative UI/UX web pages in Figma and Adobe XD.
                                                 </li>
                                             </ul>
-                                            <div></div>
-                                        </div>
-                                        <div class="col-md-9">
-                                            <!-- tab1 -->
-                                            <div id="tab-1" class="tab-content current">
-                                                <div class="row">
-                                                    <div class="col-md-7">
-                                                        <div class="box-item vis-det fl-wrap">
-                                                            <img src="./about_files/1(1).jpg" class="respimg" alt="">
-                                                            <a data-src="images/services/1.jpg" class="image-popup"><i
-                                                                    class="fa fa-search"></i></a>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-5">
-                                                        <ul class="dec-list">
-                                                            <li>NodeJS/Angular</li>
-                                                            <li>HTML/CSS</li>
-                                                            <li>Javascript</li>
-                                                        </ul>
-                                                        <span class="price">Price: Start From 550$</span>
-                                                    </div>
-                                                </div>
-                                                <h3><span>01. </span>Web Development</h3>
-                                                <div class="serv-text fl-wrap">
-                                                    <p>
-                                                        The web development process involves taking the graphical
-                                                        elements
-                                                        defined in the design process and coding them into a custom
-                                                        theme.
-                                                    </p>
-                                                    <p>Responsive websites built for an optimal user experience that
-                                                        achieves
-                                                        your business goals
-                                                        Make your website fast, easy to find, and reach the widest
-                                                        audience
-                                                        possible.</p>
-                                                </div>
-                                                <a href="" class="cus-inner-head-link color-bg">Details + </a>
-                                                <div class="serv-dec"></div>
-                                                <div class="pattern-bg right-pos"></div>
-                                            </div>
-                                            <!-- tab1 end -->
-                                            <!-- tab2 -->
-                                            <div id="tab-2" class="tab-content">
-                                                <div class="row">
-                                                    <div class="col-md-7">
-                                                        <div class="box-item vis-det fl-wrap">
-                                                            <img src="./about_files/2(1).jpg" class="respimg" alt="">
-                                                            <a data-src="images/services/2.jpg" class="image-popup"><i
-                                                                    class="fa fa-search"></i></a>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-5">
-                                                        <ul class="dec-list">
-                                                            <li>Angular/JavaScript</li>
-                                                            <li>Html/Css/Scss</li>
-                                                            <li>Bootstrap/Tailwind/Material</li>
-                                                        </ul>
-                                                        <span class="price">Price: Start From 220$</span>
-                                                    </div>
-                                                </div>
-                                                <h3><span>02. </span>Landing Page</h3>
-                                                <div class="serv-text fl-wrap">
-                                                    <p>I like to code things from scratch, and enjoy bringing ideas to
-                                                        life in
-                                                        the browser.</p>
-                                                    <p>My approach to website design is to create a website that
-                                                        strengthens
-                                                        your company’s brand while ensuring ease of use and simplicity
-                                                        for your
-                                                        audience.
-                                                    </p>
-                                                    <p>Having a responsive layout means that your website fluidly
-                                                        resizes for
-                                                        optimal viewing regardless of the screen size or device (e.g.
-                                                        iPhone,
-                                                        iPad).</p>
-                                                </div>
-                                                <a href="" class="cus-inner-head-link color-bg">Details + </a>
-                                                <div class="serv-dec"></div>
-                                                <div class="pattern-bg right-pos"></div>
-                                            </div>
-                                            <!-- tab2 end -->
-                                            <!-- tab3-->
-                                            <div id="tab-3" class="tab-content">
-                                                <div class="row">
-                                                    <div class="col-md-7">
-                                                        <div class="box-item vis-det fl-wrap">
-                                                            <img src="./about_files/3(1).jpg" class="respimg" alt="">
-                                                            <a data-src="images/services/3.jpg" class="image-popup"><i
-                                                                    class="fa fa-search"></i></a>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-5">
-                                                        <ul class="dec-list">
-                                                            <ul class="dec-list">
-                                                                <li>Figma/Adobe XD</li>
-                                                                <li>Photoshop/Illustrator</li>
-                                                                <li>UI/UX</li>
-                                                            </ul>
-                                                        </ul>
-                                                        <span class="price">Price: Start From 100$</span>
-                                                    </div>
-                                                </div>
-                                                <h3><span>03. </span>UI/UX Design</h3>
-                                                <div class="serv-text fl-wrap">
-                                                    <p>I value simple content structure, clean design patterns, and
-                                                        thoughtful
-                                                        interactions.
-                                                    </p>
-                                                    <p>Things I enjoy designing: <br>
-                                                        UX, UI, Web, Mobile, Apps, Logos</p>
-                                                    <p>My approach to website design is to create a website that
-                                                        strengthens
-                                                        your company’s brand while ensuring ease of use and simplicity
-                                                        for your
-                                                        audience.</p>
-                                                </div>
-                                                <a class="cus-inner-head-link color-bg">Details + </a>
-                                                <div class="serv-dec"></div>
-                                                <div class="pattern-bg right-pos"></div>
-                                            </div>
-                                            <!-- tab3 end -->
-                                            <!-- tab4-->
-                                            <div id="tab-4" class="tab-content">
-                                                <div class="row">
-                                                    <div class="col-md-7">
-                                                        <div class="box-item vis-det fl-wrap">
-                                                            <img src="./about_files/4(1).jpg" class="respimg" alt="">
-                                                            <a data-src="images/services/4(1).jpg"
-                                                                class="image-popup"><i class="fa fa-search"></i></a>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-5">
-                                                        <ul class="dec-list">
-                                                            <li>Angular/JavaScript</li>
-                                                            <li>Adminility</li>
-                                                            <li>Html/Css/Scss</li>
-                                                            <li>Bootstrap/Tailwind/Material</li>
-                                                        </ul>
-                                                        <span class="price">Price: Start From 250$</span>
-                                                    </div>
-                                                </div>
-                                                <h3><span>03. </span>Dashboard Design</h3>
-                                                <div class="serv-text fl-wrap">
-                                                    <p>I like to code things from scratch, and enjoy bringing ideas to
-                                                        life in
-                                                        the browser.</p>
-                                                    <p>My approach to website design is to create a website that
-                                                        strengthens
-                                                        your company’s brand while ensuring ease of use and simplicity
-                                                        for your
-                                                        audience.
-                                                    </p>
-                                                    <p>Having a responsive layout means that your website fluidly
-                                                        resizes for
-                                                        optimal viewing regardless of the screen size or device (e.g.
-                                                        iPhone,
-                                                        iPad).</p>
-
-                                                </div>
-                                                <a href="" class="cus-inner-head-link color-bg">Details + </a>
-                                                <div class="serv-dec"></div>
-                                                <div class="pattern-bg right-pos"></div>
-                                            </div>
-                                            <!-- tab4 end -->
-
-
+                                            <a href="https://masia.pk/" class="cus-inner-head-link color-bg"
+                                                target="_blank">Visit Company + </a>
                                         </div>
                                     </div>
-                                    <div class="limit-box fl-wrap"></div>
-                                </div>
-                            </section>
-                            <!-- section end-->
-                        </div>
-                        <!-- section end-->
-                        <!-- section -->
-                        <!-- order-wrap-->
-                        <div class="order-wrap fl-wrap color-bg">
-                            <div class="row">
-                                <div class="col-md-8">
-                                    <h4>Ready to order your project ?</h4>
-                                </div>
-                                <div class="col-md-4">
-                                    <a href="/contact.html" class="ord-link">Get In Touch</a>
                                 </div>
                             </div>
+                            <!-- 2 end -->
                         </div>
-                        <!-- order-wrap end-->
-                        <!-- section end-->
+                        <a class="btn hide-icon"><i class="fas fa-file-pdf"></i><span>Download
+                                Resume</span></a>
                     </div>
-                    <!-- column wrap end-->
                 </div>
-                <!-- content  end -->
-                <!--=============== footer ===============-->
-                <footer class="main-footer fl-wrap">
-                    <!-- footer-wrap end-->
-                    <div class="footer-wrap fl-wrap">
-                        <!-- footer-inner-->
-                        <div class="footer-inner">
-                            <div class="row">
-                                <div class="col-md-7">
-                                    <h3>Subscribe on our updates</h3>
-                                    <!-- subcribe-form end-->
-                                    <div class="subcribe-form fl-wrap">
-                                        <form id="subscribe" novalidate="true">
-                                            <div class="shadow-box fl-wrap">
-                                                <input class="enteremail" name="EMAIL" id="subscribe-email"
-                                                    placeholder="Your Email" spellcheck="false" type="text">
-                                                <button type="submit" id="subscribe-button"
-                                                    class="subscribe-button">Submit</button>
-                                            </div>
-                                            <label for="subscribe-email" class="subscribe-message"></label>
-                                        </form>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- footer-inner end-->
-                            <!-- policy-box-->
-                            <div class="policy-box fl-wrap">
-                                <span>©Qayyum 2022 / All rights reserved. </span>
-                            </div>
-                            <!-- policy-box end-->
-                            <a class="to-top"><span>Back to Top</span><i class="fas fa-caret-up"></i></a>
-                        </div>
-                        <!-- subcribe-form end-->
-                        <!-- footer decor -->
-                        <div class="footer-decor">
-                        </div>
-                        <!-- footer decor end-->
-                    </div>
-                    <!-- footer-wrap end-->
-                </footer>
-                <!-- footer end -->
-                <div class="share-wrapper">
-                    <div class="share-container isShare"><a
-                            href="http://www.facebook.com/share.php?u=https%3A%2F%2Ftrion.kwst.net%2Fdark%2Fabout.html"
-                            title="Share this page on facebook" class="pop share-icon share-icon-facebook"></a><a
-                            href="http://pinterest.com/pin/create/button/?url=https%3A%2F%2Ftrion.kwst.net%2Fdark%2Fabout.html&amp;media=&amp;description="
-                            title="Share this page on pinterest" class="pop share-icon share-icon-pinterest"></a><a
-                            href="https://twitter.com/share?via=in1.com&amp;text=Trion%20-%20Creative%20Personal%20Portfolio"
-                            title="Share this page on twitter" class="pop share-icon share-icon-twitter"></a><a
-                            href="http://www.tumblr.com/share?v=3&amp;u=https%3A%2F%2Ftrion.kwst.net%2Fdark%2Fabout.html"
-                            title="Share this page on tumblr" class="pop share-icon share-icon-tumblr"></a></div>
-                </div>
+                <div class="pattern-bg right-pos"></div>
+            </section>
+              <!-- row end -->
             </div>
-            <!-- content-holder end -->
+            <!-- container end -->
+            <!-- container -->
+            <div class="container-fluid">
+              <!-- footer -->
+              <footer>
+                <!-- copyright -->
+                <div class="art-copy">© 2021 Abdul Qayyum</div>
+                <!-- author ( Please! Do not delete it. You are awesome! :) -->
+                <div>
+                  Author:&#160;
+                  <a
+                    href="https://www.linkedin.com/in/ab-qayyum-97112511a/"
+                    target="_blank"
+                    data-no-swup
+                    >Abdul Qayyum</a
+                  >
+                </div>
+              </footer>
+              <!-- footer end -->
+            </div>
+            <!-- container end -->
+          </div>
+          <!-- scroll frame end -->
         </div>
-        <!-- wrapper end -->
-        <!-- body bg-->
-        <div class="circle-bg">
-            <div class="middle-circle"></div>
-            <div class="big-circle"></div>
-            <div class="small-circle"></div>
+        <!-- swup container end -->
+      </div>
+      <!-- content end -->
+
+      <!-- menu bar -->
+      <div class="art-menu-bar">
+        <!-- menu bar frame -->
+        <div class="art-menu-bar-frame">
+          <!-- menu bar header -->
+          <div class="art-menu-bar-header">
+            <!-- menu bar button -->
+            <div class="art-menu-bar-btn">
+              <!-- icon -->
+              <span></span>
+            </div>
+            <!-- menu bar button end -->
+          </div>
+          <!-- menu bar header end -->
+
+          <!-- current page title -->
+          <div class="art-current-page"></div>
+          <!-- current page title end -->
+
+          <!-- scroll frame -->
+          <div class="art-scroll-frame">
+            <!-- menu -->
+            <nav id="swupMenu">
+              <!-- menu list -->
+              <ul class="main-menu">
+                <!-- menu item -->
+                <li class="menu-item current-menu-item">
+                  <a href="index.html">Home</a>
+                </li>
+                <!-- menu item -->
+                <li class="menu-item">
+                  <a href="projects.html">Portfolio</a>
+                </li>
+                <!-- menu item -->
+                <li class="menu-item">
+                  <a href="skills.html">Skills</a>
+                </li>
+                <!-- menu item -->
+                <li class="menu-item current-menu-item">
+                  <a href="about.html">History</a>
+                </li>
+                <!-- menu item -->
+                <!-- <li class="menu-item">
+                  <a href="contact.html">About</a>
+                </li> -->
+                <!-- menu item -->
+                <li class="menu-item">
+                  <a href="theme.html">Theme</a>
+               
+                </li>
+                 <!-- menu item -->
+                 <li class="menu-item">
+                  <a href="contact.html">Contact</a>
+                </li>
+                <!-- menu item -->
+                
+              </ul>
+              <!-- menu list end -->
+            </nav>
+            <!-- menu end -->
+
+            <!-- language change -->
+            <ul class="art-language-change">
+              <!-- language item -->
+              <li><a href="#.">UR</a></li>
+              <!-- language item -->
+              <li class="art-active-lang"><a href="#.">EN</a></li>
+            </ul>
+            <!-- language change end -->
+          </div>
+          <!-- scroll frame end -->
         </div>
-        <!-- body bg end-->
-        <!-- cursor-->
-        <div class="element">
-            <div class="element-item" style="transform: translate(-50%, -50%) matrix(1, 0, 0, 1, 637, 405);"></div>
-        </div>
-        <!-- cursor end-->
-        <div class="nav-overlay"></div>
-        <div class="page-load" data-ran="25" style="display: none;">
-            <div class="loader-spin"><span></span></div>
-            <div class="pl-row"><span class="pl-row-anim"
-                    style="opacity: 0; transform: translate3d(0px, 0px, 0px) scale(0.3, 0.3);"></span></div>
-            <div class="pl-row"><span class="pl-row-anim"
-                    style="opacity: 0; transform: translate3d(0px, 0px, 0px) scale(0.3, 0.3);"></span></div>
-            <div class="pl-row"><span class="pl-row-anim"
-                    style="opacity: 0; transform: translate3d(0px, 0px, 0px) scale(0.3, 0.3);"></span></div>
-            <div class="pl-row"><span class="pl-row-anim"
-                    style="opacity: 0; transform: translate3d(0px, 0px, 0px) scale(0.3, 0.3);"></span></div>
-            <div class="pl-row"><span class="pl-row-anim"
-                    style="opacity: 0; transform: translate3d(0px, 0px, 0px) scale(0.3, 0.3);"></span></div>
-            <div class="pl-row"><span class="pl-row-anim"
-                    style="opacity: 0; transform: translate3d(0px, 0px, 0px) scale(0.3, 0.3);"></span></div>
-            <div class="pl-row"><span class="pl-row-anim"
-                    style="opacity: 0; transform: translate3d(0px, 0px, 0px) scale(0.3, 0.3);"></span></div>
-            <div class="pl-row"><span class="pl-row-anim"
-                    style="opacity: 0; transform: translate3d(0px, 0px, 0px) scale(0.3, 0.3);"></span></div>
-            <div class="pl-row"><span class="pl-row-anim"
-                    style="opacity: 0; transform: translate3d(0px, 0px, 0px) scale(0.3, 0.3);"></span></div>
-            <div class="pl-row"><span class="pl-row-anim"
-                    style="opacity: 0; transform: translate3d(0px, 0px, 0px) scale(0.3, 0.3);"></span></div>
-            <div class="pl-row"><span class="pl-row-anim"
-                    style="opacity: 0; transform: translate3d(0px, 0px, 0px) scale(0.3, 0.3);"></span></div>
-            <div class="pl-row"><span class="pl-row-anim"
-                    style="opacity: 0; transform: translate3d(0px, 0px, 0px) scale(0.3, 0.3);"></span></div>
-            <div class="pl-row"><span class="pl-row-anim"
-                    style="opacity: 0; transform: translate3d(0px, 0px, 0px) scale(0.3, 0.3);"></span></div>
-            <div class="pl-row"><span class="pl-row-anim"
-                    style="opacity: 0; transform: translate3d(0px, 0px, 0px) scale(0.3, 0.3);"></span></div>
-            <div class="pl-row"><span class="pl-row-anim"
-                    style="opacity: 0; transform: translate3d(0px, 0px, 0px) scale(0.3, 0.3);"></span></div>
-            <div class="pl-row"><span class="pl-row-anim"
-                    style="opacity: 0; transform: translate3d(0px, 0px, 0px) scale(0.3, 0.3);"></span></div>
-            <div class="pl-row"><span class="pl-row-anim"
-                    style="opacity: 0; transform: translate3d(0px, 0px, 0px) scale(0.3, 0.3);"></span></div>
-            <div class="pl-row"><span class="pl-row-anim"
-                    style="opacity: 0; transform: translate3d(0px, 0px, 0px) scale(0.3, 0.3);"></span></div>
-            <div class="pl-row"><span class="pl-row-anim"
-                    style="opacity: 0; transform: translate3d(0px, 0px, 0px) scale(0.3, 0.3);"></span></div>
-            <div class="pl-row"><span class="pl-row-anim"
-                    style="opacity: 0; transform: translate3d(0px, 0px, 0px) scale(0.3, 0.3);"></span></div>
-            <div class="pl-row"><span class="pl-row-anim"
-                    style="opacity: 0; transform: translate3d(0px, 0px, 0px) scale(0.3, 0.3);"></span></div>
-            <div class="pl-row"><span class="pl-row-anim"
-                    style="opacity: 0; transform: translate3d(0px, 0px, 0px) scale(0.3, 0.3);"></span></div>
-            <div class="pl-row"><span class="pl-row-anim"
-                    style="opacity: 0; transform: translate3d(0px, 0px, 0px) scale(0.3, 0.3);"></span></div>
-            <div class="pl-row"><span class="pl-row-anim"
-                    style="opacity: 0; transform: translate3d(0px, 0px, 0px) scale(0.3, 0.3);"></span></div>
-            <div class="pl-row"><span class="pl-row-anim"
-                    style="opacity: 0; transform: translate3d(0px, 0px, 0px) scale(0.3, 0.3);"></span></div>
-        </div>
+        <!-- menu bar frame -->
+      </div>
+      <!-- menu bar end -->
     </div>
-    <!-- Main end -->
+    <!-- app container end -->
+  </div>
+  <!-- app wrapper end -->
+
+  <!-- preloader -->
+  <div class="art-preloader">
+    <!-- preloader content -->
+    <div class="art-preloader-content">
+      <!-- title -->
+      <h4>Abdul Qayyum</h4>
+      <!-- progressbar -->
+      <div id="preloader" class="art-preloader-load"></div>
+    </div>
+    <!-- preloader content end -->
+  </div>
+  <!-- preloader end -->
+</div>
+<!-- app end -->
     <!--=============== scripts  ===============-->
     <script src="/assets/js/jquery.min.js"></script>
     <script src="/assets/js/plugins.js"></script>
     <script src="/assets/js/scripts.js"></script>
 
+    <!-- jquery js -->
+    <!-- <script src="js/plugins/jquery.min.js"></script> -->
+    <!-- anime js -->
+    <script src="js/plugins/anime.min.js"></script>
+    <!-- swiper js -->
+    <!-- <script src="js/plugins/swiper.min.js"></script> -->
+    <!-- progressbar js -->
+    <script src="js/plugins/progressbar.min.js"></script>
+    <!-- smooth scrollbar js -->
+    <script src="js/plugins/smooth-scrollbar.min.js"></script>
+    <!-- overscroll js -->
+    <script src="js/plugins/overscroll.min.js"></script>
+    <!-- typing js -->
+    <!-- <script src="js/plugins/typing.min.js"></script> -->
+    <!-- isotope js -->
+    <!-- <script src="js/plugins/isotope.min.js"></script> -->
+    <!-- fancybox js -->
+    <script src="js/plugins/fancybox.min.js"></script>
+    <!-- swup js -->
+    <script src="js/plugins/swup.min.js"></script>
+
+    <!-- main js -->
+    <script src="js/main.js"></script>
 </body>
 
 </html>
