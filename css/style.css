@@ -1605,10 +1605,13 @@ menu bar
 }
 
 /* line 19, ../scss/_menu-bar.scss */
-
-.art-menu-bar nav .main-menu .menu-item {
+.art-menu-bar nav .main-menu .menu-item{
+    text-align: left;
     width: 100%;
     list-style-type: none;
+}
+.art-menu-bar nav .main-menu .menu-item span{
+    
     -webkit-transition: 0.55s ease-in-out;
     transition: 0.55s ease-in-out;
     opacity: 0;
@@ -1616,7 +1619,10 @@ menu bar
     transform: translateX(60px);
     transition: 0.55s ease-in-out;
 }
-
+.art-menu-bar nav .main-menu .menu-item i{
+    font-size: 14px;
+    margin-right: 10px;
+}
 /* line 27, ../scss/_menu-bar.scss */
 
 .art-menu-bar nav .main-menu .menu-item:nth-child(1) {
@@ -1912,7 +1918,7 @@ menu bar
 
 /* line 243, ../scss/_menu-bar.scss */
 
-.art-menu-bar.art-active nav .menu-item {
+.art-menu-bar.art-active nav .menu-item span{
     opacity: 1;
     -webkit-transform: translateX(0);
     transform: translateX(0);
@@ -2151,7 +2157,7 @@ content
 /* line 121, ../scss/_content.scss */
 .services-container{
     display: grid;
-    grid-template-columns: repeat(auto-fill,minmax(248px, 1fr));
+    grid-template-columns: repeat(auto-fill,minmax(262px, 1fr));
     gap: 20px;
 }
 .art-service-icon-box {

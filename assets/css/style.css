@@ -6,7 +6,6 @@
 /*-------------General Style---------------------------------------*/
 html {
 	overflow-x: hidden !important;
-	overflow-y: scroll !important;
 	height: 100%;
 }
 
