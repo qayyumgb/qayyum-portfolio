@@ -79,7 +79,7 @@ export class HomePageComponent implements OnInit {
     margin:20,
     nav:true,
     dots:false,
-    autoplay: true,
+    autoplay: false,
     autoplayTimeout: 6000,
     autoplaySpeed: 1500,
     autoplayHoverPause: true,

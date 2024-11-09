@@ -175,13 +175,13 @@
 
 .get-started {
   .btn-rounded {
-    background-color: #1583e9;
+    background-color: hsl(210, 100%, 60%);
     color: #fff;
 
     &:hover {
       background-color: #fff;
-      color: #1583e9;
-      border: 1px solid #1583e9;
+      color: hsl(210, 100%, 60%);
+      border: 1px solid hsl(210, 100%, 60%);
     }
   }
 }

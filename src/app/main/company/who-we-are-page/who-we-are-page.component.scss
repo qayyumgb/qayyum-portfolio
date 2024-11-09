@@ -47,7 +47,7 @@
     line-height: 105% !important;
     font-weight: bold;
     span{
-        background: linear-gradient(94.88deg, #1583e9 5.12%, #0dcaf0 93.99%);
+        background: linear-gradient(94.88deg, hsl(210, 100%, 60%) 5.12%, #0dcaf0 93.99%);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -67,7 +67,7 @@
             margin-left: 14px;
             content: "";
             mask: url(../../../../assets/images/arrow-right.svg) no-repeat right center;
-            background: linear-gradient(94.88deg, #1583e9 5.12%, #0dcaf0 93.99%);
+            background: linear-gradient(94.88deg, hsl(210, 100%, 60%) 5.12%, #0dcaf0 93.99%);
             vertical-align: middle;
             transition: .2s left ease-in-out;
         }

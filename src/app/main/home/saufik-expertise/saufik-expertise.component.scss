@@ -3,8 +3,8 @@
 
 .saufik-expertise-container {
   h1 {
-    font-size: 40px;
-    color: #151D21;
+    font-size: 30px;
+;
     font-weight: 700;
   }
 }
@@ -131,14 +131,6 @@
   left: 0;
 }
 
-.expertise-bg {
-  background-image: url(../../../../assets/images/expertise-bg-image.jpg);
-  background-size: cover;
-  right: 0;
-  height: 100%;
-  background-position: center;
-}
-
 .expertise-img {
   position: absolute;
   width: 100%;
@@ -165,17 +157,17 @@
 .expertise-card{
   margin: 0 15px;
   color: #fff;
-    border-radius: 2.5em 0 2.5em 2.5em;
+    border-radius: 12px;
     position: relative;
     overflow: hidden;
     max-width: 320px;
-    min-height: 320px;
+    min-height: 250px;
     .exp-info-copy{
       z-index: 2;
     grid-row-gap: 0.25em;
     flex-direction: column;
     justify-content: flex-end;
-    padding: 2em;
+    padding: 1.3em;
     display: flex;
     position: absolute;
     top: auto;
@@ -191,17 +183,7 @@
       left: 0%;
       right: 0%;
     }
-    .card-notch{
-      width: 3.75em;
-      height: 3.75em;
-      margin-top: -1.55%;
-      display: flex;
-      position: absolute;
-      top: 0%;
-      bottom: auto;
-      left: auto;
-      right: 0%;
-    }
+   
     .expertise-solution-img{
       position: absolute;
       object-fit: cover;
@@ -232,7 +214,7 @@
     left: 0%;
     right: 0%;
     .testimonial-overlay-right{
-      background-image: linear-gradient(100deg, #ffffff, rgba(255, 255, 255, 0) 101%);
+      background-image: linear-gradient(100deg, #1e1e28, rgb(30 30 40 / 26%) 101%);
       z-index: 3;
     width: 10em;
     max-width: 10em;
@@ -243,7 +225,7 @@
     right: auto;
     }
     .testimonial-overlay-left{
-      background-image: linear-gradient(89deg, rgba(255, 255, 255, 0) 0%, #fff);
+      background-image: linear-gradient(89deg, rgb(30 30 40 / 26%) 0%, #1e1e28);
       z-index: 3;
       width: 10em;
       max-width: 10em;

@@ -10,42 +10,42 @@
           "name": "Web Development",
           "icon": "fa fa-laptop",
           "menuDescription":"Experience innovation in web development with SAUFIK, combining creativity with technical excellence.",
-          "description":"Our expert team specializes in crafting responsive and visually stunning websites, combining creativity with technical excellence.",
+          "description":"My Web Development service focuses on building responsive, high-performance websites that combine functionality with an exceptional user experience. I specialize in front-end development using modern technologies.",
           "link": "service//web-development"
         },
         {
-          "name": "Mobile App",
-          "icon": "fa fa-mobile-retro",
-          "menuDescription":"Our skilled team excels in crafting dynamic and user-friendly mobile applications.",
-          "description":"Empower your mobile presence with SAUFIK. Our skilled team excels in crafting dynamic and user-friendly mobile applications, ensuring a seamless experience.",
+          "name": "Front-end Development",
+          "icon": "far fa-file-code",
+          "menuDescription":"Building responsive websites that look great on all devices.",
+          "description":"Building responsive websites that look great on all devices. Development and Integration using modern frameworks like Angular or React.js. Enhancing website speed and performance for better user experience and SEO.",
           "link": "service/mobile-app"
         },
         {
           "name": "UI/UX",
           "icon": "fa fa-swatchbook",
-          "menuDescription":"Our design experts specialize in creating intuitive and visually stunning UI/UX solutions.",
-          "description":" Our design experts specialize in creating intuitive and visually stunning UI/UX solutions. From wireframes to polished interfaces, we blend creativity and functionality to deliver engaging designs.",
+          "menuDescription":"Creating visually appealing and user-friendly interfaces tailored to your brand.",
+          "description":" Creating visually appealing and user-friendly interfaces tailored to your brand. From wireframes to polished interfaces, I blend creativity and functionality to deliver engaging designs.",
           "link": "service/uiux"
         },
         {
-          "name": "Quality Assurance",
+          "name": "Maintanance & Support",
           "icon": "fa fa-scale-balanced",
-          "menuDescription":"Our dedicated Quality Assurance team meticulously tests and refines software solutions.",
-          "description":"Our dedicated Quality Assurance team meticulously tests and refines software solutions. From functionality to performance, we guarantee a flawless user experience.",
+          "menuDescription":"Offering updates, bug fixes, and optimizations to keep your site running smoothly.",
+          "description":"Offering updates, bug fixes, and optimizations to keep your site running smoothly. Providing support and training to ensure the team can use and maintain the website effectively.",
           "link": "service/QualityAssurance"
         },
         {
-          "name": "Cloud Engineering & DevOps",
-          "icon": "fa fa-cloud",
+          "name": "Wordpress Development",
+          "icon": "fab fa-wordpress",
           "menuDescription":"Our DevOps experts streamline processes, collaboration between development and operations.",
-          "description":"Our DevOps experts streamline processes, fostering collaboration between development and operations. From continuous integration to seamless deployment.",
+          "description":"In wordpress development process i will only cover the front-end development that includes: Plugin installation, Theme Installation, Theme Integration, website design accordingly",
           "link": "service/cloud-engineering"
         },
         {
-          "name": "Digital Marketing",
-          "icon": "fa  fa-money-bill-trend-up",
-          "menuDescription":"Our experts from SEO to social media where effective digital marketing meets measurable results.",
-          "description":"Our digital marketing experts tailor strategies to boost your brand visibility. From SEO to social media where effective digital marketing meets measurable results.",
+          "name": "Performance Optimization",
+          "icon": "fas fa-chart-line",
+          "menuDescription":"Optimizing load times and minimizing resource use for a smooth user experience.",
+          "description":"Optimizing load times and minimizing resource use for a smooth user experience. Ensuring code and structure are optimized for search engines. Making interfaces accessible to all users.",
           "link": "service/digital-marketing"
         }
       ]
