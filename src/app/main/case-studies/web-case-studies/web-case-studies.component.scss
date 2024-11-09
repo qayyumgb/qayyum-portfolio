@@ -1,0 +1,189 @@
+.dev-background {
+    background-image: url(../../../../assets/images/web-service-banner.jpg);
+    background-repeat: no-repeat;
+    height: 85vh;
+    background-position: 100%;
+    background-size: cover;
+
+    img {
+        border-radius: 1rem;
+    }
+}
+
+.background-overlay,
+.blue-overlay {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+
+.background-overlay {
+    background: linear-gradient(80deg, rgba(18, 50, 125, 0.7), rgb(11 56 165 / 98%));
+}
+
+.banner-text {
+    position: relative;
+    width: 100%;
+    height: 100%;
+
+    h1 {
+        color: #fff;
+        font-size: 44px;
+    }
+
+    p {
+        font-size: 20px;
+        color: #fff;
+    }
+}
+
+.project-info-card {
+    margin-bottom: 30px;
+
+    .li-case-info {
+        margin: 10px 0;
+        color: #007bff;
+        font-weight: 500;
+
+        span {
+            padding-right: 10px;
+            // margin-right: 10px;
+            font-size: 14px;
+            font-weight: 600;
+        }
+    }
+
+    .project-name {
+        a {
+            font-weight: 700;
+            display: block;
+            color: #000;
+            text-decoration: none;
+
+            &:hover {
+                color: #007bff;
+            }
+        }
+    }
+
+    .project-description {
+        line-height: 26px;
+        font-size: 14px;
+    }
+
+    .link-txt {
+        color: #084298;
+        font-size: 14px;
+        text-decoration: none;
+
+        i {
+            font-size: 13px;
+        }
+
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}
+.proj-img-bg {
+    border-radius: 2.4em 0 2.4em 2.4em;
+    overflow: hidden;
+    position: relative;
+
+    .card-border {
+        display: block;
+        position: absolute;
+        top: 0%;
+        bottom: auto;
+        left: auto;
+        right: 0%;
+        height: 50px;
+    }
+
+    img {
+        &:nth-child(2) {
+            width: 100%;
+        }
+    }
+}
+.proj-info{
+    padding: 0 20px;
+}
+.projul-theme-clr{
+    background-color: #0574d94a;
+}
+.calimatic-theme-clr{
+    background-color: #0072c81f;
+}
+.cpr-theme-clr{
+    background-color: #f2f6f9;
+}
+.gmd-theme-clr{
+    background-color: #dedef0;
+}
+.fynd-theme-clr{
+    background-color: #f3e0ff;
+}
+.nectrus-theme-clr{
+    background-color: #a0538224;
+}
+.anvizent-theme-clr{
+    background-color: #b7ed918a;
+}
+.nexgen-theme-clr{
+    background-color: #a3c9e12b;
+}
+.pinghub-theme-clr{
+    background-color: #e8c9d799;
+}
+.palletpal-theme-clr{
+    background-color: #ced1f7;
+}
+.simplibuy-theme-clr{
+    background-color: #d0d0d0a3;
+}
+.sciensusintouch-theme-clr{
+    background-color: #dbf0d7;
+}
+.klinikiya-theme-clr{
+    background-color: #e8f9fb;
+}
+.sonnet-theme-clr{
+    background-color: #65bbd075;
+}
+.leadperf-theme-clr{
+    background-color: #b0c9d561;
+}
+.coursatik-theme-clr{
+    background-color: #e8bc9a70;
+}
+.dineconnect-theme-clr{
+    background-color: #81446617;
+}
+.goparent-theme-clr{
+    background-color: #1ddcb247;
+}
+.voicy-theme-clr{
+    background-color: #53b0c63b;
+}
+.glms-theme-clr{
+    background-color: #0419bb38;
+}
+.simplesafe-theme-clr{
+    background-color: #ffeb8a66;
+}
+.reid-theme-clr{
+    background-color: #d9eef9;
+}
+@media(max-width: 992px){
+    .dev-background{
+       height: 65vh;
+    }
+  }
+  @media(max-width: 526px){
+    .dev-background{
+       height: 50vh;
+    }
+  }

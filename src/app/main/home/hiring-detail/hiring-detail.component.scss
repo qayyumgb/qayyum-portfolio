@@ -1,0 +1,386 @@
+@import "../../../../assets/variable.scss";
+
+
+.banner-text {
+  position: relative;
+  width: 100%;
+  height: 100%;
+
+  h1 {
+    color: #fff;
+    font-size: 44px;
+    font-weight: 600;
+  }
+
+  p {
+    font-size: 20px;
+    color: #fff;
+  }
+}
+
+.naccs {
+  position: relative;
+}
+
+.naccs .menu div {
+  padding: 15px 20px 15px 40px;
+  margin-bottom: 10px;
+  color: #1683ea;
+  background: #f5f5f5;
+  cursor: pointer;
+  position: relative;
+  vertical-align: middle;
+  font-weight: 700;
+  transition: 1s all cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+.naccs .menu div:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.naccs .menu div span.light {
+  height: 10px;
+  width: 10px;
+  position: absolute;
+  top: 24px;
+  left: 15px;
+  background-color: #1683ea;
+  border-radius: 100%;
+}
+
+.naccs .menu .active .light {
+  display: none;
+}
+
+.fs-13 {
+  font-size: 13px;
+}
+
+.naccs .menu div.active {
+  background: #1683ea;
+  color: white;
+  padding: 15px 20px 15px 20px;
+}
+
+ul.nacc {
+  position: relative;
+  height: 0px;
+  list-style: none;
+  margin: 0;
+  height: 420px;
+  padding: 0;
+  transition: .5s all cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+
+ul.nacc li p {
+  margin: 0;
+}
+
+.employ-card .owl-nav {
+  position: absolute;
+  top: 6px;
+  right: 6px;
+  display: flex;
+  gap: 10px;
+}
+
+.employ-card .owl-stage {
+  transition: all ease .6s;
+  display: flex;
+  gap: 6px;
+  padding: 1px;
+}
+
+.emp-card::after,
+.emp-card::before {
+  content: '';
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  background: #1683ea;
+  z-index: -1;
+}
+
+.emp-card::after {
+  bottom: 0;
+  left: 0;
+  border-top-right-radius: 100px;
+  width: 35px;
+  height: 35px;
+}
+
+.emp-card::before {
+  border-bottom-left-radius: 100%;
+  width: 80px;
+  height: 80px;
+  top: 0;
+  right: 0;
+}
+
+.emp-card {
+  height: 430px;
+  max-width: 400px;
+  padding: 18px;
+  border: 1px solid white;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid #e4e4e4;
+}
+
+.emp-img {
+  width: 100%;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.emp-profile {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+
+}
+
+.inner-card {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  gap: 5px;
+  height: 100%;
+}
+
+.skill-box span {
+  padding: 2px 6px;
+  border: 2px solid #1683ea;
+  border-radius: 50px;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1.5;
+  background: white;
+  outline: 1px solid white;
+}
+
+.skill-box {
+  gap: 7px;
+  justify-content: center;
+  padding-bottom: 1rem;
+}
+
+.emp-designation,
+.emp-experience {
+  font-size: 13px;
+  line-height: 1.7;
+}
+
+.card-btn {
+  padding: 5px 10px;
+  font-size: 13px !important;
+}
+
+.why-chose-us .tab-title {
+  font-size: 25px;
+  font-weight: 500;
+  color: black;
+}
+
+.why-chose-us .card-header {
+  background-color: white;
+  border-bottom: 1px solid gray;
+  transition: all 0.3s;
+}
+
+.why-chose-us .card {
+  border: 0;
+}
+
+.why-chose-us .tab-number {
+  font-weight: 700;
+  font-size: 18px;
+  color: #bcbcbc;
+  padding-right: 12px;
+
+}
+
+.why-chose-us .ot-heading .main-heading {
+  font-weight: 700;
+}
+
+.why-chose-us .ot-detail {
+  font-size: 17px;
+  line-height: 1.8;
+}
+
+.why-chose-us .btn-link:hover {
+  text-decoration: none !important;
+}
+
+.why-chose-us .btn-link {
+  &:focus {
+    outline: none !important;
+    box-shadow: none !important;
+  }
+}
+
+.why-chose-header {
+  .active {
+    .fa-plus {
+      display: none;
+      transition: display 0.5s ease;
+    }
+  }
+}
+
+.why-chose-header {
+  .card-header {
+    &:not(.active) {
+      .fa-minus {
+        display: none;
+        transition: display 0.5s ease;
+      }
+    }
+  }
+}
+
+.card-body.acc-content p {
+  font-size: 17px;
+  line-height: 1.8;
+}
+
+.why-chose-us h2 {
+  user-select: none;
+}
+
+.why-chose-us .card-body.acc-content {
+  max-height: 0px;
+  overflow: hidden;
+  transition: all ease-in-out .5s;
+  padding: 0 1.25rem 0 1.25rem;
+}
+
+.why-chose-us .why-chose-header.show .card-body.acc-content {
+  max-height: 300px;
+  overflow: hidden;
+  padding: 1.25rem;
+}
+
+.why-chose-us .btn-link {
+  text-decoration: none !important;
+}
+
+.display-text {
+  overflow: hidden;
+  display: block !important;
+  transition: all .5s cubic-bezier(0,1.06,.82,.96);
+  &.show{
+    max-height: 300px;
+  padding: 20px 30px;
+  }
+  &:not(.show){
+    max-height: 0px;
+  padding: 0px 30px;
+  }
+}
+
+.technologies-use {
+  background: whitesmoke;
+  // padding: 2rem;
+  margin-top: 2rem;
+  border-radius: 1rem;
+  padding-top: 1rem;
+  position: relative;
+}
+
+.tech-skill-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(70px, 1fr));
+  gap: 1rem;
+}
+
+.sub-container {
+  max-width: 900px;
+  margin: auto;
+}
+
+.tech-skill-container .c-img {
+  width: 70px;
+  height: 70px;
+  overflow: hidden;
+  padding: 1rem;
+  border: 1px solid #c8c8c8e0;
+  border-radius: 8px;
+  position: relative;
+}
+
+.tech-skill-container img {
+  width: 100%;
+  object-fit: contain;
+  height: 100%;
+}
+
+span.card-labels {
+  font-size: 12px;
+  font-weight: 600;
+  text-align: center;
+  display: block;
+}
+
+.session-sub-title {
+  max-width: 800px;
+  text-align: center;
+  margin: auto;
+  font-size: 16px;
+}
+
+.choose-us-item .choose-us-text {
+  display: grid;
+  grid-template-columns: 80px 35% auto;
+  flex-grow: 1;
+  align-items: center;
+}
+
+.choose-us-item .title {
+  padding-top: 13px;
+  font-size: 35px;
+  color: #3a393b;
+  font-weight: 300;
+  text-transform: capitalize;
+}
+
+.choose-us-item .number {
+  font-size: 56px !important;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #d8d8d8 !important;
+  font-family: svn-gilroy, sans-serif !important;
+  display: flex;
+}
+
+.choose-us-item {
+  padding: 30px 0;
+  display: flex;
+  gap: 20px;
+  border-bottom: 1px solid #dedede;
+}
+
+.choose-us-item:first-child {
+  border-top: 1px solid #dedede;
+  margin-top: 1rem;
+
+}
+.tab-detail{
+  text-align: left;
+}
+.emp-name{
+  text-transform: uppercase;
+}
+@media (max-width: $mobile) {
+  .choose-us-item {
+    .choose-us-text{
+      grid-template-columns: auto;
+    }
+  }
+}

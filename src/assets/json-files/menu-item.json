@@ -1,0 +1,138 @@
+[
+  {
+    "linkName": "Services",
+    "submenu": {
+      "heading": "Service",
+      "tagline": "Accelerate your software development process.",
+      "tabBtntext": "Schedule A Call",
+      "sublink": [
+        {
+          "name": "Web Development",
+          "icon": "fa fa-laptop",
+          "menuDescription":"Experience innovation in web development with SAUFIK, combining creativity with technical excellence.",
+          "description":"Our expert team specializes in crafting responsive and visually stunning websites, combining creativity with technical excellence.",
+          "link": "service//web-development"
+        },
+        {
+          "name": "Mobile App",
+          "icon": "fa fa-mobile-retro",
+          "menuDescription":"Our skilled team excels in crafting dynamic and user-friendly mobile applications.",
+          "description":"Empower your mobile presence with SAUFIK. Our skilled team excels in crafting dynamic and user-friendly mobile applications, ensuring a seamless experience.",
+          "link": "service/mobile-app"
+        },
+        {
+          "name": "UI/UX",
+          "icon": "fa fa-swatchbook",
+          "menuDescription":"Our design experts specialize in creating intuitive and visually stunning UI/UX solutions.",
+          "description":" Our design experts specialize in creating intuitive and visually stunning UI/UX solutions. From wireframes to polished interfaces, we blend creativity and functionality to deliver engaging designs.",
+          "link": "service/uiux"
+        },
+        {
+          "name": "Quality Assurance",
+          "icon": "fa fa-scale-balanced",
+          "menuDescription":"Our dedicated Quality Assurance team meticulously tests and refines software solutions.",
+          "description":"Our dedicated Quality Assurance team meticulously tests and refines software solutions. From functionality to performance, we guarantee a flawless user experience.",
+          "link": "service/QualityAssurance"
+        },
+        {
+          "name": "Cloud Engineering & DevOps",
+          "icon": "fa fa-cloud",
+          "menuDescription":"Our DevOps experts streamline processes, collaboration between development and operations.",
+          "description":"Our DevOps experts streamline processes, fostering collaboration between development and operations. From continuous integration to seamless deployment.",
+          "link": "service/cloud-engineering"
+        },
+        {
+          "name": "Digital Marketing",
+          "icon": "fa  fa-money-bill-trend-up",
+          "menuDescription":"Our experts from SEO to social media where effective digital marketing meets measurable results.",
+          "description":"Our digital marketing experts tailor strategies to boost your brand visibility. From SEO to social media where effective digital marketing meets measurable results.",
+          "link": "service/digital-marketing"
+        }
+      ]
+    }
+  },
+  {
+    "linkName": "Company",
+    "submenu": {
+      "heading": "Company",
+      "tagline": "Learn more about <span class='text-primary'>SAUFIK. </span>",
+      "tabBtntext": "Schedule A Call",
+      "sublink": [
+        {
+          "name": "Who We Are",
+          "icon": "fa fa-building",
+          "menuDescription":"We are team of dedicated professionals committed to excellence, delivering solutions beyond expectations.",
+          "link": "/company/who-we-are"
+        },
+        {
+          "name": "Our Leadership",
+          "icon": "fa fa-people-group",
+          "menuDescription":"Our leadership embodies a vision for excellence and innovation. With a wealth of experience.",
+          "link": "/company/leadership"
+        },
+        {
+          "name": "Our Benefits",
+          "icon": "fa-regular fa-handshake",
+          "menuDescription":"Choose SAUFIK for a host of exclusive benefits. Enjoy seamless collaboration with our expert team.",
+          "link": "/company/benefits"
+        },
+        {
+          "name": "Social Responsibilities",
+          "icon": "fa fa-clipboard-list",
+          "menuDescription":"From environmental sustainability to community outreach, we prioritize giving back.",
+          "link": "/company/social-responsibilities"
+        },
+        {
+          "name": "Contact Us",
+          "icon": "fa-solid fa-phone-volume",
+          "menuDescription":"Happy to hear from you! Please drop us a few words about you and your projects.",
+          "link": "/company/contact-us"
+        }
+      ]
+    }
+  },
+  {
+    "linkName": "Case Studies",
+    "submenu": {
+      "heading": "Case Studies",
+      "tagline": " <span class='text-primary'>Project</span> to achieve clients’ vision.",
+      "tabBtntext": "Schedule A Call",
+      "sublink": [
+        {
+          "name": "Web Development",
+          "icon": "fa-solid fa-code",
+          "menuDescription":"Choose Scientific Strategy & Expert Consultation To Build Truly Powerful Web Applications.",
+          "link": "/case-studies/web-development"
+        },
+        {
+          "name": "Mobile Apps",
+          "icon": "fa-solid fa-mobile-screen-button",
+          "menuDescription":"We know how to build an app that your users will love. Get started with our mobile app development experts.",
+          "link": "/case-studies/mob-apps"
+        }
+      ]
+    }
+  },
+  {
+    "linkName": "Careers",
+    "submenu": {
+      "heading": "Careers",
+      "tagline": "Learn more about SAUFIK.",
+      "tabBtntext": "Schedule A Call",
+      "sublink": [
+        {
+          "name": "Career Opportunities",
+          "icon": "fa fa-building",
+          "menuDescription":"Join a dynamic team where innovation and creativity thrive. We are committed to professional growth.",
+          "link": "/careers"
+        },
+        {
+          "name": "Life At SAUFIK",
+          "icon": "fa fa-clipboard-list",
+          "menuDescription":"Experience the vibrant culture of life at SAUFIK. We foster a dynamic and inclusive workplace.",
+          "link": "/careers/saufikLife"
+        }
+      ]
+    }
+  }
+]

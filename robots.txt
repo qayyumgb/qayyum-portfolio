@@ -1,4 +1,0 @@
-﻿user-agent: *
-Disallow:/thanks.html
-
-Sitemap: https://abdul-qayyum.com/sitemap.xml

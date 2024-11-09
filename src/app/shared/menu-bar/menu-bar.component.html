@@ -1,0 +1,68 @@
+<header>
+  <div id="sticky-header" class="header_nav_manu" [ngClass]="househover?'hoverMouse':''">
+    <div class="container px-0">
+      <div class="d-flex align-items-center justify-content-between">
+        <div class="d-flex flex-xs-1 align-items-center">
+          <div class="logo sm-hide">
+            <a class="logo_img" routerLink="/" title="saufik">
+              <img src="assets/images/saufik-logo-black.png" alt="" />
+            </a>
+          </div>
+          <nav class="header-menu text-center flex-xs-1">
+            <ul class="nav_scroll mb-0">
+              <ng-container *ngFor="let nav of navItems;let i = index">
+                <li (mouseenter)="showSubMenu(i)" (mouseleave)="hideSubMenu()" [class]="getIndex===i?'active':''"><a 
+                  class="pointer py-3">{{nav.linkName}} <span><i class="fas fa-angle-down"></i></span></a>
+                  <ul [@fadeInOut]="isUlVisible ? 'visible' : 'hidden'" *ngIf="isUlVisible && getIndex===i" class="sub-menu w-100 p-0 overflow-hidden">
+                    <div class="submenu-grid h-sm-100">
+
+                      <div class="row m-0 h-sm-100">
+                        <div class="col-lg-3 bg-light">
+                          <div class="p-3 d-flex flex-column justify-content-between h-100 sm-hide">
+                            <h2 class="fw-7" [innerHTML]="nav.submenu.tagline">
+
+                            </h2>
+                            <a class="fw-6 pointer hover-move-arrow text-decoration-none" href="https://calendly.com/saufik" target="_blank">{{nav.submenu.tabBtntext | uppercase}}<span
+                                class="fa fa-arrow-right"></span></a>
+                            
+                          </div>
+
+                          <div class="p-1 justify-content-between h-100 show-sm-flex align-items-center">
+                            <a class="logo_img" routerLink="/" title="saufik">
+                              <img src="assets/images/saufik-logo-black.png" alt="" />
+                            </a>
+                            <span class="show-sm close-menu-btn" (click)="hideSubMenu()"><i class="fa fa-times"></i></span>
+                          </div>
+                        </div>
+                        <div class="col-lg-9 p-3 calc-h-sm">
+                          <div class="col-megamenu">
+                            <h4 class="mb-0 title">{{nav.submenu.heading}}</h4>
+
+                          </div>
+                          <div class="submenu-grid-for-Desktop">
+                            <ng-container *ngFor="let a of nav.submenu.sublink">
+                            <div class="grid-item d-flex gap-3 pointer" (click)="changeRoute(a.link)">
+                              <ng-container *ngIf="a.icon">
+                                <span class="fs-5 sub-nav-icon mt-2" [ngClass]="a.icon"></span>
+                              </ng-container>
+                              <div>
+                                <h5 class="grid-title fw-7 fs-6">{{a.name}}</h5>
+                                <p>{{a.menuDescription}}</p>
+                              </div>
+                            </div>
+                          </ng-container>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </ul>
+                </li>
+              </ng-container>
+            </ul>
+          </nav>
+        </div>
+        <div class="d-flex px-5 pointer sm-hide" routerLink="/company/contact-us"><button class="btn-primary btn">Contact Us</button></div>
+      </div>
+    </div>
+  </div>
+</header>
