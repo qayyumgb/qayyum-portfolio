@@ -1,0 +1,156 @@
+@import "../../../../assets/variable.scss";
+
+// contact tabs css
+.contact-us {
+  background: #f8f8f8;
+  // background-image: url("https://demo2.themelexus.com/editech/wp-content/uploads/2021/02/h1-bg3.png");
+  // background-image: url("https://bizmax-html.vercel.app/assets/img/contact_bg.jpeg");
+  background-repeat: no-repeat;
+  background-position: left;
+  a{
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .contact-us-section {
+    padding: 50px 0;
+
+    .btn-rounded {
+      background: $primaryColor !important;
+      color: #fff !important;
+      border-width: 2px !important;
+
+      &:hover {
+        background: #fff !important;
+        color: $primaryColor !important;
+        border: 2px solid $primaryColor;
+      }
+    }
+
+    .sub-title-form {
+      font-size: 18px;
+      color: #898D8F;
+      margin-bottom: 18px;
+    }
+
+    img {
+      height: 231px;
+      width: 100%;
+      max-width: 218px;
+      margin: 0;
+    }
+
+    label {
+      display: block;
+      margin: 0;
+      font-size: 16px;
+      font-weight: normal;
+      line-height: 1.5;
+      color: #898D8F;
+      margin-bottom: .5rem;
+    }
+  }
+
+  .required-label {
+    color: red;
+    margin-left: 1px;
+  }
+
+  .form-control {
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    height: 3.2875rem;
+    margin: 0 0 1rem;
+    padding: 0.625rem 0.9375rem;
+    border-width: 2px;
+    border-radius: 8px;
+    background-color: transparent;
+    box-shadow: none;
+    font-family: inherit;
+    font-size: 1rem;
+    font-weight: normal;
+    line-height: 1.5;
+    color: #898D8F;
+    transition: box-shadow 0.5s, border-color 0.25s ease-in-out;
+
+    &::placeholder {
+      color: #cacaca;
+      font-size: 16px;
+      font-weight: 400;
+    }
+
+    &:focus {
+      outline: none;
+      border: 2px solid $primaryColor;
+      background-color: #e6e6e6;
+      box-shadow: none;
+      transition: box-shadow 0.5s, border-color 0.25s ease-in-out;
+      outline:4px solid #1583e917
+    }
+
+  }
+
+}
+
+.form-contact-us-right {
+  // box-shadow: 0px -28px 42px -43px gray;
+  border-radius: 30px;
+
+}
+
+.contact-form {
+  .form-group {
+    position: relative;
+  }
+
+  textarea,
+  input {
+    &:focus {
+      background-color: transparent !important;
+      &::placeholder{
+        opacity: 0;
+      }
+      &~label {
+        top: -10px;
+        background-color: #f8f8f8;
+        font-size: 14px;
+        opacity: 3;
+        z-index: 1;
+      }
+    }
+  }
+
+  label {
+    position: absolute;
+    top: 10px;
+    left: 0.7rem;
+    padding: 0 .3rem;
+    opacity: 0;
+    z-index: -1;
+    transition: all ease-in-out .3s;
+  }
+}
+
+.share-point
+{
+  img{
+    max-width: 60px;
+  }
+}
+.sq-box{
+  border: 2px solid;
+  color: #1583e9;
+  padding: 1rem;
+  width: 40px;
+  height: 40px;
+  border-radius: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  outline: 5px solid rgba(21, 131, 233, 0.1294117647);
+}
+.lh-1
+{
+  line-height: 1;
+}

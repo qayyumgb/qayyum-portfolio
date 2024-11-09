@@ -1,0 +1,353 @@
+<app-header-banner [headerdata]="headertagData"></app-header-banner>
+<div>
+    <div class="history-values section-top-inner-space section-bottom-inner-space bg-light">
+        <h1 class="section-title text-center mb-5">Our Leadership</h1>
+        <div class="history-values-wrapper container d-flex justify-content-center flex-wrap">
+          <ng-container *ngFor="let item of leadership">
+            <div class="history-values-card-main">
+                <div class="history-values-card bg-white history-values-card--left">
+                    <div class="history-values-card-headline-col">
+                        <h3 class="history-values-card-headline mb-3 font-24">
+                            {{item.title}}
+                        </h3>
+                        <p class="history-values-card-subheadline paragraph1 font-14">{{item.detail}}</p>
+                    </div>
+                    <div class="history-values-card-icon history-values-card-left-icon">
+                        <img src="../../../../assets/images/{{item.img}}">
+                    </div>
+                </div>
+            </div>
+          </ng-container>
+        </div>
+        <div class="container">
+            <div class="reason-wrapper bg-primary text-white">
+                <div class="mx-lg-5 px-lg-5 px-4 d-flex justify-content-lg-between justify-content-center flex-wrap">
+                    <h2 class="section-title">Why SAUFIK?</h2>
+                    <button class="btn btn-primary btn-custom bg-white text-primary border-white font-14" [routerLink]="['/company/contact-us']" routerLinkActive="router-link-active">Contact Us Today To Learn
+                        More</button>
+                </div>
+                <div class="history-reason-blocks mx-lg-5 mx-3 px-lg-5 px-3 d-flex justify-content-between flex-wrap mt-lg-5 mt-3">
+                    <div class="history-reason-block-text">
+                        <p class="history-reason-block-headline mb-2 font-16">
+                            global expertise
+                        </p>
+                        <p class="history-reason-block-subheadline font-14">
+                            We have established successful partnerships with US-based companies for the past 8 years,
+                            helping them scale their businesses and achieve their digital goals.
+                        </p>
+                    </div>
+                    <div class="history-reason-block-text">
+                        <p class="history-reason-block-headline mb-2 font-16">
+                            Product Design
+                        </p>
+                        <p class="history-reason-block-subheadline font-14">
+                            Design is the foundation of our product development, guiding creation with knowledge and
+                            research to determine relevant features that meet user needs.
+                        </p>
+                    </div>
+                    <div class="history-reason-block-text">
+                        <p class="history-reason-block-headline mb-2 font-16">
+                            custom solution
+                        </p>
+                        <p class="history-reason-block-subheadline font-14">
+                            Our experimentation is centered in creating unique solutions, always searching for the best one
+                            in each project. We thrive in finding new ways to amaze our clients.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+       
+    </div>
+<div class="team-mates section-top-inner-space">
+    <div class="team-heading mx-lg-5 px-5 d-flex justify-content-center flex-column align-items-center flex-wrap text-lg-start text-center">
+        <h2 class="fw-9 font-30">Meet our Leadership</h2>
+        <p class="paragraph2 font-16">The fantastic people that makes SAUFIK's effect happen</p>
+        <div class="mb-3"><button class="btn btn-primary py-3 btn-custom font-12" [routerLink]="['/company/contact-us']" routerLinkActive="router-link-active">Tech Meeting</button></div>
+    </div>
+    <div class="container mt-4 team-meeting section-bottom-outer-space position-relative d-flex flex-wrap justify-content-center align-items-center">
+        <div class="team-cards-detail">
+            <div class="team-card position-relative">
+                <img class="profile-img" src="../../../../assets/images/dir-waqas.jpg" alt="">
+            </div>
+            <div class="team-card-wrapper">
+                <div class="team-detail">
+                    <div class="team-card-person">
+                        <p class="team-card-name mb-0 fw-6 font-12">
+                            Syed Waqas Akbar
+                        </p>
+                        <p class="team-card-position mb-0 font-12 ">
+                            Director
+                        </p>
+                    </div>
+                    <div class="linkedin-detail d-none">
+                        <img src="../../../../assets/images/linkedin.svg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="team-cards-detail">
+            <div class="team-card position-relative">
+                <img class="profile-img" src="../../../../assets/images/dir-salman.jpg" alt="">
+            </div>
+            <div class="team-card-wrapper">
+                <div class="team-detail">
+                    <div class="team-card-person">
+                        <p class="team-card-name mb-0 fw-6 font-12">
+                            Salman Rasheed
+                        </p>
+                        <p class="team-card-position mb-0 font-12 ">
+                            Director
+                        </p>
+                    </div>
+                    <div class="linkedin-detail d-none">
+                        <img src="../../../../assets/images/linkedin.svg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="team-cards-detail">
+            <div class="team-card position-relative">
+                <img class="profile-img" src="../../../../assets/images/dir-qasim.jpg" alt="">
+            </div>
+            <div class="team-card-wrapper">
+                <div class="team-detail">
+                    <div class="team-card-person">
+                        <p class="team-card-name mb-0 fw-6 font-12">
+                            Qasim Ali
+                        </p>
+                        <p class="team-card-position mb-0 font-12 ">
+                            Director
+                        </p>
+                    </div>
+                    <div class="linkedin-detail d-none">
+                        <img src="../../../../assets/images/linkedin.svg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="team-cards-detail">
+            <div class="team-card position-relative">
+                <img class="profile-img" src="../../../../assets/images/dir-nauman.jpg" alt="">
+            </div>
+            <div class="team-card-wrapper">
+                <div class="team-detail">
+                    <div class="team-card-person">
+                        <p class="team-card-name mb-0 fw-6 font-12">
+                            Nauman Asghar
+                        </p>
+                        <p class="team-card-position mb-0 font-12 ">
+                            Director
+                        </p>
+                    </div>
+                    <div class="linkedin-detail d-none">
+                        <img src="../../../../assets/images/linkedin.svg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+     
+        <div class="team-cards-detail">
+            <div class="team-card position-relative">
+                <img class="profile-img" src="../../../../assets/images/mang-qayyum.jpg" alt="">
+            </div>
+            <div class="team-card-wrapper">
+                <div class="team-detail">
+                    <div class="team-card-person">
+                        <p class="team-card-name mb-0 fw-6 font-12">
+                            Abdul Qayyum
+                        </p>
+                        <p class="team-card-position mb-0 font-12 ">
+                           Manager
+                        </p>
+                    </div>
+                    <div class="linkedin-detail d-none">
+                        <img src="../../../../assets/images/linkedin.svg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="team-cards-detail">
+            <div class="team-card position-relative">
+                <img class="profile-img" src="../../../../assets/images/mang-saif.jpg" alt="">
+            </div>
+            <div class="team-card-wrapper">
+                <div class="team-detail">
+                    <div class="team-card-person">
+                        <p class="team-card-name mb-0 fw-6 font-12">
+                            Sikandar Bilal
+                        </p>
+                        <p class="team-card-position mb-0 font-12 ">
+                            Manager
+                        </p>
+                    </div>
+                    <div class="linkedin-detail d-none">
+                        <img src="../../../../assets/images/linkedin.svg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+       
+        <div class="team-cards-detail">
+            <div class="team-card position-relative">
+                <img class="profile-img" src="../../../../assets/images/mang-anas.jpg" alt="">
+            </div>
+            <div class="team-card-wrapper">
+                <div class="team-detail">
+                    <div class="team-card-person">
+                        <p class="team-card-name mb-0 fw-6 font-12">
+                            Anas Shahid
+                        </p>
+                        <p class="team-card-position mb-0 font-12 ">
+                            Manager
+                        </p>
+                    </div>
+                    <div class="linkedin-detail d-none">
+                        <img src="../../../../assets/images/linkedin.svg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="team-cards-detail">
+            <div class="team-card position-relative">
+                <img class="profile-img" src="../../../../assets/images/mang-saad.jpg" alt="">
+            </div>
+            <div class="team-card-wrapper">
+                <div class="team-detail">
+                    <div class="team-card-person">
+                        <p class="team-card-name mb-0 fw-6 font-12">
+                            Saad Ahmed
+                        </p>
+                        <p class="team-card-position mb-0 font-12 ">
+                            Manager
+                        </p>
+                    </div>
+                    <div class="linkedin-detail d-none">
+                        <img src="../../../../assets/images/linkedin.svg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="team-cards-detail">
+            <div class="team-card position-relative">
+                <img class="profile-img" src="../../../../assets/images/mang-usman.jpg" alt="">
+            </div>
+            <div class="team-card-wrapper">
+                <div class="team-detail">
+                    <div class="team-card-person">
+                        <p class="team-card-name mb-0 fw-6 font-12">
+                            Muhammad Usman
+                        </p>
+                        <p class="team-card-position mb-0 font-12 ">
+                            Manager
+                        </p>
+                    </div>
+                    <div class="linkedin-detail d-none">
+                        <img src="../../../../assets/images/linkedin.svg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="team-cards-detail">
+            <div class="team-card position-relative">
+                <img class="profile-img" src="../../../../assets/images/lead-hamza.jpg" alt="">
+            </div>
+            <div class="team-card-wrapper">
+                <div class="team-detail">
+                    <div class="team-card-person">
+                        <p class="team-card-name mb-0 fw-6 font-12">
+                           Hamza Ayub
+                        </p>
+                        <p class="team-card-position mb-0 font-12 ">
+                            Team Lead
+                        </p>
+                    </div>
+                    <div class="linkedin-detail d-none">
+                        <img src="../../../../assets/images/linkedin.svg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="team-cards-detail">
+            <div class="team-card position-relative">
+                <img class="profile-img" src="../../../../assets/images/teamlead-Ahtasham.jpg" alt="">
+            </div>
+            <div class="team-card-wrapper">
+                <div class="team-detail">
+                    <div class="team-card-person">
+                        <p class="team-card-name mb-0 fw-6 font-12">
+                           Ahtasham Ul Haq
+                        </p>
+                        <p class="team-card-position mb-0 font-12 ">
+                            Team Lead
+                        </p>
+                    </div>
+                    <div class="linkedin-detail d-none">
+                        <img src="../../../../assets/images/linkedin.svg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="team-cards-detail">
+            <div class="team-card position-relative">
+                <img class="profile-img" src="../../../../assets/images/lead-usama.jpg" alt="">
+            </div>
+            <div class="team-card-wrapper">
+                <div class="team-detail">
+                    <div class="team-card-person">
+                        <p class="team-card-name mb-0 fw-6 font-12">
+                          Usama Ahmed
+                        </p>
+                        <p class="team-card-position mb-0 font-12 ">
+                            Team Lead
+                        </p>
+                    </div>
+                    <div class="linkedin-detail d-none">
+                        <img src="../../../../assets/images/linkedin.svg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="team-cards-detail">
+            <div class="team-card position-relative">
+                <img class="profile-img" src="../../../../assets/images/lead-ahmar.jpg" alt="">
+            </div>
+            <div class="team-card-wrapper">
+                <div class="team-detail">
+                    <div class="team-card-person">
+                        <p class="team-card-name mb-0 fw-6 font-12">
+                            Ahmar Hassan
+                        </p>
+                        <p class="team-card-position mb-0 font-12 ">
+                           Team Lead
+                        </p>
+                    </div>
+                    <div class="linkedin-detail d-none">
+                        <img src="../../../../assets/images/linkedin.svg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="team-cards-detail">
+            <div class="team-card position-relative">
+                <img class="profile-img" src="../../../../assets/images/lead-ouneeb.jpg" alt="">
+            </div>
+            <div class="team-card-wrapper">
+                <div class="team-detail">
+                    <div class="team-card-person">
+                        <p class="team-card-name mb-0 fw-6 font-12">
+                            Ouneeb Ur Rehman
+                        </p>
+                        <p class="team-card-position mb-0 font-12 ">
+                           Team Lead
+                        </p>
+                    </div>
+                    <div class="linkedin-detail d-none">
+                        <img src="../../../../assets/images/linkedin.svg" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
