@@ -1,0 +1,2900 @@
+[
+  {
+    "username": "1",
+    "workend": "Front-End-Developer",
+    "yearsOfexperience": "6 Years +",
+    "name": "Abdul Qayyum",
+    "title": "Lead Front-End-Developer",
+    "technicalExperties": [
+      {
+        "name": "Javascript",
+        "yearOfExp": "6"
+      },
+      {
+        "name": "Angular",
+        "yearOfExp": "6"
+      },
+      {
+        "name": "ReactJS",
+        "yearOfExp": "6"
+      },
+      {
+        "name": "HTML 5",
+        "yearOfExp": "7"
+      },
+      {
+        "name": "Scss",
+        "yearOfExp": "7"
+      }
+    ],
+    "degreeAndCer": [
+      "Bs Information Technological "
+    ],
+    "language": [
+      "Urdu",
+      "English"
+    ],
+    "ProfessionalSummery": "I'm a Software Engineer with 6 years + of experience developing complex software solutions for various industries.I am specialize in developing responsive\n websites using the latest technologies such as HTML, CSS, Bootstrap, JavaScript, Angular, jQuery and React. My expertise in front-end development includes\n optimizing website performance, creating cross-browser compatibility, and ensuring accessibility for all users. my focus is to create a visually appealing and\n responsive design that is user-friendly and easy to navigate.\n I am also proficient in UI/UX design and have very strong hand on Figma and Adobe XD.\n Passionate about staying up-to-date with emerging technologies and applying them to solve real-world problems",
+    "topSkill": [
+      "HTML 5",
+      "Tailwind CSS",
+      "Lazy loading",
+      "Angular",
+      "CSS 3",
+      " Bootstrap",
+      "JavaScript",
+      "Typescript",
+      "API Integration",
+      "jQuery",
+      "MySQL",
+      "GitHub ",
+      "Figma",
+      "Adobe XD",
+      "Adobe Photoshop",
+      "Adobe Illustrator ",
+      "Wordpress",
+      " Material-UI",
+      "REST APIs",
+      "ReactJS",
+      "SCSS"
+    ],
+    "project": [
+      {
+        "name": "Calimatic LMS",
+        "Link": "https://www.calimaticedtech.com",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "jQuery",
+          "Designing",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Fynd",
+        "Link": "https://fynd.careers",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "PalletPal",
+        "Link": "https://www.palletpal.me",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Angular",
+          "Typescript",
+          "Material",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Reid Health",
+        "Link": "https://www.reidhealth.org",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Typescript",
+          "React",
+          "Typescript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "CPR Enroll ",
+        "Link": "https://cprenroll.com/#/home",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Projul ",
+        "Link": "https://projul.com",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "PrimeNg",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Nexgen Tutoring",
+        "Link": "http://nexgentutoring.com",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "Bootstrap"
+        ]
+      }
+    ],
+    "workExperience": [
+      {
+        "name": "Sr. Front-End-Developer",
+        "position": "Team Lead & Manager",
+        "Institution": "SAUFIK",
+        "Duration": "Oct, 2017 - Present",
+        "Detail": "I started my journey in SAUFIK from Sep 2017. Curreuntly I am working as a senior Front-end Developer and designation is Team Lead and Development Manager.\n Developing and maintaining the user interface (UI) using HTML, CSS, JavaScript and Angular.\n Ensuring that the UI is visually appealing, responsive, and easy to navigate, with a focus on user experience.\n Collaborating with designers and back-end developers to ensure that the UI is aligned with requirements.\n Optimizing the UI for performance, speed, and compatibility across multiple devices and browsers.\n Troubleshooting and debugging issues that arise during development, including identifying and fixing bugs.\n Participating in code reviews and testing processes to ensure the quality and reliability of the UI.\n Communicating effectively with team members, and clients to ensure that project goals and timelines are met. Overall, focused on creating responsive and\n user-friendly experience for website or application, while ensuring that the UI is optimized for performance compatibility."
+      },
+      {
+        "name": "UI/UX Designer",
+        "Institution": "Masia Solutions",
+        "position": "Team Lead & Manager",
+        "Duration": "Jan, 2017 - Aug, 201",
+        "Detail": "\n I worked with Masia Institute as UI/UX designer for 7 months. Understand the needs, goals, and behaviors of the target audience to create designs that are usable.\n Create wireframes, mockups, and prototypes for user testing using Figma and Adobe XD."
+      }
+    ]
+  },
+  {
+    "username": "2",
+    "workend": "Front-End-Developer",
+    "yearsOfexperience": "4 Years +",
+    "name": "Mukhtar Ali",
+    "title": "Sr. Front-End-Developer",
+    "technicalExperties": [
+      {
+        "name": "HTML 5",
+        "yearOfExp": "4"
+      },
+      {
+        "name": "Javascript",
+        "yearOfExp": "4"
+      },
+      {
+        "name": "Angular",
+        "yearOfExp": "4"
+      },
+      {
+        "name": "Scss",
+        "yearOfExp": "4"
+      },
+      {
+        "name": "Jquery",
+        "yearOfExp": "4"
+      }
+    ],
+    "degreeAndCer": [
+      "MSSE"
+    ],
+    "language": [
+      "Urdu",
+      "English"
+    ],
+    "ProfessionalSummery": "\n I am a software developer with 4+ years of experience in developing visually appealing and user-friendly websites for various industries.\n With a strong foundation in HTML, CSS, JavaScript, Jquery and Angular, I thrive on turning design concepts into seamless,\n responsive web experiences. I am dedicated to staying up-to-date with the latest industry trends and technologies to deliver\n cutting-edge solutions for industries.",
+    "topSkill": [
+      "HTML 5",
+      "Tailwind CSS",
+      " Lazy loading",
+      "Angular",
+      "CSS 3 ",
+      "OOP",
+      "SCSS",
+      "Bootstrap",
+      "Javascript",
+      "Typescript",
+      "API Integration",
+      "jQuery",
+      "GitHub",
+      "Figma ",
+      "Adobe XD"
+    ],
+    "project": [
+      {
+        "name": "Calimatic LMS",
+        "Link": "https://www.calimaticedtech.com",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "jQuery",
+          "Designing",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Fynd",
+        "Link": "https://fynd.careers",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "PalletPal",
+        "Link": "https://www.palletpal.me",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Angular",
+          "Typescript",
+          "Material",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "SAUFIK Solution",
+        "Link": "https://saufik.com/",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Angular",
+          "Typescript",
+          "Material",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "CPR Enroll ",
+        "Link": "https://cprenroll.com/#/home",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Projul ",
+        "Link": "https://projul.com",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "PrimeNg",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Nexgen Tutoring",
+        "Link": "http://nexgentutoring.com",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "Bootstrap"
+        ]
+      }
+    ],
+    "workExperience": [
+      {
+        "name": "Sr. Front-End-Developer",
+        "position": "Sr. Front-End-Developer",
+        "Institution": "SAUFIK",
+        "Duration": "Nov, 2020 - Present",
+        "Detail": "\n • Developing and maintaining the user interface (UI) using HTML, CSS, JavaScript and Angular.\n • Ensuring that the UI is visually appealing, responsive, and easy to navigate, with a focus on user experience.\n • Collaborating with designers and back-end developers to ensure that the UI is aligned with requirements.\n • Participating in code reviews and testing processes to ensure the quality and reliability of the UI.\n • Communicating effectively with team members, and clients to ensure that project goals and timelines are met. Overall, focused on creating responsive and\n • user-friendly experience for website or application, while ensuring that the UI is optimized for performance compatibility.\n • Optimizing the UI for performance, speed, and compatibility across multiple devices and browsers.\n • Troubleshooting and debugging issues that arise during development, including identifying and fixing bugs."
+      }
+    ]
+  },
+  {
+    "username": "3",
+    "workend": "SQA",
+    "yearsOfexperience": " 3 Years +",
+    "name": "AHMAR HASSAN",
+    "title": "Sr. Software Test Engineer",
+    "technicalExperties": [
+      {
+        "name": "Manual/Automation Testing",
+        "yearOfExp": "7"
+      },
+      {
+        "name": "STLC/Testing Methodologies",
+        "yearOfExp": "6"
+      },
+      {
+        "name": "Test Planning/Execution",
+        "yearOfExp": "6"
+      }
+    ],
+    "degreeAndCer": [
+      "Bs Computer Science"
+    ],
+    "language": [
+      "Urdu",
+      "English"
+    ],
+    "ProfessionalSummery": "A software product professional who is highly proficient in Quality Assurance methodologies and able to perform in a fast-paced agile/scrum/safe environment.\n Experienced in all test activities including planning, test execution, and reporting test results to multiple teams across the organization. Highly organized individual with the ability to troubleshoot complex problems.",
+    "topSkill": [
+      " Management, Empowerment",
+      " Manual/Automation Testing",
+      " SDLC/Development",
+      " Methodologies",
+      " Non-Functional, Functional",
+      " Testing",
+      " Test Planning/Execution",
+      " Test Processes/Bug Cycle",
+      " STLC/Testing Methodologies",
+      " Hybrid Mobile Apps Testing",
+      " Bug Reporting API Testing"
+    ],
+    "project": [
+      {
+        "name": "Calimatic LMS",
+        "Link": "https://www.calimaticedtech.com",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "jQuery",
+          "Designing",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Fynd",
+        "Link": "https://fynd.careers",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "SAUFIK Solution",
+        "Link": "https://saufik.com/",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Angular",
+          "Typescript",
+          "Material",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Reid Health",
+        "Link": "https://www.reidhealth.org",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Typescript",
+          "React",
+          "Typescript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "CPR Enroll ",
+        "Link": "https://cprenroll.com/#/home",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Projul ",
+        "Link": "https://projul.com",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "PrimeNg",
+          "Bootstrap"
+        ]
+      }
+    ],
+    "workExperience": [
+      {
+        "name": "Sr. Software Test Engineer",
+        "Institution": "SAUFIK",
+        "position": "Team Lead ",
+        "Duration": "Jan, 2022 - Present",
+        "Detail": "• Quality control and maintenance on PaaS & SaaS based application (marketplace, network marketing).<br>\n • Fetches user data using database with the help of SQL queries.<br>\n • API testing for wallet confidential transactions using postman.<br>\n • UI/UX testing, Hands on bug tracking tool assembla.<br>\n • Collaborating with product manager and developers for Requirements Document and Analysis. Weekly quality control and analysis for improvement the\n application along with linked products with project manager."
+      },
+      {
+        "name": "Associate Software Quality Engineer",
+        "position": null,
+        "Institution": "soft seek International",
+        "Duration": "Aug, 2021 - Jan, 2022",
+        "Detail": " Quality control and maintenance on PaaS & SaaS based application (marketplace, network marketing).<br>\n • Fetches user data using database with the help of SQL queries.<br>\n • API testing for wallet confidential transactions using postman.<br>\n • UI/UX testing, Hands on bug tracking tool assembla.<br>\n • Collaborating with product manager and developers for Requirements Document and Analysis. Weekly quality control and analysis for improvement the\n application along with linked products with project manager."
+      }
+    ]
+  },
+  {
+    "username": "4",
+    "workend": "Mob-app-Developer",
+    "yearsOfexperience": " 3 Years +",
+    "name": "MATI UR RAHMAN",
+    "title": "React Native Developer",
+    "technicalExperties": [
+      {
+        "name": "React Native",
+        "yearOfExp": "7"
+      },
+      {
+        "name": "Javascript",
+        "yearOfExp": "6"
+      },
+      {
+        "name": "Typescript",
+        "yearOfExp": "6"
+      }
+    ],
+    "degreeAndCer": [
+      "Bs software engineering",
+      "Master in Software Engineering"
+    ],
+    "language": [
+      "Urdu",
+      "English"
+    ],
+    "ProfessionalSummery": "Innovative and results-driven Mobile App Developer with 5+ years of experience in designing, developing, and deploying high-quality mobile applications for iOS and Android platforms. Proficient in various programming languages including React Native, Flutter, and JavaScript, with a deep understanding of mobile architecture and user experience design. Adept at collaborating with cross-functional teams to define, design, and ship new features, ensuring robust and scalable performance across diverse devices. Passionate about keeping up-to-date with the latest industry trends and emerging technologies, I am dedicated to creating intuitive, user-friendly, and visually appealing mobile applications that elevate user engagement and satisfaction.",
+    "topSkill": [
+      "React Native",
+      "Android & iOS app white labeling",
+      "React Hooks",
+      "Firebase",
+      "Agora",
+      "Twillo",
+      "Jira",
+      "React JS",
+      "Typescript",
+      "Redux, ",
+      "Redux Saga",
+      "Apple Push Notification",
+      "Socket.io",
+      "Firebase Crashlytics",
+      "Azure Devops"
+    ],
+    "project": [
+      {
+        "name": "Calimatic LMS",
+        "Link": "https://www.calimaticedtech.com",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "jQuery",
+          "Designing",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Fynd",
+        "Link": "https://fynd.careers",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "SAUFIK Solution",
+        "Link": "https://saufik.com/",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Angular",
+          "Typescript",
+          "Material",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Reid Health",
+        "Link": "https://www.reidhealth.org",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Typescript",
+          "React",
+          "Typescript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "CPR Enroll ",
+        "Link": "https://cprenroll.com/#/home",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Projul ",
+        "Link": "https://projul.com",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "PrimeNg",
+          "Bootstrap"
+        ]
+      }
+    ],
+    "workExperience": [
+      {
+        "name": "Mobile App Developer",
+        "Institution": "Saufik",
+        "position": null,
+        "Duration": "aug, 2020 - Present",
+        "Detail": "\n Integrate the Firebase database for real-time communication.<br>\n Integrate Firebase push notifications on Android and iOS.<br>\n Integrate Apple push notifications for mobile calling.<br>\n Integrate Socket.io for real-time messaging.<br>\n Integrate Agora for calling and messaging.<br>\n Developed a Chat app with all the capabilities (Images, Audio, Video, Read Receipt Feature Etc.)<br>\n Handled View, Upload, and Download all the formats of the documents in the App.<br> "
+      },
+      {
+        "name": "Mobile App Developer",
+        "position": null,
+        "Institution": "tecxpert inc",
+        "Duration": "april 2018 – august 2020",
+        "Detail": " I have worked on a couple of application in in the TECHXPERT over my period there. The main application is Home Health Care application. Home Health Care was used by some top hospitals in the USA. "
+      }
+    ]
+  },
+  {
+    "username": "5",
+    "workend": "SQA",
+    "yearsOfexperience": " 2 Years +",
+    "name": "Rida Iftikhar",
+    "title": "Software Engineer",
+    "technicalExperties": [
+      {
+        "name": "Agile Testing",
+        "yearOfExp": "2"
+      },
+      {
+        "name": "Manual/Automation testing",
+        "yearOfExp": "1.5"
+      },
+      {
+        "name": "SQL",
+        "yearOfExp": "0.5"
+      }
+    ],
+    "degreeAndCer": [
+      "Bs Computer Science"
+    ],
+    "language": [
+      "Urdu",
+      "English"
+    ],
+    "ProfessionalSummery": "A software product professional who is highly proficient in Quality Assurance methodologies and able to perform in a fast-paced agile/scrum/safe environment.\n Experienced in all test activities including planning, test execution, and reporting test results to multiple teams across the organization. Highly organized individual with the ability to troubleshoot complex problems.",
+    "topSkill": [
+      " Manual/Automation Testing",
+      " SDLC/Development",
+      " Methodologies",
+      " Non-Functional, Functional",
+      " Testing",
+      " Test Planning/Execution",
+      " Test Processes/Bug Cycle",
+      " STLC/Testing Methodologies",
+      " Hybrid Mobile Apps Testing",
+      " Bug Reporting API Testing"
+    ],
+    "project": [
+      {
+        "name": "Calimatic LMS",
+        "Link": "https://www.calimaticedtech.com",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "jQuery",
+          "Designing",
+          "Bootstrap"
+        ]
+      }
+    ],
+    "workExperience": [
+      {
+        "name": "Junior Software Engineer",
+        "Institution": "Saufik",
+        "position": "null",
+        "Duration": "Feb, 2022 - Present",
+        "Detail": "• Quality control and maintenance on PaaS & SaaS based application (marketplace, network marketing).\n • Fetches user data using database with the help of SQL queries.\n • API testing for wallet confidential transactions using postman.\n • UI/UX testing, Hands on bug tracking tool assembla.\n • Collaborating with product manager and developers for Requirements Document and Analysis. Weekly quality control and analysis for improvement the\n application along with linked products with project manager."
+      },
+      {
+        "name": "Associate Software Quality Engineer",
+        "position": null,
+        "Institution": "Unicorn Technologies",
+        "Duration": "July, 2021 - Feb, 2022",
+        "Detail": " Executed test plans, procedures, use cases and test scripts, and provided in-depth analysis to create and rollout new software.\n • UI/UX testing, Hands on bug tracking tool Clickup\n • Communicated with the project management team and QA Lead to resolve defects"
+      }
+    ]
+  },
+  {
+    "username": "6",
+    "workend": "Front-End-Developer",
+    "yearsOfexperience": "3 Years +",
+    "name": "Asad Bilal",
+    "title": "Front-End-Developer",
+    "technicalExperties": [
+      {
+        "name": "HTML 5",
+        "yearOfExp": "3"
+      },
+      {
+        "name": "TypeScript",
+        "yearOfExp": "3"
+      },
+      {
+        "name": "Angular 17",
+        "yearOfExp": "3"
+      },
+      {
+        "name": "Rxjs",
+        "yearOfExp": "6"
+      },
+      {
+        "name": "Ngrx",
+        "yearOfExp": "6"
+      }
+    ],
+    "degreeAndCer": [
+      "Bs Computer Sciences "
+    ],
+    "language": [
+      "Urdu",
+      "English"
+    ],
+    "ProfessionalSummery": "Experienced Angular developer skilled in TypeScript, HTML, and CSS, with a focus on creating responsive and user-friendly web applications.\nProficient in adhering to best practices and delivering scalable code. Effective collaborator within agile teams, dedicated to achieving project success.\nContinuously updated with the latest Angular trends and committed to enhancing user experiences. Ready to contribute expertise and drive web development excellence for your organization.",
+    "topSkill": [
+      "HTML 5",
+      "Tailwind CSS",
+      "Angular",
+      "CSS 3 ",
+      "OOP",
+      "React ",
+      "SCSS",
+      "Bootstrap",
+      "Javascript",
+      "Typescript",
+      "API Integration",
+      "jQuery",
+      "GitHub",
+      "MySQL"
+    ],
+    "project": [
+      {
+        "name": "Fynd",
+        "Link": "https://fynd.careers",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Reid Health",
+        "Link": "https://www.reidhealth.org",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Typescript",
+          "React",
+          "Typescript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "CPR Enroll ",
+        "Link": "https://cprenroll.com/#/home",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Projul ",
+        "Link": "https://projul.com",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "PrimeNg",
+          "Bootstrap"
+        ]
+      }
+    ],
+    "workExperience": [
+      {
+        "name": "Asad Bilal",
+        "position": "Senior Front End Developer",
+        "Institution": "SAUFIK",
+        "Duration": "Oct, 2021 - Present",
+        "Detail": "As an Angular Developer at SAUFIK, I played a pivotal role in designing and developing front-end solutions to enhance the user experience of our web applications.\nMy responsibilities encompassed a wide range of tasks and contributions, including front-end development where I collaborated with the development team to build and maintain dynamic web applications using\nAngular, leveraging Angular features like components, services, and modules to create efficient and user-friendly interfaces. I also worked closely with the UI/UX designers to implement responsive\nand visually appealing designs, translating design mockups into functional, pixel-perfect web interfaces. My contributions were instrumental in delivering high-quality web applications\nthat met the company's standards and user expectations."
+      }
+    ]
+  },
+  {
+    "username": "7",
+    "workend": "Full-stack-dev",
+    "yearsOfexperience": "4 Years +",
+    "name": "USAMA AHMAD",
+    "title": "Sr. Full Stack Web Developer",
+    "technicalExperties": [
+      {
+        "name": "Asp.net C#",
+        "yearOfExp": "4"
+      },
+      {
+        "name": "Asp.net API",
+        "yearOfExp": "4"
+      },
+      {
+        "name": "C#",
+        "yearOfExp": "4"
+      },
+      {
+        "name": "Azure Deployments",
+        "yearOfExp": "4"
+      }
+    ],
+    "degreeAndCer": [
+      "Bs Computer Science "
+    ],
+    "language": [
+      "Urdu",
+      "English"
+    ],
+    "ProfessionalSummery": " I am an experienced and skilled IT professional with a passion for creating powerful and elegant solutions using cutting-edge technologies. I have over four\n years of experience in designing, developing, and implementing applications using Angular (version 2 onwards) and .NET frameworks. I am also proficient in\n working with IIS, SQL Server, and GIT, which enhance my technical capabilities. I strive to deliver impactful results and drive technological innovations that\n benefit organizations in the IT industry",
+    "topSkill": [
+      "Asp. Net, C#",
+      "Angular",
+      "JavaScript",
+      "ASP.NET Core ",
+      "jQuery",
+      "Microsoft Azure",
+      "ASP.NET Web API",
+      "CSS3",
+      "Bootstrap ",
+      "ADO.NET",
+      "Azure Deployments",
+      "IIS Manager",
+      "GitHub",
+      "Bit Bucket",
+      "Ajax ",
+      "XML",
+      "ASP.NET MV"
+    ],
+    "project": [
+      {
+        "name": "Calimatic LMSGuardian Medical Direction",
+        "Link": "https://guardianmedicaldirection.com/",
+        "Technologies": [
+          "Asp.Net 6",
+          "SQL Server",
+          "Razor Views",
+          "JQuery",
+          " Angular 15"
+        ]
+      },
+      {
+        "name": "Fynd",
+        "Link": "https://fynd.careers",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "PalletPal",
+        "Link": "https://www.palletpal.me",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Angular",
+          "Typescript",
+          "Material",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Reid Health",
+        "Link": "https://www.reidhealth.org",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Typescript",
+          "React",
+          "Typescript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "CPR Enroll ",
+        "Link": "https://cprenroll.com/#/home",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "GOLE Solutions",
+        "Link": "https://www.golesolutions.com/",
+        "Technologies": [
+          "Asp.Net MVC",
+          "SQL Server",
+          "Razor Views",
+          "Entity Framework"
+        ]
+      },
+      {
+        "name": "Nexgen Tutoring",
+        "Link": "http://nexgentutoring.com",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "ONET CRM",
+        "Link": "https://www.sonet.com.tr/",
+        "Technologies": [
+          "Asp.Net Core",
+          "Angular",
+          "SQL Server",
+          "Entity Framework"
+        ]
+      }
+    ],
+    "workExperience": [
+      {
+        "name": "Sr. Full Stack Web Developer",
+        "position": "Team Lead ",
+        "Institution": "SAUFIK",
+        "Duration": "Jul, 2019 - Present",
+        "Detail": " Design and build application architectures.\n • Review code written by team members.\n • Create sophisticated, imaginative, and efficient back-end solutions for diverse industries.\n • Develop high-quality code and establish development standards.\n • Design reusable components using various standard frameworks.\n • Evaluate requirements and initial mock-ups, and make technology recommendations to support optimal construction, maintenance, and performance."
+      }
+    ]
+  },
+  {
+    "username": "8",
+    "name": "SAAD AHMED",
+    "yearsOfexperience": "6 Years +",
+    "workend": "Back-End-Developer",
+    "title": " Sr. Full Stack Web Developer",
+    "technicalExperties": [
+      {
+        "name": "Asp. net",
+        "yearOfExp": "7"
+      },
+      {
+        "name": "Asp.Net API",
+        "yearOfExp": "6"
+      },
+      {
+        "name": "Angular",
+        "yearOfExp": "6"
+      },
+      {
+        "name": "Azure",
+        "yearOfExp": "6"
+      },
+      {
+        "name": "AWS",
+        "yearOfExp": "6"
+      }
+    ],
+    "degreeAndCer": [
+      " BS(CS) 4 Years"
+    ],
+    "language": [
+      "Urdu",
+      "English"
+    ],
+    "ProfessionalSummery": " I'm a Software Engineer with 6 years + of experience developing complex software solutions for various industries.I am specialize in developing responsive\n websites using the latest technologies such as HTML, CSS, Bootstrap, JavaScript, Angular, jQuery and React. My expertise in front-end development includes\n optimizing website performance, creating cross-browser compatibility, and ensuring accessibility for all users. my focus is to create a visually appealing and\n responsive design that is user-friendly and easy to navigate.\n I am also proficient in UI/UX design and have very strong hand on Figma and Adobe XD.\n Passionate about staying up-to-date with emerging technologies and applying them to solve real-world problems",
+    "topSkill": [
+      "HTML 5",
+      "Angular",
+      "MVC",
+      "ASP.NET MV",
+      "JavaScript ",
+      "ASP.NET Core",
+      " jQuery ",
+      "XML",
+      "CSS3",
+      "Ajax",
+      "XML",
+      " Bit Bucket",
+      "GitHub",
+      "Microsoft Azure",
+      "ASP.NET Web API",
+      "MySQL",
+      "Bootstrap ",
+      "ADO.NET",
+      "TFS ",
+      "TFS",
+      "JSON",
+      "JSON"
+    ],
+    "project": [
+      {
+        "name": "Calimatic LMS",
+        "Link": "https://www.calimaticedtech.com",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "jQuery",
+          "Designing",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Fynd",
+        "Link": "https://fynd.careers",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "PalletPal",
+        "Link": "https://www.palletpal.me",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Angular",
+          "Typescript",
+          "Material",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Reid Health",
+        "Link": "https://www.reidhealth.org",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Typescript",
+          "React",
+          "Typescript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "CPR Enroll ",
+        "Link": "https://cprenroll.com/#/home",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "SAUFIK Solution ",
+        "Link": "https://saufik.com/",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Angular",
+          "Typescript",
+          "Adobe XD"
+        ]
+      },
+      {
+        "name": "Projul ",
+        "Link": "https://projul.com",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "PrimeNg",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Nexgen Tutoring",
+        "Link": "http://nexgentutoring.com",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "Bootstrap"
+        ]
+      }
+    ],
+    "workExperience": [
+      {
+        "name": " Sr. Full Stack Web Developer",
+        "position": "Team Lead & Manager",
+        "Institution": "SAUFIK",
+        "Duration": "Oct, 2017 - Present",
+        "Detail": "\n • I was part of team of Calimatic which is an Application LifeCycle Management portal. This solution is deployed on Azure cloud platform.\n • Review code written by team members. I developed the below mentioned modules:\n 1. TimeCard\n 2. Program Management\n 3. Portfolio Management.\n 4. ITSM Management\n I was part of team of Calimatic LMS which is an enterprise grade edTech solution catering from small learning centers to universities and their franchises. This\n solution is also deployed on Azure cloud platform. I developed the below mentioned modules:\n 1. Course Player.\n 2. Content Management.\n 3. Dynamic Forms.\n 4. Reports for management fulfillment"
+      }
+    ]
+  },
+  {
+    "username": "9",
+    "workend": "Back-End-Developer",
+    "yearsOfexperience": "10 Years +",
+    "name": "ZEESHAN AHMAD",
+    "title": "Sr. BAck-End-Developer",
+    "technicalExperties": [
+      {
+        "name": "Asp .Net, C #",
+        "yearOfExp": "7"
+      },
+      {
+        "name": "MVC",
+        "yearOfExp": "8"
+      },
+      {
+        "name": "Angular",
+        "yearOfExp": "6"
+      },
+      {
+        "name": " Entity Frame work",
+        "yearOfExp": "7"
+      }
+    ],
+    "degreeAndCer": [
+      "BS(CS) 4 Years "
+    ],
+    "language": [
+      "Urdu",
+      "English"
+    ],
+    "ProfessionalSummery": "\n Analyzing, Designing, Developing, Documenting, Testing and Deploying Web, Windows, Console applications with extensive experience in Microsoft Visual Studio\n environment using C#,VB.Net, ASP.NET, ADO.NET. Experience on latest .Net Framework (3/3.5/4/4.5/ CORE 1.0) with N - tier Architecture model and design patterns.\n Experienced in a fast paced Agile Development Environment including Scrum, and Extreme Programming. Excellent knowledge in Remoting, SOAP, XSD, XML, XSLT,\n XHTML, CSS. Providing a better UI with the bootstrap framework, and CSS3. Strong Object-Oriented Analysis and Design (OOAD) and C#, VB.NET Programming\n skills. Experience in building Single Page Applications (SPA) using HTML5, CSS3, Bootstrap, AngularJS, ASP.NET MVC, Bootstrap, ASP.NET Web API, Entity Framework.",
+    "topSkill": [
+      "Mongo DB",
+      "MySQL",
+      "MVC",
+      "Bit Bucket",
+      "GitHub",
+      "CSS3",
+      "ASP.NET Core",
+      " jQuery",
+      "XML",
+      "Ajax",
+      "Angular",
+      "NoSQL",
+      "Azure",
+      "JavaScript",
+      " ASP.NET, C#"
+    ],
+    "project": [
+      {
+        "name": "Calimatic LMS",
+        "Link": "https://www.calimaticedtech.com",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "jQuery",
+          "Designing",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Fynd",
+        "Link": "https://fynd.careers",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "CPR Enroll ",
+        "Link": "https://cprenroll.com/#/home",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Projul ",
+        "Link": "https://projul.com",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "PrimeNg",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Nexgen Tutoring",
+        "Link": "http://nexgentutoring.com",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "Bootstrap"
+        ]
+      }
+    ],
+    "workExperience": [
+      {
+        "name": "Sr. Back-End-Developer",
+        "position": "Back-End-Developer",
+        "Institution": "SAUFIK",
+        "Duration": "Jan, 2017 - Present",
+        "Detail": "\n • Build infrastructure, toolset and deployment pipeline to support API development.\n • Embedding with other technical teams to support them in learning how to develop and maintain their own APIs\n • Collaborate closely with other engineers and become a valued member of an autonomous, cross-functional team.\n • Design and develop robust services in coordination with frontend developers and produce well-tested, high-quality code.\n • Work directly with the business to implement features and understand use cases.\n • Architect solutions to business and technical problems that use current technologies.\n • Build pragmatic software solutions where features are quickly delivered without sacrificing code quality.\n • Design and develop unit tests that provide 100% coverage of your code.\n "
+      },
+      {
+        "name": "Back-End-Developer",
+        "Institution": "Spire Digital",
+        "position": "Back-End-Developer",
+        "Duration": "Oct, 2013 - Dec, 2016",
+        "Detail": "\n • Build infrastructure, toolset and deployment pipeline to support API development.\n• Embedding with other technical teams to support them in learning how to develop and maintain their own APIs\n• Collaborate closely with other engineers and become a valued member of an autonomous, cross-functional team.\n• Design and develop robust services in coordination with frontend developers and produce well-tested, high-quality code.\n• Work directly with the business to implement features and understand use cases.\n• Architect solutions to business and technical problems that use current technologies.\n• Build pragmatic software solutions where features are quickly delivered without sacrificing code quality.\n• Design and develop unit tests that provide 100% coverage of your code."
+      }
+    ]
+  },
+  {
+    "username": "10",
+    "workend": "Full-stack-dev",
+    "yearsOfexperience": "10 Years +",
+    "name": "MUHAMMAD QASIM",
+    "title": "Full Stack Developer",
+    "technicalExperties": [
+      {
+        "name": "Asp .Net, C #",
+        "yearOfExp": "7"
+      },
+      {
+        "name": "MVC",
+        "yearOfExp": "8"
+      },
+      {
+        "name": "Javascript",
+        "yearOfExp": "6"
+      },
+      {
+        "name": " Entity Frame work",
+        "yearOfExp": "7"
+      }
+    ],
+    "degreeAndCer": [
+      "BS(CS) 4 Years "
+    ],
+    "language": [
+      "Urdu",
+      "English"
+    ],
+    "ProfessionalSummery": "\n To pursue a challenging career and be part of a progressive organization that gives scope to enhance my knowledge and skills. This part expresses the desire to\n work for a company or institution that is forward-thinking, dynamic, and open to change and improvement. Progressive organizations tend to encourage\n creativity, embrace new technologies, and value employee development. It signifies a commitment to self-improvement and a recognition that the chosen\n career and organization should offer opportunities for acquiring new knowledge and honing existing skills.",
+    "topSkill": [
+      "ASP.NET, C#",
+      "MySQL",
+      "CSS3",
+      "Bit Bucket",
+      "HTML",
+      "Ajax",
+      "ASP.NET Core",
+      "jQuery",
+      "JSON",
+      "Twitter Bootstrap",
+      "Angular",
+      "NoSQL",
+      "Azure",
+      "JavaScript"
+    ],
+    "project": [
+      {
+        "name": "Guardian Medical Direction",
+        "Link": "https://guardianmedicaldirection.com/",
+        "Technologies": [
+          " Asp.Net 6",
+          "SQL Server",
+          "Razor Views",
+          "jQuery",
+          "Angular 15"
+        ]
+      },
+      {
+        "name": "Fynd",
+        "Link": "https://fynd.careers",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "PalletPal",
+        "Link": "https://www.palletpal.me",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Angular",
+          "Typescript",
+          "Material",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "GOLE Solutions",
+        "Link": "https://www.golesolutions.com/",
+        "Technologies": [
+          " Asp.Net MVC",
+          "SQL Server",
+          "Razor Views",
+          "Entity Framework"
+        ]
+      },
+      {
+        "name": "CPR Enroll ",
+        "Link": "https://cprenroll.com/#/home",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "SONET CRM",
+        "Link": "https://www.sonet.com.tr/",
+        "Technologies": [
+          " Asp.Net MVC",
+          "SQL Server",
+          "Razor Views",
+          "Entity Framework"
+        ]
+      }
+    ],
+    "workExperience": [
+      {
+        "name": "Sr. Software Developer",
+        "position": "Manager",
+        "Institution": "SAUFIK",
+        "Duration": "Apr, 2016 - Present",
+        "Detail": "\n • Create User stories, test cases and defects.\n• Test the steps from of test cases from either Selenium or manually.\n• Create Backlog items for planning working items.\n• Create Tasks of Backlogs for user assignment.\n• User Licensing and module permission.\n "
+      },
+      {
+        "name": "Software Developer",
+        "Institution": "MER Solutions",
+        "position": "Software Developer",
+        "Duration": " Dec, 2014 - Jan, 2015",
+        "Detail": "\n • Mapping Targets and achievement of their tasks in field.\n • Record Monitoring of BISP Beneficiaries across various districts in Pakistan.\n • Record Monitoring meetings of BISP Beneficiaries Committees.\n • Record Monitoring of Teacher Trainings.\n • Reports.\n • User Management Portal."
+      },
+      {
+        "name": "Software Developer",
+        "Institution": "Iterative Technologies",
+        "position": "Software Developer",
+        "Duration": "Jul, 2014 - Sep, 2014",
+        "Detail": "\n • Creating and Maintaining Test Cases.\n • Code Optimization.\n • Crystal Reporting."
+      }
+    ]
+  },
+  {
+    "username": "11",
+    "workend": "Agile",
+    "yearsOfexperience": "11 Years +",
+    "name": "FAROOQ NADEEM",
+    "title": "Sr. Agile Scrum Master",
+    "technicalExperties": [
+      {
+        "name": "Agile frameworks-Scrum",
+        "yearOfExp": "7"
+      },
+      {
+        "name": "XP JIRA & JIRA",
+        "yearOfExp": "10"
+      },
+      {
+        "name": "Kanban",
+        "yearOfExp": "10"
+      },
+      {
+        "name": " Entity Frame work",
+        "yearOfExp": "9"
+      }
+    ],
+    "degreeAndCer": [
+      "BS(CS) 4 Years "
+    ],
+    "language": [
+      "Urdu",
+      "English"
+    ],
+    "ProfessionalSummery": "\n Utilized Agile Scrum practices to help the team increase their velocity within the first year of Agile adoption. Facilitated Release Planning, Sprint Planning, Backlog\nGrooming, and Retrospective meetings. Facilitated team and cross-team Retrospectives to build good working relationships among the agile teams. Worked\nwith customers and product manager to prioritize and validate requirements. Architected a forecasting tool that determined the bank's FDIC Architected and de\nveloped an ASP.NET/MVC forecasting tool that determines the increment in FDIC Assessment payment due. Developed MVC controls that allowed for faster devel\nopment times. Experience in object-oriented design and programming required. Hands on experience with development in .NET Framework, React JS, .NET Core,\nDesign Pattern, Restful Web services SOA and database applications in MS SQL Server, Mongo DB. Knowledge and experience debugging and maintaining pro\nduction level code. Write code to generate web pages, access databases and business logic servers. Work with designers and content producers.",
+    "topSkill": [
+      "Agile development & best practices",
+      "Agile frameworks-Scrum",
+      "XP JIRA & JIRA Portfolio",
+      " Twitter Bootstrap",
+      "Kanban",
+      "ASP.NET, C#",
+      "Angular",
+      "MVC",
+      "C#, ADO .Net",
+      "JavaScript",
+      "Entity Framework",
+      "jQuery",
+      "CSS3",
+      "Ajax",
+      "XML",
+      "Bit Bucket",
+      "GitHub",
+      "Bootstrap",
+      "OOP",
+      "API Integration",
+      "MySQL"
+    ],
+    "workExperience": [
+      {
+        "name": "Sr. Agile Scrum Master",
+        "position": "Manager",
+        "Institution": "SAUFIK",
+        "Duration": "Feb, 2019 - Present",
+        "Detail": "\n • Served as Scrum Master leading Agile teams focused on product enhancements and upgrades.\n • Successfully introduced Agile to design and development teams comprising over 25 employees.\n • Rigorously reviewed and managed backlog and in-progress items ensuring an on-time feature delivery.\n • Maintained team metrics and reported project statuses on a regular basis to Product owner improving decision making\n • Developed team norms and balanced workload for onshore and offshore developers, testers and Product Owners improving employee satisfaction."
+      },
+      {
+        "name": "Scrum Master",
+        "Institution": "Finexus Digital",
+        "position": "Scrum Master",
+        "Duration": " Mar, 2016 - Jan, 2019",
+        "Detail": "\n • Develop agile based SDLC for a new software development organization successfully onboarding 14 developers\n • Participated in and supported development pilots during the initial phases of the product resulting in 36,000 daily active users by the end of year.\n • Updated agile tracking systems to provide transparency on product & sprint backlogs streamlining communication and reducing support requests\n • Assisted team with making appropriate commitments through story selection, task definition, and feature selection\n • Identified and removed impediments that interfered with the ability of the team to deliver the sprint goal resulting in meeting sprint goals in 99% of sprints."
+      },
+      {
+        "name": "Team Lead-Software Engineer ",
+        "Institution": "MegaPlus Technologies",
+        "position": "Team Lead",
+        "Duration": "Jan, 2014 - Feb, 2016",
+        "Detail": "\n • Works with product owners to define user and technical stories. Designs and codes user and technical stories. Understands the principles for creating business\n cases\n • Coordinates release of application to production.\n • Understands the Air Commerce and functional view and impact of technical decisions as they relate to Travelport people, business and clients.\n • Utilization of corporate project management tools as required eg: PPM, Jira etc.\n • Understands work flow and relationships with outsourcing providers and managed service providers.\n • Leading design and coding of applications using routine and/or advanced technology.\n • Demonstrating comprehensive and advanced knowledge of full-stack applications using React/Redux/NodeJS UI and Java Services."
+      },
+      {
+        "name": "Sr. Software Engineer ",
+        "Institution": "Fintech Management",
+        "position": "Software Engineer",
+        "Duration": "Jun, 2010 - Dec, 2013",
+        "Detail": "\n • Create, update, and maintain an extensible test automation framework for cross-platform digital products\n• Execute and interpret automation results.\n• Review and triage test failures; reproduce, debug, isolate problems and verify fixes.\n• Lead the effort to evaluate and select the toolset(s) to use for test automation and ensure that they are interoperable with our continuous integration pipeline."
+      }
+    ]
+  },
+  {
+    "username": "12",
+    "workend": "Full-stack-dev",
+    "yearsOfexperience": "7 Years +",
+    "name": "SALMAN AHMED MUGHAL",
+    "title": "Full Stack Developer",
+    "technicalExperties": [
+      {
+        "name": "ASP.NET Core",
+        "yearOfExp": "7"
+      },
+      {
+        "name": "Azure Functions",
+        "yearOfExp": "6"
+      },
+      {
+        "name": "AWS",
+        "yearOfExp": "6"
+      },
+      {
+        "name": "Console Applications",
+        "yearOfExp": "7"
+      }
+    ],
+    "degreeAndCer": [
+      " BS(CS) 4 Years"
+    ],
+    "language": [
+      "Urdu",
+      "English"
+    ],
+    "ProfessionalSummery": "\n Performance oriented, goal driven individual and having comprehensive knowledge of agile methodology, with high problem solving skills, posses logical\n approach and expertise in programming languages, web technologies, development tools, database and web application security.",
+    "topSkill": [
+      "ASP.NET, C#",
+      "MySQL",
+      "CSS3",
+      "Bit Bucket",
+      "HTML",
+      "Ajax",
+      "ASP.NET Core",
+      "jQuery ",
+      "JSON",
+      "Twitter Bootstrap",
+      "Angular",
+      "NoSQL",
+      "Azure",
+      "Javascript",
+      "Oracle",
+      "Restful APIs",
+      "NETS5",
+      " Windows services",
+      " Web applications",
+      "SqlLite",
+      "ADO.NET",
+      "MongoDB",
+      " Console Applications"
+    ],
+    "project": [
+      {
+        "name": "Calimatic LMS",
+        "Link": "https://www.calimaticedtech.com",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "jQuery",
+          "Designing",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Fynd",
+        "Link": "https://fynd.careers",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "PalletPal",
+        "Link": "https://www.palletpal.me",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Angular",
+          "Typescript",
+          "Material",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Reid Health",
+        "Link": "https://www.reidhealth.org",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Typescript",
+          "React",
+          "Typescript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "CPR Enroll ",
+        "Link": "https://cprenroll.com/#/home",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "SAUFIK Solution ",
+        "Link": "https://saufik.com/",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Angular",
+          "Typescript",
+          "Adobe XD"
+        ]
+      },
+      {
+        "name": "Projul ",
+        "Link": "https://projul.com",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "PrimeNg",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Nexgen Tutoring",
+        "Link": "http://nexgentutoring.com",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "Bootstrap"
+        ]
+      }
+    ],
+    "workExperience": [
+      {
+        "name": "Principal Software Engineer",
+        "position": "Principal Software Engineer",
+        "Institution": "SAUFIK",
+        "Duration": " Aug, 2018 - Present",
+        "Detail": "\n • Collaborate with and lead internal teams to give scalable and efficient.\n • Fontend design and developmentusing Css, Bootstrap,Materialize Code inspection and Code audits Produce clean and scalable code using common design\n patterns.\n • Web applications debugging and security. "
+      },
+      {
+        "name": "Software Engineer",
+        "position": "Software Engineer",
+        "Institution": "Specter Innovation PVT LTD, Lahore",
+        "Duration": "Jul, 2016 - Aug, 2018",
+        "Detail": "\n Participate in requirement analysis, collaborate with internal teams to produce software design and architecture, write clean, scalable code using .NET\n programming languages and provide technical support. "
+      }
+    ]
+  },
+  {
+    "username": "13",
+    "workend": "Mob-app-Developer",
+    "yearsOfexperience": "8 Years +",
+    "name": "OUNEEB UR REHMAN",
+    "title": "React-Native Developer",
+    "technicalExperties": [
+      {
+        "name": "React Native",
+        "yearOfExp": "7"
+      },
+      {
+        "name": "Redux",
+        "yearOfExp": "6"
+      },
+      {
+        "name": "TypeScript",
+        "yearOfExp": "6"
+      },
+      {
+        "name": "React js",
+        "yearOfExp": "6"
+      }
+    ],
+    "degreeAndCer": [
+      "BS(SE) 4 Years"
+    ],
+    "language": [
+      "Urdu",
+      "English"
+    ],
+    "ProfessionalSummery": "\n Hard-working individual with proficiency in latest Mobile Apps technologies and frontend frameworks, as well as ability to communicate effectively in a team set\nting, and possessing a strong willingness to learn and have strong ability to execute and implement standard & new design patterns.\nExperience in Cross-Platform Mobile Development using React Native + Type Script based mobile app. Novice level experience working with React-native /Redux.\nCreated Reusable react presentation and container components. Good understanding and usage of states and props.",
+    "topSkill": [
+      "React Native",
+      "Redux",
+      "JSON",
+      "HTML",
+      "Axure",
+      "Javascript",
+      "jQuery ",
+      "Xcode",
+      "Twitter Bootstrap",
+      "SqlLite",
+      "Typescript"
+    ],
+    "project": [
+      {
+        "name": "Calimatic LMS",
+        "Link": "https://www.calimaticedtech.com",
+        "Technologies": [
+          "React Native",
+          "Native-base"
+        ]
+      },
+      {
+        "name": "Simple Safety",
+        "Link": "https://simplesafetysolutionsllc.com/home",
+        "Technologies": [
+          "React Native",
+          "Native-base"
+        ]
+      },
+      {
+        "name": "PINGHUB",
+        "Link": "https://pinghub.asia/",
+        "Technologies": [
+          "React Native",
+          "Native-base"
+        ]
+      },
+      {
+        "name": "Reid Health",
+        "Link": "https://www.reidhealth.org",
+        "Technologies": [
+          "React Native",
+          "Native-base"
+        ]
+      },
+      {
+        "name": "Gaurdian Medical Direction",
+        "Link": "https://guardianmedicaldirection.com/",
+        "Technologies": [
+          "React Native",
+          "Native-base"
+        ]
+      },
+      {
+        "name": " CPR Enroll ",
+        "Link": "https://cprenroll.com/#/home",
+        "Technologies": [
+          "React Native",
+          "Native-base"
+        ]
+      }
+    ],
+    "workExperience": [
+      {
+        "name": "React-Native Developer",
+        "position": "React-Native Developer",
+        "Institution": "Saufik",
+        "Duration": "May, 2018 - Present",
+        "Detail": "\n • 100% Code coverage on critical components, using coverage collection built into project testing framework (i.e. jest).\n• Develop new mobile application on Android and IOS .\n• Building reusable components and front-end libraries for future use.\n• Took initiative in learning react native and went on to successfully develop various features under minimal supervision.\n• Responsible for porting an existing web application into mobile view .\n• Responsible for design and development of various components such as tab bars, map view, image picker, date picker, push notifications, sign-in/out features,\nprofile management and navigation using react-native.\n• Good Experience in React JS for creating interactive UI's using One-way data flow, Virtual DOM, JSX, React Native concepts. "
+      },
+      {
+        "name": "Web & Mobile App Developer",
+        "position": " Web & Mobile App Developer",
+        "Institution": "E-MediCare Solutions",
+        "Duration": "Mar, 2015 - Apr, 2018",
+        "Detail": "\n • Worked as Web and Mobile apps developer, done 3 projects in Web by using React native Js+Redux with Material UI(React native js).\n • And I have done 1 React native app for which I have created UI as well and managed data using Redux and Redux-thunk (as middleware to manage Asynchro\n nous data).\n • And I have done 1 React native app for which I have created UI as well and managed data using Redux and Redux-thunk (as middleware to manage Asynchro\n nous data).\n • Resolved complex issues related to browser and network performance, cross-browser and legacy IE compatibility, client-side scaling, data modeling, usability\n and testability.\n • Deep understanding and working experience in Object Oriented JavaScript programming and JavaScript Spring MVC frameworks. "
+      }
+    ]
+  },
+  {
+    "username": "14",
+    "workend": "sharepoint-Developer",
+    "yearsOfexperience": "6 Years +",
+    "name": "MUHAMMAD YASIR",
+    "title": "SharePoint Developer",
+    "technicalExperties": [
+      {
+        "name": "React Native",
+        "yearOfExp": "6"
+      },
+      {
+        "name": "Redux",
+        "yearOfExp": "5"
+      },
+      {
+        "name": "TypeScript",
+        "yearOfExp": "5"
+      },
+      {
+        "name": "JavaScript",
+        "yearOfExp": "5"
+      }
+    ],
+    "degreeAndCer": [
+      "MS(IT) 2 Years"
+    ],
+    "language": [
+      "Urdu",
+      "English"
+    ],
+    "ProfessionalSummery": "\n Experienced SharePoint developer with a history of delivering strong results. Creative thinker with a solution-oriented approach. Effective communicator and lis\n tener who excels at understanding and defining goals. Proficient in SharePoint-based third-party apps and SharePoint Designer. Good understanding of busi\n ness needs and goals for app development. Meticulous work ethic combines with out-of-the-box approach for consistently excellent results. Motivated team\n player who coordinates with other developers for effective project completion. Proven track record of completing projects on time and staying within budgetary\n guidelines.",
+    "topSkill": [
+      "SharePoint",
+      "Excel at innovative solutions.",
+      "Intuitive and creative thinker.",
+      "Understand business goals and the way SharePoint and other applications contribute to furthering them.",
+      "Adept at explaining functions to non-technical users."
+    ],
+    "workExperience": [
+      {
+        "name": "SharePoint Developer",
+        "position": "SharePoint Developer",
+        "Institution": "SAUFIK",
+        "Duration": "Sep, 2018 - Present",
+        "Detail": "\n • Develop and implement SharePoint applications.\n • Reduce operating costs by creating solutions for quicker processing and increasing function automation.\n • Use a variety of technologies to develop code on both server and client sides.\n • Design SharePoint environments.\n • Manage SharePoint accounts as necessary.\n • Work with users to help them get the most out of SharePoint in performing their job duties.\n • Meet with users to get feedback, identify issues, and define goals for further SharePoint work.concepts.\n • Document development processes.\n • Test and troubleshoot SharePoint applications, modifications, and development. "
+      },
+      {
+        "name": "SharePoint Developer ",
+        "position": "SharePoint Developer",
+        "Institution": "SYNC CLOUDS",
+        "Duration": "Apr, 2017 - Sep, 2018",
+        "Detail": "\n • Managed SharePoint accounts and privileges.\n• Studied new web technologies as they became available and integrated them where applicable.\n• Implemented standard operating procedures for account security.\n• Planned and implemented testing schedules and procedures to ensure optimal SharePoint function.\n• Trained users in effective utilization of SharePoint applications.\n• Maintained backups for installation.\n• Documented new development. "
+      }
+    ]
+  },
+  {
+    "username": "15",
+    "workend": "SQA",
+    "yearsOfexperience": "8 Years +",
+    "name": "MAJID RAFIQUE",
+    "title": "Sr. SQA Engineer",
+    "technicalExperties": [
+      {
+        "name": "JMETER",
+        "yearOfExp": "6"
+      },
+      {
+        "name": "Selenium WebDriver",
+        "yearOfExp": "5"
+      },
+      {
+        "name": "Cypress",
+        "yearOfExp": "5"
+      }
+    ],
+    "degreeAndCer": [
+      " BS(CS) 4 Years"
+    ],
+    "language": [
+      "Urdu",
+      "English"
+    ],
+    "ProfessionalSummery": "\n 5+ years of experience in Quality Assurance and Software Testing experience both mobile application and desktop along with complex large-scale web applica\ntions having domain in Fintech, Mortgage, Audit, and Compliance. Strong knowledge of Agile (Scrum), Software Development Life Cycle (SDLC), and Testing\nLife Cycle (STLC). Extensive experience in bug tracking tools like Test Director/Quality Center/Test Manager. Hands-on working experience as QA, writing and exe\ncuting test plans and test cases (manual & automated) along with coordination with end-users for high-quality delivery. Excellent team player, execute tasks\nunder less supervision and quick identification & response to issues. Self-motivated, excellent analytical, communication, interpersonal and presentation skills.\nHaving expertise in problem solving, optimization, standardization, and performance tuning. Having good verbal and written communication skills. Excellent\nteam collaboration and coordination. Have the ability to keep high motivation level within the development team. Have the ability to keep high motivation level\nwithin the development team. Experience in coordinating with the On-site team and directly communicating with client.",
+    "topSkill": [
+      " Selenium WebDriver",
+      "Cypress",
+      "JQuery",
+      " JMETER",
+      "DOORS",
+      " PVCS",
+      "CMS",
+      "DDTS",
+      "QTP",
+      " LOAD RUNNER",
+      "IBM RATIONAL",
+      " HP MERCURY"
+    ],
+    "workExperience": [
+      {
+        "name": " Sr. SQA Engineer",
+        "position": "Sr. SQA Engineer",
+        "Institution": "SAUFIK",
+        "Duration": "Dec, 2020 - Present",
+        "Detail": "\n • Provided support in the performance testing using JMeter task includes developing test plan, test script and reports.\n• Presently working in an Agile development environment. Participate in weekly Scrum meetings for the applications development.\n• Worked on Automated Test Scripts using HP UFT 11.5 and Mercury Quality Center 10.0 for the Automated Movement and Identification Solutions (PM AMIS) project.\n• Good experience in using APM tool Dynatrace in monitoring business transaction across all tiers (web/app/DB) of the applications.\n• Develop scenario-based testing for the JMeter scripts.\n• Create, schedule and run the scenarios using JMeter and generate necessary graphs.\n• Extensively worked on JMeter to create Thread Groups and test Web Application for various loads on key business scenarios.\n• Created and executed JMeter scripts for performance testing of portal.\n• Participating in daily standup meetings and creating reports as needed by the QA lead. "
+      },
+      {
+        "name": "Sr. SQA Engineer",
+        "position": "Sr. SQA Engineer",
+        "Institution": " AuditXprt Limited",
+        "Duration": "Jan, 2018 - Nov, 2020",
+        "Detail": "\n • Involved in interacting with the project development team to understand the project requirement.\n • DAI (Defense Agency Information) - Conducted Performance Testing for Oracle ERP application for DAI project.\n • The Oracle E-Business solution application contained the following modules: Order to Fill, HRMS, Acquire to Retire, Cost Accounting, and Procure to Pay, Time\n and Attendance.\n • Performance test development for 'Continuous Benchmarking' using JMeter and Jenkins.\n • Analyzed and reviewed the software requirements, functional specifications, and design documents. "
+      },
+      {
+        "name": "SQA Engineer",
+        "position": "SQA Engineer",
+        "Institution": "ChunkLabs",
+        "Duration": "Jan, 2018 - Nov, 2020",
+        "Detail": "\n • Taking part in QA effort for multiple web and mobile software applications developed by the company for its domestic and international clients.\n • Developing test strategies, test plans, and test cases and user stories for software development efforts.\n • Executing the test cases and documenting the results, reporting the defects and tracking the status.\n • Performed Gray Box Testing, Regression Testing, Manual Testing, Functional Testing, and usability testing.\n • All the issues that came up during the testing process were tracked and logged in Clear Quest as defects.\n • Interacting with the Developers to follow up on defects and issues. "
+      }
+    ]
+  },
+  {
+    "username": "16",
+    "workend": "Back-End-Developer",
+    "yearsOfexperience": "8 Years +",
+    "name": "SAIM MOHSIN",
+    "title": "Sr. Back-End Developer",
+    "technicalExperties": [
+      {
+        "name": "Asp.net",
+        "yearOfExp": "7"
+      },
+      {
+        "name": "Typescript",
+        "yearOfExp": "7"
+      },
+      {
+        "name": "Azure",
+        "yearOfExp": "7"
+      },
+      {
+        "name": "Javascript",
+        "yearOfExp": "7"
+      }
+    ],
+    "degreeAndCer": [
+      "Bs Computer Science "
+    ],
+    "language": [
+      "Urdu",
+      "English"
+    ],
+    "ProfessionalSummery": " A competent professional around 7 years of experience with Confidential Azure Services as an Azure Cloud Engineer and different domains in technology. Pro\n jects completed successfully with quality products and delivered on time within budget. Designed and configure large - scale cloud-based migration solution,\n migrating applications to Azure, IaaS and PaaS with security integration. Experience developing different types of azure functions such as Http trigger, Timer trig\n ger, Durable functions, Service bus trigger, Event-Hub trigger, and many others. Worked on the building, deploying of the Service fabric applications as microser\n vices. Experience with the Azure logic apps with different triggers and worked on ISE environment in logic apps. Experience on Azure data factory with different\n triggers. Knowledge on the Azure Storage accounts. Knowledge on the Monitoring tools like Application insights, Log analytics and creation of alerts.\n Good Understanding on IIS architecture and working of each of the components. Experience new features implemented by Azure to reproduce and troubleshoot\n Azure end-user issues and provide solutions to mitigate the issue. Migration of existing Infrastructure and configures and Manage Azure Site Rec.\n Knowledge of concepts in code lines, branching, merging, integration, versioning etc. Knowledge in automated deployments leveraging Azure Resource Manag\n MVC\n er Templates, DevOps and Git repository for Automation and usage of Continuous Integration (CI/CD). Strong knowledge of deploying using from zip file, continu\n ous deployment, deployment slots, configuration and management. Experience in creation of Function apps, Web apps, Web jobs, Web app bots, Chatbot, SQL\n databases, VM’s, and deploying applications to Azure using Visual Studio, VSTS, Git hub, Bitbucket, accessing files via FTP, Local GIT deployment. Integration of Key\n Vault and Security Center for advanced security management and protect across hybrid cloud workloads. Understanding of API Management with Security, Inte\n gration in Azure Cloud. Configuring Backup and recovery of AZURE resources.",
+    "topSkill": [
+      "Asp. Net, C#",
+      "MySQL",
+      "MVC",
+      "SQL Server",
+      " Cosmos DB ",
+      "MongoDB",
+      " HTTP Web Server",
+      "CSS3",
+      "Ajax ",
+      "XML",
+      "Bit Bucket",
+      "GitHub",
+      "Microsoft Azure",
+      "ASP.NET Web API",
+      "Logic Apps",
+      "Azure Chatbots",
+      "Function App",
+      " Logic Apps",
+      " Azure data factory",
+      "Service fabric and Blob storage"
+    ],
+    "workExperience": [
+      {
+        "name": "Sr. Back-End Developer (Azure)",
+        "position": "Sr. Back-End Developer (Azure)",
+        "Institution": "SAUFIK",
+        "Duration": "Dec, 2018 - Present",
+        "Detail": "\n • Design and build application architectures.\n • Design and develop secure cloud & web applications with .Net and Azure PAAS technologies.\n • Gathering the requirements from business teams and coordinating with different teams to complete the End-to-End process of Integration.\n • Always actively participate in four ceremonies: Sprint planning meeting, Daily Scrum, Sprint review meeting, and Sprint retrospective meeting.\n • Implementing Azure Logic Apps, Azure Functions, Azure Storage, and Service Bus Queues for large enterprise-level ERP Integration systems.\n • Creating Logic Apps with different triggers, connectors for integrating the data from Workday to different destinations.\n • Explore on Integrated Service Environment (ISE) of the Logic apps with storage account integration.\n • Creating Microservices in Azure with Service Fabric, C# and .Net Core (Reliable actors, Stateful and Stateless Services, etc.).\n • Designing and Developing API’s using Azure API Apps."
+      },
+      {
+        "name": " Back-End Developer",
+        "position": "Back-End Developer ",
+        "Institution": "TechNerds, Pakistan",
+        "Duration": "Jan, 2015 - Nov, 2018",
+        "Detail": "\n • Actively involved in Software Development Life Cycle including Analysis, Design, and solutions to the business issues and used agile methodology for software\n development.\n • Worked with n-tier architecture involving Services Layer, Data Access Layer, and Business Layer created using C#.\n • Developed test pages for different flows of application using HTML5, CSS3, JavaScript, jQuery, AJAX.\n • Used Web API as an ideal platform in building Restful applications on .NET Framework. Implemented View Model patterns in creating and managing Views, Par\n tial Views, View Models, and Web APIs using ASP. NET MVC.\n • Involved in Business Requirements gathering, and analysis of the specifications provided by the clients.\n • Maintained build versions and code versions using Team foundation Server's Version Control (TFS).\n • Created App WIT (Work Item) and CO's (Change order) for each sprint and deployed the CO’s with the help of Release management Team.\n • Used SOAP UI 5.0 to test the web services request and response object.\n • Coded and created Stored Procedures for performing repetitive tasks in updating related tables using-SQL Server 2012."
+      }
+    ]
+  },
+  {
+    "username": "17",
+    "workend": "Devops-engineeer",
+    "yearsOfexperience": "4 Years +",
+    "name": "IHTESHAM UL HAQ",
+    "title": "Sr. DevOps Engineer",
+    "technicalExperties": [
+      {
+        "name": "Azure",
+        "yearOfExp": "4"
+      },
+      {
+        "name": "AWS",
+        "yearOfExp": "4"
+      },
+      {
+        "name": "Dopper",
+        "yearOfExp": "4"
+      }
+    ],
+    "degreeAndCer": [
+      "MSSE"
+    ],
+    "language": [
+      "Urdu",
+      "English"
+    ],
+    "ProfessionalSummery": "Highly skilled DevOps Manager with 5 years of experience in building tools and critical infrastructures that support the business’s site/software/application plat\n forms. Skilled in monitoring the engineering department’s tools & procedures and promoting their evolution alongside the business’s systems. Familiar with the\n workings of Java, C++, and .net as well as expertise in cloud platforms, such as Google App Engine.\n Skilled in performing functions required and making key decisions without much oversight inclusive of decisions on automation processes, tools, and resources\n for building sites/software as promptly and efficiently as possible. Play an active role in building and improving the platform services inclusive of websites, soft\n ware, and applications while hosting and managing the database. Adept in designing and developing the business’s infrastructure architecture as well as devel\n oping automated scripts meant for building development and production environments; maintaining the business’s configuration and deployment tools, trans\n forming them into a robust system in order to auto-scale the business’s platform.",
+    "topSkill": [
+      "Unix/Linux Jenkins",
+      "Puppet",
+      "AWS/VMWare/Cisco,Teraform",
+      "Amazon EC2",
+      " CI/CD Pipelines",
+      "MariaDB",
+      "Kali Linux",
+      "Ubuntu",
+      "PFSense",
+      "InnoDB",
+      "Iptables ",
+      "FortiGate",
+      "VB Scripts",
+      "JavaScript ",
+      "Cisco Switches",
+      "Cisco Router ",
+      "Python React"
+    ],
+    "project": null,
+    "workExperience": [
+      {
+        "name": "Sr. DevOps Engineer",
+        "position": "Sr. DevOps Engineer",
+        "Institution": "SAUFIK",
+        "Duration": "Nov, 2020 - Present",
+        "Detail": " • Boosted quality via Puppet and reduced customer complaints by 30%.\n • Led a team of 7 developers and 3 Sysadmin’s in the continuous deployment of SaaS real estate solutions with 1 million+ user.\n • Worked effectively to improve the effectiveness and security of the current network operations.\n • Developed and managed new scaling processes and hired, trained, and supervised IT Interns.\n • Maintained corporate internal servers and installed and configured various hardware and software"
+      },
+      {
+        "name": "Back-End Developer",
+        "position": "Back-End Developer",
+        "Institution": " AuditXprt Limited",
+        "Duration": "Jan, 2018 - Nov,2020",
+        "Detail": " Took complete responsibility for the deployment of high-volume SaaS investment tools.\n • Set up 30 Unix servers and managed them with 90% uptime.\n • Reduced 15% vulnerabilities by writing scripts automating security.\n • Improved 18% customer satisfaction by deploying 2 iterations each month.\n • Participated in the development of automation technologies, and handled and arranged relevant documents and records.\n • Managed DevOps during a period of 40% revenue growth"
+      }
+    ]
+  },
+  {
+    "username": "18",
+    "workend": "uiux-engineer",
+    "yearsOfexperience": "4 Years +",
+    "name": "HUZAIFAH BILAL",
+    "title": "Sr. UI/UX Designer",
+    "technicalExperties": [
+      {
+        "name": "Illustrator",
+        "yearOfExp": "6"
+      },
+      {
+        "name": "Figma",
+        "yearOfExp": "4"
+      },
+      {
+        "name": "Photoshop",
+        "yearOfExp": "6"
+      },
+      {
+        "name": "Adobe XD",
+        "yearOfExp": "6"
+      },
+      {
+        "name": "Adobe After Effect",
+        "yearOfExp": "6"
+      }
+    ],
+    "degreeAndCer": [
+      "BSCS"
+    ],
+    "language": [
+      "Urdu",
+      "English"
+    ],
+    "ProfessionalSummery": "I am a seasoned UI/UX Designer proficient in Adobe Creative Suite and various design tools. My forte lies in creating visually appealing designs with a strong em\n phasis on user-centered experiences. Backed by a solid understanding of design principles and effective communication, I consistently deliver high-quality de\n signs across different mediums. My unwavering passion for innovation and staying updated on industry trends enables me to bring fresh and impactful perspec\n tives to every projectAs an accomplished UI/UX Designer, I possess extensive skills in Adobe Creative Suite and other design tools. My expertise lies in crafting vis\n ually captivating designs that prioritize user-friendly experiences. Grounded in design principles and effective communication, I consistently deliver top-tier de\n signs across diverse platforms. With a commitment to innovation and a keen eye on industry trends, I bring a fresh perspective to each project",
+    "topSkill": [
+      "Visual Design",
+      "Figma",
+      "Wireframes",
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      " Adobe XD",
+      "Web Design",
+      "Interaction Design Research",
+      "App Design",
+      "User Interface",
+      "User Experience",
+      "Design"
+    ],
+    "project": [
+      {
+        "name": "Calimatic LMS",
+        "Link": "https://www.calimaticedtech.com",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "jQuery",
+          "Designing",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Fynd",
+        "Link": "https://fynd.careers",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "PalletPal",
+        "Link": "https://www.palletpal.me",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Angular",
+          "Typescript",
+          "Material",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Reid Health",
+        "Link": "https://www.reidhealth.org",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Typescript",
+          "React",
+          "Typescript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "CPR Enroll ",
+        "Link": "https://cprenroll.com/#/home",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Projul ",
+        "Link": "https://projul.com",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "PrimeNg",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Nexgen Tutoring",
+        "Link": "http://nexgentutoring.com",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "Bootstrap"
+        ]
+      }
+    ],
+    "workExperience": [
+      {
+        "name": "Sr. UI/UX Designer",
+        "position": null,
+        "Institution": "SAUFIK",
+        "Duration": "Dec, 2020 - Present",
+        "Detail": "\n\n • Conducting user research to understand the target audience, their needs, and behaviors.<br>\n • Creating wireframes and interactive prototypes to visualize and test design concepts.<br>\n • Organizing content and information in a structured and user-friendly manner.<br>\n • Developing visually appealing interfaces, including layout, color schemes, and typography.<br>\n • Conducting usability testing to gather feedback and refine designs for optimal user experience.<br>\n • Designing intuitive and engaging interactions, including buttons, forms, and animations.<br>\n • Ensuring designs are responsive and adapt to various screen sizes and devices.<br>\n • Ensuring that the UI is accessible to all users, including those with disabilities, by following accessibility guidelines.<br>\n • Working closely with developers, product managers, and other team members to implement and iterate on designs.<br>\n • Incorporating user feedback into design improvements to continuously enhance the UI/UX.<br>\n • Understand the needs, goals, and behaviors of the target audience to create designs that are usable.<br>\n • Create wireframes, mockups, and prototypes for user testing using Figma and Adobe XD.<br>\n • Work closely with developers to ensure that designs are technically feasible and can be implemented.<br>\n • Create design systems that include style guides, color palettes, typography, and other design elements.<br>\n • Test designs with real users and iterate based on feedback to improve the user experience"
+      }
+    ]
+  },
+  {
+    "username": "19",
+    "workend": "Full-stack-dev",
+    "yearsOfexperience": "8 Years +",
+    "name": "NAUMAN ASGHAR",
+    "title": "Full Stack Developer",
+    "technicalExperties": [
+      {
+        "name": "Asp.net",
+        "yearOfExp": "8"
+      },
+      {
+        "name": "React js",
+        "yearOfExp": "8"
+      },
+      {
+        "name": "ADO.NET ",
+        "yearOfExp": "6"
+      }
+    ],
+    "degreeAndCer": [
+      "BSCS"
+    ],
+    "language": [
+      "Urdu",
+      "English"
+    ],
+    "ProfessionalSummery": "Experienced Senior Full-Stack Developer with a proven track record of designing, developing, and implementing innovative software solutions. With a strong\n background in both front-end and back-end technologies, I excel at creating robust, scalable, and user-friendly mobile applications. Skilled in various programming languages, frameworks, and libraries, I am adept at leading development teams and collaborating with stakeholders to deliver high-quality software products. Passionate about staying updated with the latest industry trends and technologies, I bring creativity and technical expertise to every project, ensuring exceptional results.\n <ul class=\"summary-list\"><li>Boosted network, system, and data availability and integrity through preventive maintenance and upgrades.</li>\n <li>Inspected equipment, assessed functionality, and optimized controls.</li>\n <li>Participated in requirements gathering to solidify prerequisites and determine the best technical solution to meet business needs.</li>\n <li>Oversaw and implemented automated build and deployment pipelines.</li>\n <li>Analyzed existing software implementations to identify areas requiring improvement.</li>\n <li>Developed functional databases, applications, and servers to support websites on the back end.</li>\n <li>Performed unit testing of mobile applications and troubleshooting issues.</li>\n <li>Optimized mobile applications for speed, scalability, and security.</li></ul>",
+    "topSkill": [
+      "React JS",
+      " SQL Server",
+      "React Native",
+      "Entity Framework",
+      " Typescript",
+      "Bootstrap",
+      "Android & iOS app ",
+      "JSON",
+      "Redux Saga ",
+      "JWT Auth ",
+      "Apple Push Notification",
+      "Firebase",
+      "ASP.net MVC",
+      "JavaScript ",
+      "jQuery",
+      "Angular",
+      "ADO.NET ",
+      "Socket.io",
+      "Blazor",
+      "Azure"
+    ],
+    "project": null,
+    "workExperience": [
+      {
+        "name": "Full-Stack Developer",
+        "position": null,
+        "Institution": "SAUFIK",
+        "Duration": "Aug, 2016 - Present",
+        "Detail": "Calimatic LMS, Reid Health, Sciensus, PingHub, Simple Safety, Guardian Medical Direction.<br>\n • Integrate the Firebase database for real-time communication.<br>\n • Integrate Firebase push notifications on Android and iOS.<br>\n • Integrate Apple push notifications for mobile calling.<br>\n • Integrate Socket.io for real-time messaging.<br>\n • Integrate Agora for calling and messaging.<br>\n • Used Entity Framework with SQL Server to develop and manage databases.<br>\n • Used JWT Auth., Identity, Single Sign-On<br>\n • Developed a Chat app with all the capabilities (Images, Audio, Video, Read Receipt Feature Etc.)<br>\n • Handled View, Upload, and Download all the formats of the documents in the App.<br>\n • Used Dot Net core for APIs (Repository Pattern, CQRS, Etc.)<br>\n • Developed unit test cases for testing and automation"
+      },
+      {
+        "name": ".Net Developer",
+        "position": null,
+        "Institution": "MAXREMIND",
+        "Duration": "Apr, 2016- Aug, 2016",
+        "Detail": "I have worked on the Home Health Care application in the MaxRemind over my period there. Home Health Care was used by some top hospitals in the USA.\n "
+      },
+      {
+        "name": "Asp.Net Developer",
+        "position": null,
+        "Institution": "NTC DEPARTEMENT MUST",
+        "Duration": "Aug, 2016 - Present",
+        "Detail": "I have worked on the Digital License Management system in the NTC over my period there. The traffic police were using the Digital License Management system for\n issuing driving license"
+      }
+    ]
+  },
+  {
+    "username": "20",
+    "workend": "SQA",
+    "yearsOfexperience": " 3 Years +",
+    "name": "Sohaib Ehsan",
+    "title": "Sr. Software Test Engineer",
+    "technicalExperties": [
+      {
+        "name": "Agile Testing",
+        "yearOfExp": "2"
+      },
+      {
+        "name": "Manual/Automation testing",
+        "yearOfExp": "1.5"
+      },
+      {
+        "name": "SQL",
+        "yearOfExp": "0.5"
+      }
+    ],
+    "degreeAndCer": [
+      "Bs Computer Science"
+    ],
+    "language": [
+      "Urdu",
+      "English"
+    ],
+    "ProfessionalSummery": "A software product professional who is highly proficient in Quality Assurance methodologies and able to perform in a fast-paced agile/scrum/safe environment.\n Experienced in all test activities including planning, test execution, and reporting test results to multiple teams across the organization. Highly organized individual with the ability to troubleshoot complex problems.",
+    "topSkill": [
+      " Management, Empowerment",
+      " Manual/Automation Testing",
+      " SDLC/Development",
+      " Methodologies",
+      " Non-Functional, Functional",
+      " Testing",
+      " Test Planning/Execution",
+      " Test Processes/Bug Cycle",
+      " STLC/Testing Methodologies",
+      " Hybrid Mobile Apps Testing",
+      " Bug Reporting API Testing"
+    ],
+    "project": [
+      {
+        "name": "Calimatic LMS",
+        "Link": "https://www.calimaticedtech.com",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "jQuery",
+          "Designing",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Fynd",
+        "Link": "https://fynd.careers",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "SAUFIK Solution",
+        "Link": "https://saufik.com/",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Angular",
+          "Typescript",
+          "Material",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Reid Health",
+        "Link": "https://www.reidhealth.org",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Typescript",
+          "React",
+          "Typescript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "CPR Enroll ",
+        "Link": "https://cprenroll.com/#/home",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Projul ",
+        "Link": "https://projul.com",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "PrimeNg",
+          "Bootstrap"
+        ]
+      }
+    ],
+    "workExperience": [
+      {
+        "name": "Associate Software Quality Engineer",
+        "position": null,
+        "Institution": "soft seek International",
+        "Duration": "Aug, 2021 - Jan, 2022",
+        "Detail": " Quality control and maintenance on PaaS & SaaS based application (marketplace, network marketing).\n • Fetches user data using database with the help of SQL queries.\n • API testing for wallet confidential transactions using postman.\n • UI/UX testing, Hands on bug tracking tool assembla.\n • Collaborating with product manager and developers for Requirements Document and Analysis. Weekly quality control and analysis for improvement the\n application along with linked products with project manager."
+      },
+      {
+        "name": "Sr. Software Test Engineer",
+        "Institution": "SAUFIK",
+        "position": "Team Lead ",
+        "Duration": "Jan, 2022 - Present",
+        "Detail": "• Quality control and maintenance on PaaS & SaaS based application (marketplace, network marketing).\n • Fetches user data using database with the help of SQL queries.\n • API testing for wallet confidential transactions using postman.\n • UI/UX testing, Hands on bug tracking tool assembla.\n • Collaborating with product manager and developers for Requirements Document and Analysis. Weekly quality control and analysis for improvement the\n application along with linked products with project manager."
+      }
+    ]
+  },
+  {
+    "username": "21",
+    "workend": "Devops-engineeer",
+    "yearsOfexperience": "4 Years +",
+    "name": "Muhammad Usman",
+    "title": "Sr. DevOps Engineer",
+    "technicalExperties": [
+      {
+        "name": "Window Server",
+        "yearOfExp": "4"
+      },
+      {
+        "name": "Jenkins",
+        "yearOfExp": "4"
+      },
+      {
+        "name": "Dopper",
+        "yearOfExp": "4"
+      },
+      {
+        "name": "PRTG(Network monitoring)",
+        "yearOfExp": "4"
+      }
+    ],
+    "degreeAndCer": [
+      "MSSE",
+      "BSSE"
+    ],
+    "language": [
+      "Urdu",
+      "English"
+    ],
+    "ProfessionalSummery": "Highly skilled DevOps Manager with 5 years of experience in building tools and critical infrastructures that support the business’s site/software/application plat\n forms. Skilled in monitoring the engineering department’s tools & procedures and promoting their evolution alongside the business’s systems. Familiar with the\n workings of Java, C++, and .net as well as expertise in cloud platforms, such as Google App Engine.\n Skilled in performing functions required and making key decisions without much oversight inclusive of decisions on automation processes, tools, and resources\n for building sites/software as promptly and efficiently as possible. Play an active role in building and improving the platform services inclusive of websites, soft\n ware, and applications while hosting and managing the database. Adept in designing and developing the business’s infrastructure architecture as well as devel\n oping automated scripts meant for building development and production environments; maintaining the business’s configuration and deployment tools, trans\n forming them into a robust system in order to auto-scale the business’s platform.",
+    "topSkill": [
+      " Tortoise",
+      " SVN",
+      " Web Server ",
+      " Application Server",
+      " JDBC",
+      " GitHub",
+      " Jenkins",
+      " Docker",
+      " Window Server",
+      " MySQL",
+      " Oracle database",
+      " PRTG(Network monitoring)"
+    ],
+    "project": null,
+    "workExperience": [
+      {
+        "name": "Sr. DevOps Engineer",
+        "position": "Sr. DevOps Engineer",
+        "Institution": "SAUFIK",
+        "Duration": "Jan, 2022 - Present",
+        "Detail": " ◦\tManaging and deploying DevOps application with AWS CI/CD pipeline ( Jenkins, Git, GitHub, Docker, Kubernetes and Ansible).<br>\n ◦\tManaging and delpoying spring boot , angular application on AWS ec2 instance .<br>\n ◦\tFamiliarity with logging and monitoring technologies such as ELK Stack(Elastic Search, Log stash, and Kibana) and PRTG (network monitoring tool).<br>\n ◦\tExpertise in the deployment of Elastic Beanstalk Application (NodeJs, React,Springboot,Angular)<br>\n ◦\tHands-on experience with E2C Amazon services<br>\n ◦\tAWS CI/CD pipeline (Codecommit, Codedeploy, CodePipeline)<br>\n ◦\tDesigning CI/CD pipeline through cloudformation and Terraform\n "
+      },
+      {
+        "name": "DevOps Engineer",
+        "position": "DevOps Engineer",
+        "Institution": " Securetech Consultancy",
+        "Duration": "Jan, 2021 - Feb,2022",
+        "Detail": "◦\tManaging and deploying DevOps application with CI/CD pipeline ( Jenkins, Git, GitHub, Docker, Kubernetes and Ansible).<br>\n ◦\tWorking on deploying the services on cloud or on-premises. Hands-on Experience with Linux environments(RedHat-based preferably).<br>\n ◦\tHands-on Experience with Build and managing CI/CD pipelines (developing and maintaining CI/CD processes for applications deployed to a cloud or on-premises).<br>\n ◦\tFamiliarity with logging and monitoring technologies such as ELK Stack(Elastic Search, Log stash, and Kibana) and PRTG (network monitoring tool).<br>\n ◦\tHands-on experience with E2C Amazon services<br>\n ◦\tAWS CI/CD pipeline (Codecommit, Codedeploy, CodePipeline)\n "
+      }
+    ]
+  },
+  {
+    "username": "22",
+    "workend": "uiux-engineer",
+    "yearsOfexperience": "4 Years +",
+    "name": "Asher Atique",
+    "title": "UI/UX Designer",
+    "technicalExperties": [
+      {
+        "name": "Illustrator",
+        "yearOfExp": "6"
+      },
+      {
+        "name": "Figma",
+        "yearOfExp": "4"
+      },
+      {
+        "name": "Photoshop",
+        "yearOfExp": "6"
+      },
+      {
+        "name": "Adobe XD",
+        "yearOfExp": "6"
+      },
+      {
+        "name": "Adobe After Effect",
+        "yearOfExp": "6"
+      }
+    ],
+    "degreeAndCer": [
+      "BSCS"
+    ],
+    "language": [
+      "Urdu",
+      "English"
+    ],
+    "ProfessionalSummery": "I am a seasoned UI/UX Designer proficient in Adobe Creative Suite and various design tools. My forte lies in creating visually appealing designs with a strong em\n phasis on user-centered experiences. Backed by a solid understanding of design principles and effective communication, I consistently deliver high-quality de\n signs across different mediums. My unwavering passion for innovation and staying updated on industry trends enables me to bring fresh and impactful perspec\n tives to every projectAs an accomplished UI/UX Designer, I possess extensive skills in Adobe Creative Suite and other design tools. My expertise lies in crafting vis\n ually captivating designs that prioritize user-friendly experiences. Grounded in design principles and effective communication, I consistently deliver top-tier de\n signs across diverse platforms. With a commitment to innovation and a keen eye on industry trends, I bring a fresh perspective to each project",
+    "topSkill": [
+      "Visual Design",
+      "Figma",
+      "Wireframes",
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      " Adobe XD",
+      "Web Design",
+      "Interaction Design Research",
+      "App Design",
+      "User Interface",
+      "User Experience",
+      "Design"
+    ],
+    "project": [
+      {
+        "name": "Calimatic LMS",
+        "Link": "https://www.calimaticedtech.com",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "jQuery",
+          "Designing",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Fynd",
+        "Link": "https://fynd.careers",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "PalletPal",
+        "Link": "https://www.palletpal.me",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Angular",
+          "Typescript",
+          "Material",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Reid Health",
+        "Link": "https://www.reidhealth.org",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Typescript",
+          "React",
+          "Typescript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "CPR Enroll ",
+        "Link": "https://cprenroll.com/#/home",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Projul ",
+        "Link": "https://projul.com",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "PrimeNg",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Nexgen Tutoring",
+        "Link": "http://nexgentutoring.com",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "Bootstrap"
+        ]
+      }
+    ],
+    "workExperience": [
+      {
+        "name": "UI/UX Designer",
+        "position": null,
+        "Institution": "SAUFIK",
+        "Duration": "Dec, 2020 - Present",
+        "Detail": "\n\n • Conducting user research to understand the target audience, their needs, and behaviors.<br>\n • Creating wireframes and interactive prototypes to visualize and test design concepts.<br>\n • Organizing content and information in a structured and user-friendly manner.<br>\n • Developing visually appealing interfaces, including layout, color schemes, and typography.<br>\n • Conducting usability testing to gather feedback and refine designs for optimal user experience.<br>\n • Designing intuitive and engaging interactions, including buttons, forms, and animations.<br>\n • Ensuring designs are responsive and adapt to various screen sizes and devices.<br>\n • Ensuring that the UI is accessible to all users, including those with disabilities, by following accessibility guidelines.<br>\n • Working closely with developers, product managers, and other team members to implement and iterate on designs.<br>\n • Incorporating user feedback into design improvements to continuously enhance the UI/UX.<br>\n • Understand the needs, goals, and behaviors of the target audience to create designs that are usable.<br>\n • Create wireframes, mockups, and prototypes for user testing using Figma and Adobe XD.<br>\n • Work closely with developers to ensure that designs are technically feasible and can be implemented.<br>\n • Create design systems that include style guides, color palettes, typography, and other design elements.<br>\n • Test designs with real users and iterate based on feedback to improve the user experience"
+      },
+      {
+        "name": " UI/UX Designer",
+        "position": null,
+        "Institution": "Soft Pvt Ltd",
+        "Duration": "Dec, 2019 - Dec 2022",
+        "Detail": "I joined Soft Pvt Ltd as a Part Time UI/UX Designer but later I joined them as\n Full Time UI/UX & Graphic Designer. I am working on their Live Project LOADX, that is running in lahore.\n I redesigned there Website. Also working on their social media posts and UI Design of LOADX User and Transporter mobile applications."
+      },
+      {
+        "name": "UI/UX Designer",
+        "position": null,
+        "Institution": "Ideal Solution",
+        "Duration": "Dec, 2017 - Dec 2019 ",
+        "Detail": "I worked as a UI/UX and Graphic Designer here. designed Speedo App (i.e, UBER, Careem) using Adobe XD.\n Logos, Company Profiles, Complete\n Company\n Branding, Promotional Graphics, Panaflexes, Banners these were kind of routine tasks."
+      }
+    ]
+  },
+  {
+    "username": "23",
+    "workend": "uiux-engineer",
+    "yearsOfexperience": "4 Years +",
+    "name": "Faisal Aleem",
+    "title": "UI/UX Designer",
+    "technicalExperties": [
+      {
+        "name": "Illustrator",
+        "yearOfExp": "6"
+      },
+      {
+        "name": "Figma",
+        "yearOfExp": "4"
+      },
+      {
+        "name": "Photoshop",
+        "yearOfExp": "6"
+      },
+      {
+        "name": "Adobe XD",
+        "yearOfExp": "6"
+      },
+      {
+        "name": "Adobe After Effect",
+        "yearOfExp": "6"
+      }
+    ],
+    "degreeAndCer": [
+      "BSCS"
+    ],
+    "language": [
+      "Urdu",
+      "English"
+    ],
+    "ProfessionalSummery": "I am a seasoned UI/UX Designer proficient in Adobe Creative Suite and various design tools. My forte lies in creating visually appealing designs with a strong em\n phasis on user-centered experiences. Backed by a solid understanding of design principles and effective communication, I consistently deliver high-quality de\n signs across different mediums. My unwavering passion for innovation and staying updated on industry trends enables me to bring fresh and impactful perspec\n tives to every projectAs an accomplished UI/UX Designer, I possess extensive skills in Adobe Creative Suite and other design tools. My expertise lies in crafting vis\n ually captivating designs that prioritize user-friendly experiences. Grounded in design principles and effective communication, I consistently deliver top-tier de\n signs across diverse platforms. With a commitment to innovation and a keen eye on industry trends, I bring a fresh perspective to each project",
+    "topSkill": [
+      "Visual Design",
+      "Figma",
+      "Wireframes",
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      " Adobe XD",
+      "Web Design",
+      "Interaction Design Research",
+      "App Design",
+      "User Interface",
+      "User Experience",
+      "Design"
+    ],
+    "project": [
+      {
+        "name": "Calimatic LMS",
+        "Link": "https://www.calimaticedtech.com",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "jQuery",
+          "Designing",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Fynd",
+        "Link": "https://fynd.careers",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "PalletPal",
+        "Link": "https://www.palletpal.me",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Angular",
+          "Typescript",
+          "Material",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Reid Health",
+        "Link": "https://www.reidhealth.org",
+        "Technologies": [
+          "HTML",
+          "CSS",
+          "Typescript",
+          "React",
+          "Typescript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "CPR Enroll ",
+        "Link": "https://cprenroll.com/#/home",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "Figma",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Projul ",
+        "Link": "https://projul.com",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "PrimeNg",
+          "Bootstrap"
+        ]
+      },
+      {
+        "name": "Nexgen Tutoring",
+        "Link": "http://nexgentutoring.com",
+        "Technologies": [
+          "HTML",
+          "SCSS",
+          "Typescript",
+          "Angular",
+          "Typescript",
+          "Bootstrap"
+        ]
+      }
+    ],
+    "workExperience": [
+      {
+        "name": "UI/UX Designer",
+        "position": null,
+        "Institution": "SAUFIK",
+        "Duration": "Dec, 2022 - Present",
+        "Detail": "\n\n • Conducting user research to understand the target audience, their needs, and behaviors.<br>\n • Creating wireframes and interactive prototypes to visualize and test design concepts.<br>\n • Organizing content and information in a structured and user-friendly manner.<br>\n • Developing visually appealing interfaces, including layout, color schemes, and typography.<br>\n • Conducting usability testing to gather feedback and refine designs for optimal user experience.<br>\n • Designing intuitive and engaging interactions, including buttons, forms, and animations.<br>\n • Ensuring designs are responsive and adapt to various screen sizes and devices.<br>\n • Ensuring that the UI is accessible to all users, including those with disabilities, by following accessibility guidelines.<br>\n • Working closely with developers, product managers, and other team members to implement and iterate on designs.<br>\n • Incorporating user feedback into design improvements to continuously enhance the UI/UX.<br>\n • Understand the needs, goals, and behaviors of the target audience to create designs that are usable.<br>\n • Create wireframes, mockups, and prototypes for user testing using Figma and Adobe XD.<br>\n • Work closely with developers to ensure that designs are technically feasible and can be implemented.<br>\n • Create design systems that include style guides, color palettes, typography, and other design elements.<br>\n • Test designs with real users and iterate based on feedback to improve the user experience"
+      },
+      {
+        "name": " UI/UX Designer",
+        "position": null,
+        "Institution": "Hypersoft Inc.",
+        "Duration": "Dec, 2019 - Dec 2022",
+        "Detail": "I joined Hypersoft Inc as a Part Time UI/UX Designer but later I joined them as\n Full Time UI/UX & Graphic Designer. I am working on their Live Project LOADX, that is running in lahore.\n I redesigned there Website. Also working on their social media posts and UI Design of LOADX User and Transporter mobile applications."
+      },
+      {
+        "name": "Hypersoft Inc.",
+        "position": null,
+        "Institution": "Ideal Solution",
+        "Duration": "Dec, 2017 - Dec 2019 ",
+        "Detail": "I worked as a UI/UX and Graphic Designer here. designed Speedo App (i.e, UBER, Careem) using Adobe XD.\n Logos, Company Profiles, Complete\n Company\n Branding, Promotional Graphics, Panaflexes, Banners these were kind of routine tasks."
+      }
+    ]
+  },
+  {
+    "username": "25",
+    "workend": "Devops-engineeer",
+    "yearsOfexperience": "8 Years +",
+    "name": "Muhammad Rameez Awan",
+    "title": "Sr. DevOps Engineer",
+    "technicalExperties": [
+      {
+        "name": "Azure",
+        "yearOfExp": "4"
+      },
+      {
+        "name": "AWS",
+        "yearOfExp": "4"
+      },
+      {
+        "name": "Dopper",
+        "yearOfExp": "4"
+      }
+    ],
+    "degreeAndCer": [
+      "MSSE"
+    ],
+    "language": [
+      "Urdu",
+      "English"
+    ],
+    "ProfessionalSummery": "Skilled DevOps team lead with hands-on experience supporting, automating, and optimizing mission critical deployments\n in AWS/OVH Cloud and bare-metal, leveraging configuration management, CI/CD, and DevOps processes. A strong Linux background with 7+ years of\n experience in system administration.",
+    "topSkill": [
+      "Amazon EC2",
+      "Route53",
+      "S3",
+      "Glacier",
+      "EBS",
+      "RDS",
+      "DynamoDB and VPC.",
+      "PFSense",
+      "Iptables",
+      "FortiGate 80E ",
+      "Sophos UTM.",
+      "Unifi AP-LR",
+      "Cisco (Aironet Series) ",
+      "TP-Link (TL-WA7510N).",
+      "Microsoft SQL",
+      "Windows Server 2012/2014/2016",
+      "Ubuntu",
+      "Centos7 & Kali Linux.",
+      "Cisco Router & Switches "
+    ],
+    "project": null,
+    "workExperience": [
+      {
+        "name": "Sr. DevOps Engineer",
+        "position": "Sr. DevOps Engineer",
+        "Institution": "SAUFIK",
+        "Duration": "Nov, 2020 - Present",
+        "Detail": " •\tDeployed of CI/CD pipelines using Bamboo. <br>\n •\tDeployed of Grafana Dashboard for monitoring using<br>\n \tPrometheus Node Exporter<br>\n \tElastic-Search and Logstash.<br>\n •\tDeployed HA Proxy and Nginx for Load Balancing of Layer 4 and Layer 7.<br>\n o Virtual hosting in Nginx.<br>\n •\tDeployed applications using Docker-Compose & Kubernetes.<br>\n •\tCreated and Configured Application environments for DEV and UAT/Staging.<br>\n •\tCreated local development environment for Kubernetes application using KIND and MicroK8s.<br>\n •\tDeployed of HA Cluster.<br>\n •\tDeployed of Stateful and Stateless applications.<br>\n •\tMonitoring and management of Kubernetes Cluster in LENS.<br>\n •\tDeployed MySQL Clusters (InnoDB and NDB) in Kubernetes.<br>\n •\tDeployed Master-Slave replication environment using MYSQL 8.0.<br>\n •\tHands-on experience on ELK (Elastic Search, Logstash, Kibana).<br>\n •\tHands-on experience in Ubuntu/CentOS and scripting languages:<br>\n\n •\tPerformed benchmarking of MYSQL using sysbench.<br>\n \tCPU, Memory and I/O operations.\n "
+      },
+      {
+        "name": "System & Network Administrator",
+        "position": "",
+        "Institution": " Élan PARTNERS (PVT.) LTD",
+        "Duration": "Jan, 2014 - Apr,2016",
+        "Detail": " •\tHandled wireless network.<br>\n •\tBackup and sync of data.<br>\n •\tTo monitor and ensure security of LAN and WAN traffic.<br>\n •\tTo install and configure Fax Services on Windows Microsoft 2012 Server.<br>\n •\tEnsure data files privacy, security, integrity and portability.\n "
+      },
+      {
+        "name": "Network Administrator",
+        "position": "",
+        "Institution": " University of Management & Technology UMT",
+        "Duration": "Jan, 2014 - Apr,2016",
+        "Detail": " •\tManage User Accounts of 24,000+ students on Windows Server 2016 R2 platform (Creation, Deletion, Permissions)<br>\n •\tIncreased Productivity, Improved quality and save time with help of network automation (WMI Scripting).<br>\n •\tDevelop organizational units in Active Directory (AD) and manage user security with group policies.<br>\n •\tManage & maintain Group Policy Objects (GPOs) throughout the Active Directory (AD).<br>\n •\tManage and migrate the critical servers from 2008 to Windows 2016 R2.<br>\n\n •\tPerform internal security audit to critical servers (PT).<br>\n •\tMonitor weekly backups, antivirus status, shared storage space and network activity, adjusting network equipment and settings as needed.<br>\n •\tManaging network of 1500+ clients and configurations of switches and VLAN.<br>\n "
+      },
+      {
+        "name": "I.T Specialist",
+        "position": "",
+        "Institution": " Saudi Telecom (STC) & Sale Advanced Co. Ltd",
+        "Duration": " Apr,2016 -Jun 2017",
+        "Detail": " •\tEmployee’s Time & Attendance system with Surveillance System. <br>\n •\tAccess Control System. (S2 Netbox Security)."
+      }
+    ]
+  },
+  {
+    "username": "26",
+    "workend": "Mob-app-Developer",
+    "yearsOfexperience": " 3 Years +",
+    "name": "Junaid Khan",
+    "title": "React Native Developer",
+    "technicalExperties": [
+      {
+        "name": "React Native",
+        "yearOfExp": "7"
+      },
+      {
+        "name": "Javascript",
+        "yearOfExp": "6"
+      },
+      {
+        "name": "Typescript",
+        "yearOfExp": "6"
+      }
+    ],
+    "degreeAndCer": [
+      "Bs software engineering",
+      "Master in Software Engineering"
+    ],
+    "language": [
+      "Urdu",
+      "English"
+    ],
+    "ProfessionalSummery": "Experienced and highly skilled React Native developer with a strong background in building high-quality,\n innovative, and scalable mobile applications. I specialize in developing cross-platform mobile apps using React Native, ensuring\n seamless performance and a consistent user experience across iOS and Android devices. With a keen eye for detail and a passion for\n creating intuitive user interfaces, I have successfully delivered multiple projects from concept to completion.",
+    "topSkill": [
+      "React Native",
+      "React Hooks",
+      "Firebase",
+      "Agora",
+      "Twillo",
+      "Jira",
+      "Chat App",
+      "React JS",
+      "Typescript",
+      "Redux, Redux Saga",
+      "Apple Push Notification",
+      "Socket.io",
+      "Firebase Crashlytics",
+      "Azure Devops"
+    ],
+    "project": null,
+    "workExperience": [
+      {
+        "name": "Mobile App Developer",
+        "Institution": "SAUFIK",
+        "position": null,
+        "Duration": "aug, 2020 - Present",
+        "Detail": "\n Integrate the Firebase database for real-time communication.<br>\n Integrate Firebase push notifications on Android and iOS.<br>\n Integrate Apple push notifications for mobile calling.<br>\n Integrate Socket.io for real-time messaging.<br>\n Integrate Agora for calling and messaging.<br>\n Developed a Chat app with all the capabilities (Images, Audio, Video, Read Receipt Feature Etc.)<br>\n Handled View, Upload, and Download all the formats of the documents in the App.<br> "
+      },
+      {
+        "name": "Mobile App Developer",
+        "position": null,
+        "Institution": "HIGHXPERT INC. ISLAMABAD",
+        "Duration": "april 2019 – august 2020",
+        "Detail": " I have worked on a couple of application in in the TECHXPERT over my period there. The main application is Home Health Care application. Home Health Care was used by some top hospitals in the USA. "
+      }
+    ]
+  }
+]

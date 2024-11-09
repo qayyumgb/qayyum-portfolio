@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 801 802" style="enable-background:new 0 0 801 802;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.7;fill:none;stroke:#FFFFFF;stroke-width:1.3343;stroke-dasharray:5.34,5.34;enable-background:new    ;}
+	.st1{opacity:0.6;fill:none;stroke:#FFFFFF;stroke-width:1.3343;stroke-dasharray:5.34,5.34;enable-background:new    ;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#1583E9;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);}
+</style>
+<circle class="st0" cx="400.6" cy="401" r="399.4"/>
+<circle class="st1" cx="400.6" cy="401" r="378.6"/>
+<g>
+	<circle class="st2" cx="400.2" cy="401" r="161.1"/>
+</g>
+<circle class="st3" cx="397.6" cy="401" r="172.3"/>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="155.1624" y1="403.271" x2="271.5614" y2="402.888" gradientTransform="matrix(1 0 0 -1 0 804)">
+	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<path class="st4" d="M273.4,399.9H155.2v2h118.2c1,0,1.9-0.4,1.9-1C275.2,400.4,274.4,399.9,273.4,399.9z"/>
+</svg>
