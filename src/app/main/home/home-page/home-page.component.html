@@ -17,9 +17,9 @@
       </div>
       <div class="home-hero-display--description mt-lg-3 mt-md-2 mb-lg-0 mb-md-0 mb-3">
         <div class="sub-hero-title font-14">
-          At SAUFIK, we know first-hand what custom software development  solutions are. You can count not only<br> on extensive tech
-          expertise  but also on a keen understanding of the world of business,  considering <br> that we’ve been building bespoke B2B
-          solutions for small and mid-size  businesses since 2015.
+          <h2>Innovative Web & Front-End Development</h2>
+          
+          <span [style.color]="currentText?.color">{{ currentText?.text }}</span>
         </div>
       </div>
 
@@ -84,11 +84,9 @@
           <ng-template carouselSlide>
             <div class="tech-img"><img src="../../../../assets/images/dotnet.png"></div>
           </ng-template>
+
           <ng-template carouselSlide>
-            <div class="tech-img"><img src="../../../../assets/images/csh.png"></div>
-          </ng-template>
-          <ng-template carouselSlide>
-            <div class="tech-img"><img src="../../../../assets/images/node.png"></div>
+            <div class="tech-img"><img src="../../../../assets/images/new/htmlcss.jpg"></div>
           </ng-template>
           <ng-template carouselSlide>
             <div class="tech-img"><img src="../../../../assets/images/typescript-logo.svg"></div>
@@ -106,13 +104,13 @@
             <div class="tech-img"><img src="../../../../assets/images/javascript.png"></div>
           </ng-template>
           <ng-template carouselSlide>
-            <div class="tech-img"><img src="../../../../assets/images/devops-logo.png"></div>
+            <div class="tech-img"><img src="../../../../assets/images/new/jquery-1.png"></div>
           </ng-template>
           <ng-template carouselSlide>
-            <div class="tech-img"><img src="../../../../assets/images/azure.png"></div>
+            <div class="tech-img"><img src="../../../../assets/images/new/Figma.png"></div>
           </ng-template>
           <ng-template carouselSlide>
-            <div class="tech-img"><img src="../../../../assets/images/aws.png"></div>
+            <div class="tech-img"><img src="../../../../assets/images/new/bootstrap.png"></div>
           </ng-template>
           <ng-template carouselSlide>
             <div class="tech-img"><img src="../../../../assets/images/sql.png"></div>
@@ -165,61 +163,7 @@
     </div>
   </div>
 </section>
-<div class="d-none">
-  <h2 class="services-title text-center mb-4 section-title">Why Choose Us?</h2>
-  <p class="sub-title-light text-center">We personalize how we work to fit your project needs. Our approach helps
-    augment innovation.</p>
-  <div class="d-flex justify-content-around align-items-center my-4 flex-md-nowrap flex-wrap gap-3">
-    <div class="testimonial-content">
-      <div>
-        <div class="inner-circle">
-          <div class="d-flex justify-content-center">
-            <img src="../../../../assets/images/why1.svg">
-          </div>
-        </div>
-        <div>
-          <h3>Build a&nbsp;functional prototype in&nbsp;24 hrs</h3>
-        </div>
-      </div>
-    </div>
-    <div class="testimonial-content">
-      <div>
-        <div class="inner-circle">
-          <div class="d-flex justify-content-center">
-            <img src="../../../../assets/images/why2.svg">
-          </div>
-        </div>
-        <div>
-          <h3>Create an MVP within two weeks</h3>
-        </div>
-      </div>
-    </div>
-    <div class="testimonial-content">
-      <div>
-        <div class="inner-circle">
-          <div class="d-flex justify-content-center">
-            <img src="../../../../assets/images/why3.svg">
-          </div>
-        </div>
-        <div>
-          <h3>Kickstart software development</h3>
-        </div>
-      </div>
-    </div>
-    <div class="testimonial-content">
-      <div>
-        <div class="inner-circle">
-          <div class="d-flex justify-content-center">
-            <img src="../../../../assets/images/why4.svg">
-          </div>
-        </div>
-        <div>
-          <h3>Get 24/7 tech & business support</h3>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
+
 <!-- client review section -->
 <div class="client-review position-relative section-top-inner-space section-bottom-inner-space">
   <div class="container">
@@ -235,22 +179,6 @@
             <ng-container *ngFor="let item of testtemonial">
               <ng-template carouselSlide *ngFor="let item of clientReviews">
                   <div class="client-review-container">
-                      <div class="">
-                        <div class=" card-box h-100 ">
-                        <div class="project-tagImage">
-                         
-                          <img src="../../../../assets/images/{{item.ProjectImg}}" alt="">
-                          <div class="project-tags d-flex justify-content-center align-items-center flex-lg-nowrap flex-wrap">
-                            <div class="testimonial-tag">
-                              <div class="text-nowrap">{{item.projectTag1}}</div>
-                            </div>
-                            <div class="testimonial-tag">
-                              <div class="text-nowrap">{{item.projectTag2}}</div>
-                            </div>
-                          </div> 
-                        </div>
-                        </div>
-                      </div>
                       <div class="">
                         <div class="d-flex justify-content-between flex-wrap">
                           <div class="comma-img d-flex justify-content-center justify-content-lg-start ">

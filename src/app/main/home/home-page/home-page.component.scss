@@ -14,7 +14,15 @@
   color: #fff;
 }
 .sub-hero-title{
-  font-size: 16px;
+  h2{
+    font-size: 18px;
+  }
+  span{
+    min-height: 40px;
+    display: block;
+    font-weight: 500;
+    font-size: 16px;
+  }
 }
 .background-video,
 .home-hero-wrapper {
@@ -388,13 +396,11 @@ font-size: 17px;
     grid-column-gap: 1.5em;
     grid-row-gap: 1.5em;
     grid-template-rows: auto;
-    grid-template-columns: 1fr 2fr;
-    grid-auto-columns: 1fr;
     display: grid;
     width: 100%;
     background: linear-gradient(0deg, hsla(210, 100%, 23%, 0.1), hsla(210, 14%, 7%, 0.5));
     border-radius: 12px;
-    padding: 4.25em 1.5em 1.5em;
+    padding: 1.5em 1.5em 1.5em;
     position: relative;
     overflow: hidden;
     .project-logo{

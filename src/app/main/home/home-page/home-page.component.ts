@@ -1,7 +1,8 @@
-import { Component,OnInit} from '@angular/core';
+import { Component,OnInit, ViewChild} from '@angular/core';
 import { OwlOptions } from 'ngx-owl-carousel-o';
 import { ClientDTO } from 'src/app/constant/models/headerDataDto';
 import { JsonDataService } from 'src/app/services/json-data.service';
+import { TypewriterService } from 'src/app/services/typewriter.service';
 
 @Component({
   selector: 'app-home-page',
@@ -9,6 +10,10 @@ import { JsonDataService } from 'src/app/services/json-data.service';
   styleUrls: ['./home-page.component.scss']
 })
 export class HomePageComponent implements OnInit {
+  @ViewChild('tw') typewriterElement:any;
+  @ViewChild('tw2') typewriterElement2:any;
+  @ViewChild('tw3') typewriterElement3:any;
+
   testtemonial:number[] =[1,2,3]
   customOptions: OwlOptions = {
     center: true,
@@ -74,7 +79,7 @@ export class HomePageComponent implements OnInit {
   }
   testimonialCarousel: OwlOptions = {
     center: true,
-    items:1.3,
+    items:2.3,
     loop:true,
     margin:20,
     nav:true,
@@ -92,25 +97,38 @@ export class HomePageComponent implements OnInit {
             items: 1
         },
         1000: {
-            items: 1.3
+            items: 2.3
         },
         1200: {
-            items: 1.3
+            items: 2.3
         },
         1320: {
-            items: 1.3
+            items: 2.3
         }
     }
   }
   clientReviews?:ClientDTO[]
     modalService: any;
-constructor(private jsonService:JsonDataService) {
+constructor(private jsonService:JsonDataService,private typewriterService: TypewriterService) {
 this.jsonService.GetAllClientreview().subscribe(x => this.clientReviews =x);
 
 }
 
-ngOnInit(): void {
+currentText: { text: string; color: string } | null = null;
+  
+titles = [
+  { word: 'Building scalable, high-performance applications with the latest web technologies', color: '#3399ff' },
+  { word: 'Creating seamless, intuitive interfaces for exceptional user experiences.', color: '#ffda47' },
+  { word: 'Crafting modern, responsive websites that bring your brand to life.', color: '#00f8a2' },
+  { word: 'Elevate Your Brand with Expert Front-End Development', color: '#ffda47' },
+];
 
+
+ngOnInit(): void {
+ 
+  this.typewriterService.getTypewriterEffect(this.titles).subscribe((text) => {
+    this.currentText = text;
+  });
 }
     isModalOpen = false;
     openModal() {
