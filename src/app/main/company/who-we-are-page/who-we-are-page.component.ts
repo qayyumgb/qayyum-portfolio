@@ -9,8 +9,8 @@ import { headerDataDto } from 'src/app/constant/models/headerDataDto';
 })
 export class WhoWeArePageComponent {
   headertagData: headerDataDto={
-    title:"about SAUFIK",
-    subTitle:"We're a software engineering company <br>  that solves complex technical <br>  problems",
+    title:"about ME",
+    subTitle:"I am a developer <br>  that solves complex technical problems",
     tagline:"And we love doing it"
     
   }

@@ -1,17 +1,21 @@
 
 @import "../../../../assets/variable";
 .development-services{
-    padding: 50px 0;
     .offer-tabs-inner{
         width: 100%;
-        max-width: 370px;
-        position: relative;
-        // background: radial-gradient(farthest-corner circle at 0% 0%, hsla(210, 100%, 23%, 0.2) 0%, hsl(240deg 12.2% 16.08%) 100%);
-        background: linear-gradient(0deg, hsla(210, 100%, 23%, 0.1), hsla(210, 14%, 7%, 0.5));
-        border-radius: 12px;
-        padding: 22px 18px;
-        transition: all 0.3s ease;
-        border: 1px solid hsl(210deg 16.62% 18.06%);
+    position: relative;
+    /* background: linear-gradient(0deg, hsla(210, 100%, 23%, 0.1), hsla(210, 14%, 7%, 0.5)); */
+    /* border-radius: 12px; */
+    padding: 22px 18px;
+    transition: all 0.3s ease;
+    /* border: 1px solid hsl(210, 16.62%, 18.06%); */
+    /* cursor: pointer; */
+    background: linear-gradient(225deg, #ffffff0d, #6464640d 25%, #0000000d 50% 75%, #6464640d);
+    border-radius: 10px !important;
+    border: 1px solid hsl(210deg 100% 60% / 21%) !important;
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    background-color: #0000001a !important;
         cursor: pointer;
         .icons{
           position: relative;
@@ -45,7 +49,7 @@
     }
     .service-item-list {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(292px, 1fr));
       gap: 22px;
   }
 }

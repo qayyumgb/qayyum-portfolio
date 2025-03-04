@@ -1,7 +1,7 @@
 .dev-background {
     background-image: url(../../../../assets/images/web-dev-banner.jpg);
     background-repeat: no-repeat;
-    height: 85vh;
+    height: 320px;
     // background-position: 0 100%;
 
     img {
@@ -19,7 +19,7 @@
 }
 
 .background-overlay {
-    background: linear-gradient(80deg, rgba(18, 50, 125, 0.7), rgb(11 56 165 / 98%));
+    background: linear-gradient(90deg, rgba(32, 32, 40, 0.86) 15%, rgba(23, 23, 53, 0.83) 50%, rgba(33, 33, 44, 0.81) 100%);
 }
 
 .banner-text {

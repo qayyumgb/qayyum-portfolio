@@ -51,13 +51,20 @@
   .home-hero-wrapper,.background-video{
     height: 70vh !important;
   }
-  
+  .art-info-bar{
+    left: -100% !important;
+    position: absolute !important;
+  }
+  .saufik-main-wrapper{
+    padding: 0 !important;
+  }
 }
 // -------------- media query 768px -------------
 @media (max-width: $mobile) {
   .section-title {
-    font-size: 30px !important;
+    font-size: 24px !important;
     font-weight: 700;
+    margin-bottom: 1.5rem !important;
   }
   .saufik-expertise-container {
     .owl-nav {
@@ -89,24 +96,19 @@
     font-size: 12px !important;
   }
   .section-top-inner-space {
-    padding-top: 50px !important;
+    padding-top: 30px !important;
   }
   
   .section-bottom-inner-space {
-    padding-bottom: 50px !important;
+    padding-bottom: 30px !important;
   }
   .section-bottom-outer-space {
-    margin-bottom: 50px !important;
+    margin-bottom: 30px !important;
   }
   .section-top-outer-space {
-    margin-top: 50px !important;
+    margin-top: 30px !important;
 }
-  .development-services{
-    .offer-tabs-inner{
-      max-width: 320px !important;
-      margin: 0 10px 25px !important;
-    }
-  }
+ 
   .comma-img{
     img{
       width: 50px !important;
@@ -216,6 +218,19 @@
     padding: 0 10px !important;
   }
 }
+.saufik-main-wrapper{
+  padding-bottom: 4.6rem !important;
+  .center-layout{
+    padding-left: 0 !important;
+    .main-router-outler{
+      padding: 10px;
+      margin-top: 0 !important;
+    }
+  }
+  .dev-background{
+    height: 240px;
+  }
+}
 }
 // -------------- media query 526px -------------
 @media(max-width: 526px){
@@ -247,7 +262,6 @@
 .development-services{
   .offer-tabs-inner{
     max-width: 370px !important;
-    margin: 0 0px 25px !important;
 
   }
 }
@@ -290,7 +304,7 @@
   }
 }
 .home-hero-wrapper,.background-video{
-  height: 85vh !important;
+  height: 60vh !important;
 }
 h1{
   line-height: 1.4;

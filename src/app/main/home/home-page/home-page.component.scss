@@ -9,7 +9,11 @@
 
 
 }
-
+.technology-tools {
+  display: grid
+;
+  grid-template-columns: repeat(auto-fill, minmax(196px, 1fr));
+}
 .home-hero-display--description {
   color: #fff;
 }
@@ -18,16 +22,16 @@
     font-size: 18px;
   }
   span{
-    min-height: 40px;
+    min-height: 60px;
     display: block;
     font-weight: 500;
-    font-size: 16px;
+    font-size: 18px;
   }
 }
 .background-video,
 .home-hero-wrapper {
   object-fit: cover;
-  max-height: calc(100vh - 300px);
+  max-height: calc(100vh - 350px);
 }
 
 .home-hero-display--description {
@@ -536,7 +540,7 @@ svg.svg2 {
 
   .home-hero-display--intro h1 {
     margin-top: 7rem;
-    font-size: 2rem;
+    font-size: 1.7rem;
   }
 
   .link-icon-wrapper {

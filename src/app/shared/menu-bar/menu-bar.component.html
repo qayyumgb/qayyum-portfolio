@@ -7,8 +7,7 @@
           <nav class="header-menu text-center flex-xs-1">
             <ul class="nav_scroll mb-0">
               <ng-container *ngFor="let nav of navItems;let i = index">
-                <li><a 
-                  class="pointer py-3">{{nav.linkName}} </a>
+                <li><a routerLink="/{{nav.url}}" class="pointer py-3">{{nav.linkName}} </a>
                 
                 </li>
               </ng-container>

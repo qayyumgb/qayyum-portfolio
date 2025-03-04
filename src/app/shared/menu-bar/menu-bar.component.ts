@@ -10,7 +10,7 @@ import { JsonDataService } from 'src/app/services/json-data.service';
   styleUrls: ['./menu-bar.component.scss'],
 })
 export class MenuBarComponent {
-  navItems:any[] =[{'linkName':'Home'},{'linkName':'Projects'},{'linkName':'About'},{'linkName':'Skills'}]
+  navItems:any[] =[{'linkName':'Home','url':'home'},{'linkName':'Projects','url':'projects'},{'linkName':'About','url':'about'},{'linkName':'Skills','url':'skills'}]
   getIndex:number = -1
 
   househover:boolean = false;
