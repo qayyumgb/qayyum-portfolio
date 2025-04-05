@@ -4,15 +4,12 @@
     .offer-tabs-inner{
         width: 100%;
     position: relative;
-    /* background: linear-gradient(0deg, hsla(210, 100%, 23%, 0.1), hsla(210, 14%, 7%, 0.5)); */
-    /* border-radius: 12px; */
     padding: 22px 18px;
     transition: all 0.3s ease;
-    /* border: 1px solid hsl(210, 16.62%, 18.06%); */
-    /* cursor: pointer; */
-    background: linear-gradient(225deg, #ffffff0d, #6464640d 25%, #0000000d 50% 75%, #6464640d);
+    // background: linear-gradient(225deg, #ffffff0d, #6464640d 25%, #0000000d 50% 75%, #6464640d);
+    background: linear-gradient(159deg, rgba(37, 37, 50, 0.98) 0%, rgba(35, 35, 45, 0.98) 100%);;
     border-radius: 10px !important;
-    border: 1px solid hsl(210deg 100% 60% / 21%) !important;
+    border: 1px solid #4bffa524 !important;
     -webkit-backdrop-filter: blur(10px);
     backdrop-filter: blur(10px);
     background-color: #0000001a !important;
@@ -20,10 +17,10 @@
         .icons{
           position: relative;
           font-size: 30px;
-          color: hsl(210, 100%, 60%);
+          color: #4bffa5;
         }
         &:hover{
-         border: 1px solid hsl(210, 100%, 60%);
+         border: 1px solid #4bffa5;
             
             transform: scale(1.03);
             
@@ -37,7 +34,7 @@
         margin-bottom: 18px;
         transition: 0.3s ease all;
         position: relative;
-        color: hsl(210, 100%, 60%);
+        color: #4bffa5;
     }
     .offer-tabs-inner-text{
         font-size: 14px;

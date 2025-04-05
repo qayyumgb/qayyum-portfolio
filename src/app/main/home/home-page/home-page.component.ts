@@ -117,10 +117,10 @@ this.jsonService.GetAllClientreview().subscribe(x => this.clientReviews =x);
 currentText: { text: string; color: string } | null = null;
   
 titles = [
-  { word: 'Building scalable, high-performance applications with the latest web technologies', color: '#3399ff' },
-  { word: 'Creating seamless, intuitive interfaces for exceptional user experiences.', color: '#ffda47' },
-  { word: 'Crafting modern, responsive websites that bring your brand to life.', color: '#00f8a2' },
-  { word: 'Elevate Your Brand with Expert Front-End Development', color: '#ffda47' },
+  { word: 'Design. Develop. Deliver.', color: '#3399ff' },
+  { word: 'Transforming Pixels into Performance.', color: '#ffda47' },
+  { word: 'From Concept to Click – Seamlessly.', color: '#00f8a2' },
+  { word: 'Coding Dreams into Reality.', color: '#ffda47' },
 ];
 
 
