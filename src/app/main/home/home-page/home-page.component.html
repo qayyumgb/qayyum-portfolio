@@ -145,7 +145,7 @@
       <h1 class="section-title text-center">What <span
         class="blue-grad-text">They Say</span> About Me
     </h1>
-    <p class="font-14">We discuss the project details, collect the requirements and create a proposal, based on your needs, budget and timeframes.</p>
+    <p class="font-14">Real words from real clients — honest feedback, lasting impressions.</p>
     </div>
     <div class="row align-items-center">
         <div class="card card-text bg-transparent border-0 rounded-custom h-100">
@@ -153,18 +153,20 @@
             <ng-container *ngFor="let item of testtemonial">
               <ng-template carouselSlide *ngFor="let item of clientReviews">
                   <div class="client-review-container">
-                      <div class="">
+                      <div class="d-flex flex-column">
                         <div class="d-flex justify-content-between flex-wrap">
-                          <div class="comma-img d-flex justify-content-center justify-content-lg-start ">
+                          <div class="comma-img d-flex justify-content-center w-100 justify-content-lg-start align-items-center">
                             <img src="../../../../assets/images/quotes-left.b1f64ab4.svg" alt="" width="50px" srcset="">
+                            <h6 class="ms-2 mb-0 f-grow">{{item.heading}}</h6>
+                            <img src="https://logos-world.net/wp-content/uploads/2021/04/Upwork-Logo-1.png">
                           </div>
-                          <div class="project-logo d-flex justify-content-center">
+                          <!-- <div class="project-logo d-flex justify-content-center">
                             <img src="../../../../assets/images/{{item.projectlogo}}" alt="">
-                          </div>
+                          </div> -->
                         </div>
                      
                         
-                        <div>
+                        <div class="f-grow">
                           
                           <p class="mb-3 mb-lg-4 mt-lg-4 mb-lg-4 text-justify fs-body font-14 para-quote  pb-lg-0 text-center text-lg-start">
                             {{item.clientreview}}
@@ -172,10 +174,11 @@
                         </div>
                        
                         <div class="d-flex align-items-center review-img flex-column flex-lg-row gap-3 mb-2">
-                          <img src="../../../../assets/images/{{item.clientImg}}">
+                          <!-- <img src="../../../../assets/images/{{item.clientImg}}"> -->
+                           <span class="client-initials">{{item.initials}}</span>
                           <div class="mx-2 text-center text-lg-start">
-                            <h5 class="mb-0  ">{{item.clientName}}</h5>
-                            <p class="mb-2 client-det fw-6 text-muted">{{item.clientIntro}}</p>
+                            <h5 class="mb-0 mb-2">{{item.clientName}}</h5>
+                            <!-- <p class="mb-2 client-det fw-6 text-muted">{{item.clientIntro}}</p> -->
                             <div
                               class="text-warning d-flex gap-1 justify-content-center justify-content-lg-start mt-3 mt-lg-0">
                               <i class="fa-solid fa-star "></i>

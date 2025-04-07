@@ -10,34 +10,23 @@ export interface ProjectDTO {
     caseName: string,
     technology: string[],
     projectTitle: string,
-    ProjectDetail: string
     ProjectDescription: string
     ProjectImg: any[]
     imgFluid: string[]
     projectLink: string[]
     id?: any,
-    caseid?:any,
-    bannerTitle: string[],
-    bannerDescription: string,
-    bannerImg: string,
-    projIntro: string,
-    projwebLink: string[],
-    projGoal: string[],
-    projChallenge: string[]
-    projMainimg: string
-    technologyStack: string[]
+    industry: string
 }
 
 export interface ClientDTO {
     projectlogo: string,
-    ProjectImg: string[],
-    projectTag1: string,
-    projectTag2: string,
     clientreview: string,
     clientName: string[],
     clientIntro: string[],
     taglist: string[],
-    clientImg: string[]
+    clientImg: string[],
+    heading: string[],
+    initials: string[]
 }
 
 export interface projectDataDTO {

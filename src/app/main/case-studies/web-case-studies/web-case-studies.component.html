@@ -10,32 +10,34 @@
         </div>
     </div>
 </div>
-<div class="mt-5 section-bottom-inner-space" >
+<div class="mt-5 section-bottom-inner-space">
     <div class="container">
         <div class="project-list mt-5">
             <ng-container *ngFor="let item of projects">
-              <div class="project-info-card pointer" [routerLink]="'/case-studies/detail/'+item.id">
-                <div class="proj-img-bg">
-                    <ng-container *ngFor="let img of item?.ProjectImg">
-                        <img src="https://qayyum-portfolio.web.app/assets/images/projects/fynd-1.jpg" class="{{item.imgFluid}}">
-                    </ng-container>
-                    
-                    <!-- <img class="" src="../../../../assets/images/proj-card-img.svg" alt="">  -->
+                <div class="project-info-card">
+                    <div class="proj-img-bg">
+                        <owl-carousel-o [options]="customOptions">
+                            <ng-container *ngFor="let img of item?.ProjectImg">
+                                <ng-template carouselSlide>
+                                    <img [src]="'../../../../assets/images/projects/'+img" class="{{item.imgFluid}}">
+                                </ng-template>
+                            </ng-container>
+                        </owl-carousel-o>
+                    </div>
+                    <div class="proj-info">
+                        <div class="li-case-info">
+                            <ng-container *ngFor="let tech of item.technology">
+                                <span>{{tech}}</span>
+                            </ng-container>
+                        </div>
+                        <h3 class="project-name mt-2"><a>{{item.projectTitle}}</a></h3>
+                        <p class="project-description">{{item.ProjectDescription}}</p>
+                        <a class="link-txt pointer" target="_blank" href="{{item.projectLink}}">View Detail
+                            <i class="fa-solid fa-arrow-right mx-1 mt-1"></i></a>
+                    </div>
+
                 </div>
-                <div class="proj-info">
-                    <div class="li-case-info">
-                        <ng-container  *ngFor="let tech of item.technology" >
-                         <span>{{tech}}</span>
-                        </ng-container>
-                     </div>
-                     <h3 class="project-name mt-2"><a>{{item.projectTitle}}</a></h3>
-                     <p class="project-description">{{item.ProjectDescription}}</p>
-                     <a class="link-txt pointer">View Detail
-                         <i class="fa-solid fa-arrow-right mx-1 mt-1"></i></a>
-                </div>
-               
-            </div>
-        </ng-container>  
+            </ng-container>
         </div>
     </div>
 

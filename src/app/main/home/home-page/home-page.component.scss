@@ -351,20 +351,24 @@ font-size: 17px;
     position: relative;
     // box-shadow: 0 .275rem .75rem -.0625rem rgba(19, 16, 34, .06), 0 .125rem .4rem -.0625rem rgba(19, 16, 34, .03);
 
-    .review-img img {
-      width: 70px;
-      border-radius: 50%;
-      height: 70px;
-      border: 3px solid $primaryColor;
-      box-shadow: 0px 0px 0px 5px #4bffa540;
+    .review-img .client-initials {
       animation: imageRipple .3s ease;
-      object-fit: contain;
+      width: 50px;
+    border-radius: 50%;
+    height: 50px;
+    border: 3px solid #4bffa5;
+    box-shadow: 0px 0px 0px 5px rgba(75, 255, 165, 0.2509803922);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
 
     }
 
     h5 {
       color: $primaryColor;
       font-weight: 700;
+      font-size: 18px;
     }
   }
 
@@ -411,6 +415,7 @@ font-size: 17px;
     background-color: rgba(0, 0, 0, 0.1019607843) !important;
     cursor: pointer;
     .project-logo{
+      display: none;
       img{
         width: 100%;
         max-width: 170px;
@@ -614,7 +619,11 @@ svg.svg2 {
 .comma-img
 {
   img{
-    width: 80px;
+    width: 50px;
+  }
+  h6{
+    font-size: 18px;
+    font-weight: 600;
   }
 }
 :host ::ng-deep{
