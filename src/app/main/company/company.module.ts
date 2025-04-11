@@ -9,6 +9,7 @@ import { WhoWeArePageComponent } from './who-we-are-page/who-we-are-page.compone
 import { SharedModule } from 'src/app/shared/shared.module';
 import { SaufikBenefitsComponent } from './saufik-benefits/saufik-benefits.component';
 import { SaufikContactUsComponent } from './saufik-contact-us/saufik-contact-us.component';
+import { PortfolioSkillsComponent } from './portfolio-skills/portfolio-skills.component';
 
 
 
@@ -20,6 +21,7 @@ import { SaufikContactUsComponent } from './saufik-contact-us/saufik-contact-us.
     WhoWeArePageComponent,
     SaufikBenefitsComponent,
     SaufikContactUsComponent,
+    PortfolioSkillsComponent,
     // ContactUsComponent
   ],
   imports: [
