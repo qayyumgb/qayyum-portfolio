@@ -48,5 +48,9 @@
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(292px, 1fr));
       gap: 22px;
+      @media (max-width:600px) {
+        grid-template-columns: repeat(auto-fit, minmax(252px, 1fr));
+        gap: 12px;
+      }
   }
 }

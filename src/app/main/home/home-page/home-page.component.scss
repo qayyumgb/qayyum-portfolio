@@ -10,9 +10,13 @@
 
 }
 .technology-tools {
-  display: grid
-;
-  grid-template-columns: repeat(auto-fill, minmax(196px, 1fr));
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(175px, 1fr));
+  gap: 24px;
+  @media (max-width: 600px) {
+    grid-template-columns: repeat(auto-fill, minmax(115px, 1fr));
+    gap: 12px;
+  }
 }
 .home-hero-display--description {
   color: #fff;
@@ -137,7 +141,6 @@
       line-height: 66px;
       display: block;
       transition: all 0.3s ease;
-      margin: 12px;
       border-radius: 6PX;
       box-shadow: 0 10px 30px 0 rgba(0, 0, 0, .1);
       // background: radial-gradient(circle closest-corner at 50% 100%, hsl(146.18deg 74.35% 64.39% / 9%), rgb(32 32 42));
@@ -147,6 +150,11 @@
       border: 1px solid #4bffa524 !important;
       &:hover{
         background-image:  radial-gradient(circle closest-corner at 50% 100%, hsla(179, 75%, 65%, 0.09), rgba(35, 35, 45, 0.98));
+      }
+
+      @media (max-width:600px) {
+        padding: 7px 30px 7px 30px;
+        height: 84px;
       }
     }
 
@@ -391,6 +399,9 @@ font-size: 17px;
     font-weight: 400;
     opacity: .8;
     line-height: 1.8;
+    @media (max-width:600px) {
+      line-height: 22px;
+    }
   }
 
   .client-det {
@@ -547,7 +558,7 @@ svg.svg2 {
   }
 
   .home-hero-display--intro h1 {
-    margin-top: 7rem;
+    margin-top: 0rem !important;
     font-size: 1.7rem;
   }
 
@@ -624,6 +635,12 @@ svg.svg2 {
   h6{
     font-size: 18px;
     font-weight: 600;
+  }
+  @media (max-width:575px) {
+    justify-content: space-between !important;
+    h6{
+     display: none;
+    }
   }
 }
 :host ::ng-deep{

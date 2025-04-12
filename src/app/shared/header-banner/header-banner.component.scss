@@ -3,6 +3,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     height: 320px;
+    max-height: calc(100vh - 350px);
     border-radius: 12px;
     background-position: 100%;
     // background-size: 100%;
@@ -30,6 +31,7 @@
     opacity: 0.3;
     display: flex;
     background-position-x: right;
+    border-radius: 12px;
 
   }
 

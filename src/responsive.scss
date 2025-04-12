@@ -21,21 +21,26 @@
   .expertise_inner,.client-review{
     .owl-prev,
     .owl-next{
-      width: 40px !important;
-      height: 40px !important;
+      width: 36px !important;
+      height: 36px !important;
     }
   }
   .expertise_inner {
+    .owl-nav{
+      top: 1rem !important;
+      bottom: auto !important;
+    }
     .owl-prev {
-      left: 5rem !important;
+      left: 13rem !important;
     }
 
     .owl-next {
-      right: 5rem !important;
+      right: 1rem !important;
     }
   }
 
   .client-review {
+    
     .owl-prev {
       left: 3rem !important;
     }
@@ -225,6 +230,7 @@
     .main-router-outler{
       padding: 10px;
       margin-top: 0 !important;
+      padding-bottom: 3rem !important;
     }
   }
   .dev-background{
@@ -308,6 +314,9 @@
 }
 h1{
   line-height: 1.4;
+}
+.hide-xs{
+  display: none !important;
 }
 }
 // -------------- media query 426px -------------

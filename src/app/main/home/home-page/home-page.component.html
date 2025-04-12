@@ -19,7 +19,7 @@
         <div class="sub-hero-title font-14">
           <h2>Innovative Web & Front-End Development</h2>
           
-          <span [style.color]="currentText?.color">{{ currentText?.text }}</span>
+          <span class="hide-xs" [style.color]="currentText?.color">{{ currentText?.text }}</span>
         </div>
       </div>
 
@@ -28,7 +28,7 @@
 
         <div class="d-flex flex-lg-nowrap">
           
-          <button type="button" class="btn-rounded home-hero-display--lets-talk text-uppercase font-12" > Explore Now
+          <button type="button" routerLink="/projects" class="btn-rounded home-hero-display--lets-talk text-uppercase font-12" > Explore Now
           </button>
         </div>
 

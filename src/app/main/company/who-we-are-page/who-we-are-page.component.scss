@@ -195,6 +195,10 @@
     width: 100%;
     padding-left: 40px;
     border-left: 1px solid #eee;
+    @media (max-width:600px) {
+        padding-left: 0;
+        border: 0;
+    }
 }
 .resum-header{
     float: left;
@@ -265,12 +269,27 @@
         z-index: 1;
         border-color: #4bffa5;
     }
+
+    @media (max-width:600px) {
+        padding: 20px 10px 20px 60px;
+        &::after,&::before{
+            display: none;
+        }
+        i{
+            width: 35px;
+            height: 35px;
+        }
+        
+    }
 }
 .custom-container{
     width: 92%;
     margin: 0 auto;
     position: relative;
     z-index: 5;
+    @media (max-width:600px) {
+        width: 100%;
+    }
 
 }
 .custom-inner-content {
@@ -326,6 +345,13 @@
         border-radius: 50%;
         background: #4bffa5;
     }
+
+    @media (max-width:600px) {
+        padding: 12px 12px 23px;
+        ul{
+            padding: 0;
+        }
+    }
 }
 .fl-wrap {
     float: left;
@@ -360,6 +386,10 @@
     font-weight: 900;
     font-size: 64px;
     transform: rotate(-90deg);
+    }
+
+    @media (max-width:600px) {
+        display: none;
     }
 }
 .download-resume-wrapper{
@@ -612,4 +642,7 @@
   }
   .containers{
     padding: 0 15px;
+    @media (max-width:600px) {
+        padding: 0;
+    }
   }

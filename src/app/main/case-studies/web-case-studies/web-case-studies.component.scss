@@ -5,6 +5,7 @@
     border-radius: 12px;
     background-position: 100%;
     background-size: cover;
+    max-height: calc(100vh - 350px);
 
     img {
         border-radius: 1rem;
@@ -18,6 +19,7 @@
     top: 0;
     left: 0;
     position: absolute;
+    border-radius: 12px;
 }
 
 .background-overlay {
@@ -114,7 +116,17 @@
 .project-list{
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-  gap: 20px;
+  gap: 30px;
+  @media (max-width: 600px) {
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 20px;
+    .li-case-info{
+        display: none;
+    }
+    .project-description{
+        line-height: 22px;
+    }
+  }
 }
 
 ::ng-deep{
