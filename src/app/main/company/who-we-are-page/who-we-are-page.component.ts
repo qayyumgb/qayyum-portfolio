@@ -11,7 +11,7 @@ export class WhoWeArePageComponent {
   headertagData: headerDataDto={
     title:"about ME",
     subTitle:"I am a developer <br>  that solves complex technical problems",
-    tagline:"And we love doing it"
+    // tagline:"And we love doing it"
     
   }
 }

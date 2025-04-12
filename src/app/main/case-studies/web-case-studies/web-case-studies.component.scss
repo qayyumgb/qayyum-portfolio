@@ -21,7 +21,7 @@
 }
 
 .background-overlay {
-    background: linear-gradient(90deg, rgba(32, 32, 40, 0.86) 15%, rgba(23, 23, 53, 0.83) 50%, rgba(33, 33, 44, 0.81) 100%);
+    background: rgba(0, 36, 40, 0.8588235294);
 }
 
 .banner-text {
@@ -113,7 +113,7 @@
 }
 .project-list{
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
   gap: 20px;
 }
 

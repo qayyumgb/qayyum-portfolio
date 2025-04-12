@@ -74,7 +74,7 @@
     ],
     "imgFluid": "card-common-class",
     "projectLink": "https://www.neuroascent.com/",
-    "industry": "technology"
+    "industry": "Education"
   },
   {
     "id": "fynd",
@@ -93,7 +93,7 @@
     ],
     "imgFluid": "card-common-class",
     "projectLink": "https://www.fynd.com/",
-    "industry": "technology"
+    "industry": "Marketplace"
   },
   {
     "id": "cprenroll",
@@ -112,6 +112,63 @@
     ],
     "imgFluid": "card-common-class",
     "projectLink": "https://cprenroll.com/",
+    "industry": "Medical"
+  },
+  {
+    "id": "ffa",
+    "caseName": "Web",
+    "technology": [
+      "Wordpress",
+      "Javascript",
+      "HTML/CSS"
+    ],
+    "projectTitle": "Florida FFA",
+    "ProjectDescription": "The Florida FFA Foundation helps to ensure the success of agricultural education in Florida.",
+    "ProjectImg": [
+     "ffa-1.png",
+     "ffa-3.png",
+     "ffa-3.png"
+    ],
+    "imgFluid": "card-common-class",
+    "projectLink": "https://flaffa.org/foundation/",
+    "industry": "education"
+  },
+  {
+    "id": "saufik",
+    "caseName": "Web",
+    "technology": [
+      "angular",
+      "bootstrap",
+      "HTML/CSS"
+    ],
+    "projectTitle": "Saufik Sol",
+    "ProjectDescription": "SAUFIK is a Company with two main focuses – services and products, enabling them to successfully develop solutions for both ourselves and our clients.",
+    "ProjectImg": [
+     "saufik-1.png",
+     "saufik-2.png",
+     "saufik-3.png"
+    ],
+    "imgFluid": "card-common-class",
+    "projectLink": "https://saufik.com/",
     "industry": "technology"
+  },
+  {
+    "id": "charmed",
+    "caseName": "Web",
+    "technology": [
+      "Wordpress",
+      "Javascript",
+      "HTML/CSS"
+    ],
+    "projectTitle": "Charmed Nest",
+    "ProjectDescription": "SAUFIK is a Company with two main focuses – services and products, enabling them to successfully develop solutions for both ourselves and our clients.",
+    "ProjectImg": [
+     "charmed-1.png",
+     "charmed-2.png",
+     "charmed-3.png"
+    ],
+    "imgFluid": "card-common-class",
+    "projectLink": "https://thecharmednest.net/",
+    "industry": "Service provider"
   }
 ]

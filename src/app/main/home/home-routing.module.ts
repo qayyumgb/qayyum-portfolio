@@ -4,7 +4,7 @@ import { HomePageComponent } from './home-page/home-page.component';
 import { HiringDetailComponent } from './hiring-detail/hiring-detail.component';
 
 const routes: Routes = [
-  { path: '', component: HomePageComponent },
+  { path: '',pathMatch:'full', component: HomePageComponent },
   { path: 'hiring', component: HiringDetailComponent }
 ];
 

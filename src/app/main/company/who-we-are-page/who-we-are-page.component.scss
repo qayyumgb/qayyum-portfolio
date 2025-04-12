@@ -181,21 +181,12 @@
     }
 }
 // awesome story section css
-.section-title {
-    margin-bottom: 40px;
-    font-size: 30px;
-    font-weight: 700;
-    h2{
-        font-size: 30px;
-        font-weight: 700;
-    }
-}
+
 .summary{
     line-height: 20px;
     text-align: left;
     font-weight: 400;
     padding: 10px 0px 20px;
-    border-bottom: 1px solid rgb(238, 238, 238);
     position: relative;
     font-size: 13px;
 }
@@ -276,7 +267,6 @@
     }
 }
 .custom-container{
-    max-width: 1024px;
     width: 92%;
     margin: 0 auto;
     position: relative;
@@ -348,11 +338,12 @@
     font-weight: 500;
     transition: all 200ms linear;
     background: #4bffa5;
-    color: #8c8c8e !important;
+    color: #191923 !important;
     font-size: 13px;
+    display: block;
+    width: fit-content;
     &:hover{
-        background: #292929;
-        color: #fff !important;
+        transform: scale(1.02);
     }
 }
 .ci-num {
@@ -603,4 +594,22 @@
         display: none !important;
     }
    }
+  }
+
+  
+  .bio-section h3 {
+    font-size: 1.5rem;
+    margin-top: 2rem;
+  }
+  
+  
+  .bio-section ul {
+    list-style-type: disc;
+  }
+  
+  .bio-section li {
+    margin-bottom: 0.5rem;
+  }
+  .containers{
+    padding: 0 15px;
   }
