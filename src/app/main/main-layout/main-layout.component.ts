@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./main-layout.component.scss']
 })
 export class MainLayoutComponent {
-
+  operSidePanel:boolean = false
 }

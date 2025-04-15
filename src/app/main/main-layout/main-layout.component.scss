@@ -37,23 +37,30 @@ main.saufik-main-wrapper{
 
 
 .art-info-bar {
-  background: linear-gradient(159deg, rgba(37, 37, 50, 0.98) 0%, rgba(35, 35, 45, 0.98) 100%);
   width: 290px;
   min-width: 290px;
   height: 100%;
   position: relative;
   z-index: 999;
-  // -webkit-box-shadow: 0 3px 8px 0 rgba(15, 15, 20, 0.2);
-  // box-shadow: 0 3px 8px 0 rgba(15, 15, 20, 0.2);
-  -webkit-transition: 0.55s ease-in-out;
-  transition: 0.55s ease-in-out;
+  -webkit-transition: 0.55s cubic-bezier(0.05, 0.7, 0.1, 1.0);
+  transition: 0.55s cubic-bezier(0.05, 0.7, 0.1, 1.0);
   left: 0;
-  border-radius: 12px;
     overflow: hidden;
   .art-info-bar-frame{
     height: 100%;
     display: flex;
     flex-direction: column;
+    background: linear-gradient(159deg, rgba(37, 37, 50, 0.98) 0%, rgba(35, 35, 45, 0.98) 100%);
+    width: 290px;
+    min-width: 290px;
+    height: 100%;
+    position: relative;
+    z-index: 999;
+    -webkit-transition: 0.55s ease-in-out;
+    transition: 0.55s ease-in-out;
+    left: 0;
+    border-radius: 12px;
+      overflow: hidden;
     .art-scroll-frame{
       flex: 1 1 auto;
       min-height: 1px;
@@ -79,6 +86,17 @@ main.saufik-main-wrapper{
     left: 0;
     width: 100%;
     border-top: 1px solid #ffffff26;
+  }
+  &.opened{
+    .side-bar-backdrop {
+      position: fixed;
+      z-index: 800;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+      background: #24242f57;
+  }
   }
 }
 
@@ -191,3 +209,18 @@ ul{
   padding-left: 0;
 }
 } 
+span.mobile-info-icon {
+  position: fixed;
+  right: 1rem;
+  z-index: 1000;
+  padding: 5px;
+  width: 35px;
+  height: 35px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50px;
+  bottom: 80px;
+  background: #23232f;
+  border: 1px solid rgba(0, 248, 162, .2117647059) !important;
+  box-shadow: 0 0 20px -11px #00ffa770;
+}

@@ -54,14 +54,21 @@
     bottom: -47px !important;
   }
   .home-hero-wrapper,.background-video{
-    height: 70vh !important;
+    height: 320px !important;
+  }
+  .art-info-bar:not(.opened){
+    left: -100% !important;
   }
   .art-info-bar{
-    left: -100% !important;
     position: absolute !important;
+    .art-info-bar-frame{
+      border-radius: 0 !important;
+    }
+           
   }
   .saufik-main-wrapper{
     padding: 0 !important;
+    
   }
 }
 // -------------- media query 768px -------------
@@ -310,7 +317,7 @@
   }
 }
 .home-hero-wrapper,.background-video{
-  height: 60vh !important;
+  height: 320px !important;
 }
 h1{
   line-height: 1.4;

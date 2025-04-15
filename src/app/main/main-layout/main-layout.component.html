@@ -1,6 +1,7 @@
 <main class="saufik-main-wrapper">
     <div class="portfolio-inner d-flex">
-      <div class="art-info-bar">
+      <div class="art-info-bar" [ngClass]="{'opened':operSidePanel}">
+        <div class="side-bar-backdrop d-flex d-lg-none" (click)="operSidePanel = false"></div>
         <!-- menu bar frame -->
         <div class="art-info-bar-frame">
         
@@ -277,4 +278,7 @@
       </div>
      
     </div>
+    <span class="mobile-info-icon d-flex d-lg-none" (click)="operSidePanel = !operSidePanel">
+      <i class="fa-solid fa-circle-info"></i>
+    </span>
 </main>
