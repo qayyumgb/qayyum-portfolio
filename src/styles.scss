@@ -3,6 +3,7 @@
 // @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 @import "./assets/variable.scss";
 @import '/src/responsive.scss';
+@import '/src/light_mode_style.scss';
 // @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
 // @import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
@@ -36,7 +37,7 @@ html,body{
   }
 }
 .text-primary{
-  color: $primaryColor !important;
+  color: $primaryColor;
 }
 .bg-primary{
   background-color: $primaryColor !important;
@@ -254,7 +255,7 @@ html,body{
     margin: 0;
     .owl-prev,
     .owl-next{
-      background-color: #191923 !important;
+      background-color: #191923;
       border: 1px solid #4bffa5;
       border-radius: 9px !important;
       display: flex !important;
@@ -268,7 +269,7 @@ html,body{
       bottom: 0px;
       margin: auto !important;
       &:hover{
-        background-color: $primaryColor !important;
+        background-color: $primaryColor;
         i{
         color: white;
 

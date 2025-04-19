@@ -8,6 +8,14 @@
 
           <!-- info bar header -->
           <div class="art-header">
+            <div class="pe-3 toggle-to-light">
+              <input type="checkbox" class="checkbox" id="checkbox" (change)="onToggleChange($event)">
+              <label for="checkbox" class="checkbox-label">
+                <i class="fas fa-moon"></i>
+                <i class="fas fa-sun"></i>
+                <span class="ball"></span>
+              </label>
+            </div>
             <!-- avatar -->
             <div class="art-avatar">
               <a

@@ -98,6 +98,49 @@ main.saufik-main-wrapper{
       background: #24242f57;
   }
   }
+
+  .toggle-to-light{
+    position: absolute;
+    right: -7px;
+    top: 7px;
+    cursor: pointer;
+  }
+.checkbox {
+  opacity: 0;
+  position: absolute;
+}
+
+.checkbox-label {
+  background-color: #111;
+  width: 50px;
+  height: 26px;
+  border-radius: 50px;
+  position: relative;
+  padding: 5px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.fa-moon {color: #f1c40f;}
+
+.fa-sun {color: #f39c12;}
+
+.checkbox-label .ball {
+  background-color: #fff;
+  width: 22px;
+  height: 22px;
+  position: absolute;
+  left: 2px;
+  top: 2px;
+  border-radius: 50%;
+  transition: transform 0.2s linear;
+}
+
+.checkbox:checked + .checkbox-label .ball {
+  transform: translateX(24px);
+}
 }
 
 .art-info-bar .art-header {
@@ -109,10 +152,7 @@ main.saufik-main-wrapper{
   max-width: 270px;
   border: 1px solid #4bffa524 !important;
   border-radius: 6px;
-  // background: linear-gradient(159deg, rgba(37, 37, 50, 0.98) 0%, rgba(35, 35, 45, 0.98) 100%);
-  // text-align: center;
-  // -webkit-box-shadow: 0 1px 4px 0 rgba(15, 15, 20, 0.1);
-  // box-shadow: 0 1px 4px 0 rgba(15, 15, 20, 0.1);
+ position: relative;
 }
 
 /* line 22, ../scss/_info-bar.scss */

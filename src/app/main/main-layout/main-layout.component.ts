@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./main-layout.component.scss']
 })
 export class MainLayoutComponent {
-  operSidePanel:boolean = false
+  operSidePanel:boolean = false;
+
+  onToggleChange(event:any){debugger
+    event.target.checked?document.body.classList.add('profile-light-mode'):document.body.classList.remove('profile-light-mode')
+    console.log(event)
+  }
 }

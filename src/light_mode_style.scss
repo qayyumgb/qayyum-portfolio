@@ -1,0 +1,137 @@
+
+.profile-light-mode{
+    scroll-behavior: auto !important;
+        height: 100%;
+        color: #212529 !important;
+        background: #fff;
+a {
+    opacity: 0.8 !important;
+}
+
+.light-background,
+.saufik-main-wrapper,
+.project-info-card,
+.offer-tabs-inner,
+.client-review-container,
+.owl-theme .owl-nav {
+    background: #fff !important;
+}
+
+.light-mode-text-dark {
+    color: #212529 !important;
+}
+
+.header_nav_manu,
+.art-info-bar-frame {
+    background: linear-gradient(159deg, rgba(255, 255, 255, 0.98) 0%, rgba(245, 245, 245, 0.98) 100%) !important;
+    box-shadow: 0 3px 8px 0 rgba(15, 15, 20, 0.1);
+}
+
+.header-menu>ul>li>a {
+    color: #212529 !important;
+}
+
+.art-name {
+    a {
+        color: #212529 !important;
+    }
+}
+
+.responsive-container-wrapper {
+    .card {
+        background: #fff !important;
+    }
+
+    .desc,
+    .info {
+        color: #212529 !important;
+    }
+}
+
+.btn-rounded-sm,
+.btn-rounded,
+.learn-more-btn {
+    background: #0ec86b !important;
+    border: 1px solid #0ec86b !important;
+}
+
+.custom-inner-content,
+.resum-header {
+    background: linear-gradient(159deg, rgb(37 37 50 / 0%) 0%, rgb(35 35 45 / 3%) 100%) !important;
+}
+
+.art-sm-text,
+.primary-text-color,
+span.exp-item-count,
+.art-knowledge-list li:before,
+.header-menu>ul>li>a.active,
+.offer-tabs-inner .icons,
+.offer-tabs-inner-title,
+.client-review h5,
+.li-case-info span,
+.project-name a:hover,
+.link-txt,
+.text-primary {
+    color: #0ec86b !important;
+}
+
+.offer-tabs-inner,
+.client-review-container {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px !important;
+    background-color: #fff !important;
+}
+
+.client-initials {
+    border: 3px solid #0ec86b !important;
+    box-shadow: 0px 0px 0px 5px rgb(36 173 104 / 25%) !important;
+}
+
+.owl-nav .owl-next,
+.owl-nav .owl-prev,
+.offer-tabs-inner:hover {
+    border: 1px solid #0ec86b !important;
+}
+
+.owl-nav .owl-prev,
+.owl-nav .owl-next,
+.owl-nav .owl-next,
+.unordered_list li,
+.resum-header i,
+.cus-inner-head-link,
+.btn-download {
+    background-color: #0ec86b !important;
+}
+
+.owl-nav .owl-next i,
+.owl-nav .owl-prev i {
+    color: #fff !important;
+}
+
+.owl-nav {
+
+    .owl-next,
+    .owl-prev {
+        &:hover {
+            background-color: #04a956 !important;
+        }
+    }
+}
+
+.resum-header {
+    &::after {
+        border-color: #0ec86b !important;
+    }
+}
+
+.technology-tools {
+    .tech-img {
+        background: linear-gradient(159deg, rgba(255, 255, 255, 0.98) 0%, rgba(245, 245, 245, 0.98) 100%) !important;
+        box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px !important;
+        border: none !important;
+
+        &:hover {
+            background-image: radial-gradient(circle closest-corner at 50% 100%, hsla(0, 0%, 100%, 0.8), rgba(245, 245, 250, 0.9)) !important;
+        }
+    }
+}
+}
