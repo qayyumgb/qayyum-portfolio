@@ -14,7 +14,6 @@ export class SoftwareDevComponent implements OnInit {
   id:any;
   serviceDetailData:any
   constructor(private activatedRoute: ActivatedRoute, private router: Router, private dataService:JsonDataService) {
-    debugger
     this.router.events.subscribe(event => {
       if (event instanceof NavigationEnd) {
         // Handle route change here

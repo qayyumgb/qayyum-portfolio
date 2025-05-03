@@ -7,6 +7,7 @@ import { WhoWeArePageComponent } from './company/who-we-are-page/who-we-are-page
 import { SaufikServiceModule } from './saufik-service/saufik-service.module';
 import { SaufikServicesComponent } from './home/saufik-services/saufik-services.component';
 import { PortfolioSkillsComponent } from './company/portfolio-skills/portfolio-skills.component';
+import {ContactUsComponent} from './home/contact-us/contact-us.component';
 
 const routes: Routes = [
   {
@@ -18,6 +19,7 @@ const routes: Routes = [
       {path:'projects',pathMatch:'full', component:WebCaseStudiesComponent},
       {path:'about',pathMatch:'full', component:WhoWeArePageComponent},
       {path:'skills',pathMatch:'full', component:PortfolioSkillsComponent},
+      {path:'contact',pathMatch:'full', component:ContactUsComponent},
       { path: 'careers', loadChildren: () => import('./careers/careers.module').then(m => m.CareersModule) },
       { path: 'company', loadChildren: () => import('./company/company.module').then(m => m.CompanyModule) },
       { path: 'case-studies', loadChildren: () => import('./case-studies/case-studies.module').then(m => m.CaseStudiesModule) },

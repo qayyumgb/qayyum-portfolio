@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 export class MainLayoutComponent {
   operSidePanel:boolean = false;
 
-  onToggleChange(event:any){debugger
+  onToggleChange(event:any){
     event.target.checked?document.body.classList.add('profile-light-mode'):document.body.classList.remove('profile-light-mode')
     console.log(event)
   }

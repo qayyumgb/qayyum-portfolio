@@ -12,8 +12,7 @@ a {
 .saufik-main-wrapper,
 .project-info-card,
 .offer-tabs-inner,
-.client-review-container,
-.owl-theme .owl-nav {
+.client-review-container {
     background: #fff !important;
 }
 
@@ -23,8 +22,7 @@ a {
 
 .header_nav_manu,
 .art-info-bar-frame {
-    background: linear-gradient(159deg, rgba(255, 255, 255, 0.98) 0%, rgba(245, 245, 245, 0.98) 100%) !important;
-    box-shadow: 0 3px 8px 0 rgba(15, 15, 20, 0.1);
+    background: linear-gradient(159deg, rgb(231 244 242 / 98%) 0%, rgb(237 237 237 / 98%) 100%) !important;
 }
 
 .header-menu>ul>li>a {
@@ -77,8 +75,7 @@ span.exp-item-count,
 
 .offer-tabs-inner,
 .client-review-container {
-    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px !important;
-    background-color: #fff !important;
+    background: linear-gradient(159deg, rgb(231 244 242 / 98%) 0%, rgb(237 237 237 / 98%) 100%) !important;
 }
 
 .client-initials {
@@ -125,9 +122,7 @@ span.exp-item-count,
 
 .technology-tools {
     .tech-img {
-        background: linear-gradient(159deg, rgba(255, 255, 255, 0.98) 0%, rgba(245, 245, 245, 0.98) 100%) !important;
-        box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 2px 0px !important;
-        border: none !important;
+        background: linear-gradient(159deg, rgb(231 244 242 / 98%) 0%, rgb(237 237 237 / 98%) 100%) !important;
 
         &:hover {
             background-image: radial-gradient(circle closest-corner at 50% 100%, hsla(0, 0%, 100%, 0.8), rgba(245, 245, 250, 0.9)) !important;
